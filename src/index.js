@@ -167,6 +167,9 @@ class PrimaryWeaponListTracker extends React.Component {
     }
 }
 
+// Sort the weapon list
+primaryWeapons.sort(function(first, second) { return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 ); });
+
 ReactDOM.render(
     <PrimaryWeaponListTracker weaponInfo={primaryWeapons} />,
     document.getElementById('root')
