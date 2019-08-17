@@ -156,11 +156,14 @@ class PrimaryWeaponListTracker extends React.Component {
     render() {
         var rows = this.props.weaponInfo.map(this.renderOneWeapon);
 
-        return <table>
-            <tbody>
-            {rows}
-            </tbody>
-            </table>
+        return <div>
+                <div className="heading">PRIMARY WEAPONS</div>
+                <table>
+                    <tbody>
+                    {rows}
+                    </tbody>
+                </table>
+            </div>
     }
 }
 
