@@ -129,15 +129,24 @@ class PrimaryWeaponTracker extends React.Component {
         }
 
         var storageKey = this.formatWeaponLocalStorageKey();
+        var result;
 
-        return <tr>
-            <ClickableItemCell storageKey={storageKey} text={this.props.weaponInfo.weaponName} onCheckedUpdate={this.onCheckedUpdate}/>
-            <td className={completionClass}>
-                {this.props.weaponInfo.acquisition}
-            </td>
-            {rows}
+        if ((! this.state.checked) || (! this.props.hideCompleted )) {
+            result = <tr>
+                <ClickableItemCell storageKey={storageKey} text={this.props.weaponInfo.weaponName}
+                                   onCheckedUpdate={this.onCheckedUpdate}/>
+                <td className={completionClass}>
+                    {this.props.weaponInfo.acquisition}
+                </td>
+                {rows}
             </tr>
             ;
+        } else {
+            result = null;
+            console.log("skipping completed " + this.props.weaponInfo.weaponName + "; checked-state=" + this.state.checked);
+        }
+
+        return result;
     }
 }
 
@@ -145,12 +154,20 @@ class PrimaryWeaponListTracker extends React.Component {
     constructor(props) {
         super(props);
         this.renderOneWeapon = this.renderOneWeapon.bind(this);
+        this.onShowHiddenUpdate = this.onShowHiddenUpdate.bind(this);
+
+        this.state = { hideCompleted : true };
     }
 
     renderOneWeapon(weaponInfo, index) {
         var weaponKey = "primary-weapon-" + index;
-        return <PrimaryWeaponTracker key={weaponKey} weaponKey={weaponKey} weaponInfo={weaponInfo} />
+        return <PrimaryWeaponTracker key={weaponKey} weaponKey={weaponKey} weaponInfo={weaponInfo} hideCompleted={this.state.hideCompleted} />
             ;
+    }
+
+    onShowHiddenUpdate(event) {
+        var newState = (! this.state.hideCompleted);
+        this.setState({hideCompleted : newState})
     }
 
     render() {
@@ -158,6 +175,7 @@ class PrimaryWeaponListTracker extends React.Component {
 
         return <div>
                 <div className="heading">PRIMARY WEAPONS</div>
+                <button onClick={this.onShowHiddenUpdate}>HIDE COMPLETED</button>
                 <table>
                     <tbody>
                     {rows}
