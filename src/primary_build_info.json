@@ -2,10 +2,10 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "8 Fieldron",
             "600 plastids",
-            "9.000 ferrite"
+            "9,000 ferrite"
         ],
         "weaponName": "Amprex",
         "weaponType": "Rifle (continuous)"
@@ -13,7 +13,7 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "5 Fieldron",
             "25 control module",
             "925 cryotic"
@@ -24,18 +24,18 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Detonite injector",
             "700 plastids",
-            "9.950 alloy plate"
+            "9,950 alloy plate"
         ],
         "weaponName": "Argonak",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "4 tellurium",
             "875 plastids",
             "175 oxium"
@@ -46,7 +46,7 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "2 morphics",
             "800 ferrite",
             "200 rubedo"
@@ -57,7 +57,7 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "10 Fieldron",
             "40 Tepa nodule",
             "25 heart noctrul"
@@ -68,9 +68,9 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "20.000 cr",
-            "3.500 ferrite",
-            "4.300 alloy plate",
+            "20,000 cr",
+            "3,500 ferrite",
+            "4,300 alloy plate",
             "575 cryotic"
         ],
         "weaponName": "Baza",
@@ -79,7 +79,7 @@
     {
         "acquisition": "drops from Drekar Troopers (Uranus)",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "6 morphics",
             "900 alloy plate",
             "750 salvage"
@@ -90,7 +90,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -99,9 +99,9 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "15.000 cr on the Market",
+        "acquisition": "15,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "2 neurodes",
             "100 alloy plate",
             "900 salvage"
@@ -112,7 +112,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -121,7 +121,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "25.000 cr on the Market",
+        "acquisition": "25,000 cr on the Market",
         "parts": [],
         "weaponName": "Braton",
         "weaponType": "Rifle"
@@ -129,7 +129,7 @@
     {
         "acquisition": "Void relic",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -140,7 +140,7 @@
     {
         "acquisition": "Beta tester reward; Sanctuary Onslaught reward",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "barrel",
             "receiver"
         ],
@@ -148,9 +148,9 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "15.000 cr on the Market",
+        "acquisition": "15,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "1 morphics",
             "400 polymer bundle",
             "150 alloy plate"
@@ -161,7 +161,7 @@
     {
         "acquisition": "Void relic",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -172,18 +172,18 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "2 Detonite injector",
-            "5.000 salvage",
+            "5,000 salvage",
             "600 circuits"
         ],
         "weaponName": "Buzlok",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "3 gallium",
             "700 plastids",
             "600 polymer bundle"
@@ -194,7 +194,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "grip",
             "string",
             "lower limb",
@@ -206,7 +206,7 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Fieldron",
             "10 control module",
             "900 oxium"
@@ -215,11 +215,11 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "25.000 cr on the Market",
+        "acquisition": "25,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "2 nitain extract",
-            "13.000 alloy plate",
+            "13,000 alloy plate",
             "6 gallium"
         ],
         "weaponName": "Corinth",
@@ -228,7 +228,7 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "2 neurodes",
             "1 Forma",
             "300 rubedo"
@@ -239,10 +239,10 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "2 Fieldron",
             "600 circuits",
-            "4.500 ferrite"
+            "4,500 ferrite"
         ],
         "weaponName": "Dera",
         "weaponType": "Rifle"
@@ -250,7 +250,7 @@
     {
         "acquisition": "Event reward; possible invasion reward",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "barrel",
             "receiver"
         ],
@@ -264,12 +264,12 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "30.000 cr on the Market",
+        "acquisition": "30,000 cr on the Market",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 morphics",
             "950 alloy plate",
-            "5.500 nano spores"
+            "5,500 nano spores"
         ],
         "weaponName": "Drakgoon",
         "weaponType": "Shotgun"
@@ -277,7 +277,7 @@
     {
         "acquisition": "drops from Stalker",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "6 morphics",
             "900 circuits",
             "750 polymer bundle"
@@ -286,9 +286,9 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "2 argon crystal",
             "2 Repeller systems",
             "175 oxium"
@@ -299,10 +299,10 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "5 Fieldron",
             "900 circuits",
-            "6.000 ferrite"
+            "6,000 ferrite"
         ],
         "weaponName": "Flux Rifle",
         "weaponType": "Rifle (continuous)"
@@ -310,10 +310,10 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "1 Fieldron",
             "550 circuits",
-            "2.500 cryotic"
+            "2,500 cryotic"
         ],
         "weaponName": "Glaxion",
         "weaponType": "Rifle (continuous)"
@@ -321,10 +321,10 @@
     {
         "acquisition": "drops from Heavy Gunners and their variants",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "5 morphics",
-            "5.000 ferrite",
-            "6.000 salvage"
+            "5,000 ferrite",
+            "6,000 salvage"
         ],
         "weaponName": "Gorgon",
         "weaponType": "Rifle"
@@ -332,7 +332,7 @@
     {
         "acquisition": "Event reward; currently unavailable",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "barrel",
             "receiver"
         ],
@@ -340,9 +340,9 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "15.000 cr on the Market",
+        "acquisition": "15,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "2 neurodes",
             "400 alloy plate",
             "900 salvage"
@@ -353,32 +353,32 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Detonite injector",
-            "5.000 polymer bundle",
-            "5.000 ferrite"
+            "5,000 polymer bundle",
+            "5,000 ferrite"
         ],
         "weaponName": "Grinlok",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40.000 cr on the Market",
+        "acquisition": "40,000 cr on the Market",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "2 argon crystal",
             "5 gallium",
-            "6.000 nano spores"
+            "6,000 nano spores"
         ],
         "weaponName": "Harpak",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "25.000 cr on the Market",
+        "acquisition": "25,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "5 neurodes",
             "900 circuits",
-            "1.200 salvage"
+            "1,200 salvage"
         ],
         "weaponName": "Hek",
         "weaponType": "Shotgun"
@@ -386,21 +386,21 @@
     {
         "acquisition": "Bio Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 mutagen mass",
-            "50.000 salvage",
-            "5.000 circuits"
+            "50,000 salvage",
+            "5,000 circuits"
         ],
         "weaponName": "Hema",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40.000 cr on the Market",
+        "acquisition": "40,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "6 neurodes",
             "700 circuits",
-            "1.000 salvage"
+            "1,000 salvage"
         ],
         "weaponName": "Hind",
         "weaponType": "Rifle"
@@ -408,10 +408,10 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "2 Detonite injector",
-            "5.000 nano spores",
-            "5.000 ferrite"
+            "5,000 nano spores",
+            "5,000 ferrite"
         ],
         "weaponName": "Ignis",
         "weaponType": "Rifle (continuous)"
@@ -419,10 +419,10 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Detonite injector",
-            "10.000 ferrite",
-            "5.000 rubedo"
+            "10,000 ferrite",
+            "5,000 rubedo"
         ],
         "weaponName": "Ignis Wraith",
         "weaponType": "Rifle (continuous)"
@@ -430,18 +430,18 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Detonite injector",
             "5 nitain extract",
-            "10.000 alloy plate"
+            "10,000 alloy plate"
         ],
         "weaponName": "Javlok",
         "weaponType": "Speargun"
     },
     {
-        "acquisition": "30.000 cr on the Market",
+        "acquisition": "30,000 cr on the Market",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "2 neurodes",
             "400 alloy plate",
             "900 salvage"
@@ -452,7 +452,7 @@
     {
         "acquisition": "Event reward; possible invasion reward",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "barrel",
             "receiver"
         ],
@@ -460,10 +460,10 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
-            "2.500 salvage",
+            "20,000 cr",
+            "2,500 salvage",
             "500 oxium",
             "500 cryotic"
         ],
@@ -473,7 +473,7 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Fieldron",
             "20 gallium",
             "600 alloy plate"
@@ -482,12 +482,12 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "5 morphics",
             "800 plastids",
-            "1.000 alloy plate"
+            "1,000 alloy plate"
         ],
         "weaponName": "Latron",
         "weaponType": "Rifle"
@@ -495,7 +495,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -512,10 +512,10 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "10 Fieldron",
-            "8.200 alloy plate",
-            "2.400 cryotic"
+            "8,200 alloy plate",
+            "2,400 cryotic"
         ],
         "weaponName": "Lenz",
         "weaponType": "Bow"
@@ -523,7 +523,7 @@
     {
         "acquisition": "drops from Lech Kril + Captain Vor (Ceres)",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "blade",
             "chassis"
@@ -532,30 +532,30 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "15.000 cr on the Market",
+        "acquisition": "15,000 cr on the Market",
         "parts": [],
         "weaponName": "MK1 Braton",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "15.000 cr on the Market",
+        "acquisition": "15,000 cr on the Market",
         "parts": [],
         "weaponName": "MK1 Paris",
         "weaponType": "Bow"
     },
     {
-        "acquisition": "15.000 cr on the Market",
+        "acquisition": "15,000 cr on the Market",
         "parts": [],
         "weaponName": "MK1 Strun",
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "Cernos",
-            "1.400 plastids",
-            "1.200 cryotic"
+            "1,400 plastids",
+            "1,200 cryotic"
         ],
         "weaponName": "Mutalist Cernos",
         "weaponType": "Bow"
@@ -563,21 +563,21 @@
     {
         "acquisition": "Bio Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 mutagen mass",
-            "15.000 nano spores",
-            "1.200 circuits"
+            "15,000 nano spores",
+            "1,200 circuits"
         ],
         "weaponName": "Mutalist Quanta",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40.000 cr on the Market",
+        "acquisition": "40,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "3 neurodes",
             "4 gallium",
-            "3.000 nano spores"
+            "3,000 nano spores"
         ],
         "weaponName": "Nagantaka",
         "weaponType": "Bow"
@@ -585,9 +585,9 @@
     {
         "acquisition": "Chem Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Detonite injector",
-            "5.000 salvage",
+            "5,000 salvage",
             "600 alloy plate"
         ],
         "weaponName": "Ogris",
@@ -596,7 +596,7 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 Fieldron",
             "20 gallium",
             "600 cryotic"
@@ -611,9 +611,9 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "1 Orokin cell",
             "600 polymer bundle",
             "Hikou"
@@ -624,18 +624,18 @@
     {
         "acquisition": "Bio Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 mutagen mass",
-            "15.000 nano spores",
-            "1.200 circuits"
+            "15,000 nano spores",
+            "1,200 circuits"
         ],
         "weaponName": "Paracyst",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "3 morphics",
             "600 plastids",
             "700 polymer bundle"
@@ -646,7 +646,7 @@
     {
         "acquisition": "Void relic",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "grip",
             "string",
             "upper limb"
@@ -655,12 +655,12 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "30.000 cr on the Market",
+        "acquisition": "30,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "3 control module",
-            "1.000 circuits",
-            "1.200 ferrite"
+            "1,000 circuits",
+            "1,200 ferrite"
         ],
         "weaponName": "Penta",
         "weaponType": "Launcher"
@@ -668,18 +668,18 @@
     {
         "acquisition": "Bio Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "4 mutagen mass",
-            "1.500 circuits",
-            "6.000 nano spores"
+            "1,500 circuits",
+            "6,000 nano spores"
         ],
         "weaponName": "Phage",
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "25.000 cr on the Market",
+        "acquisition": "25,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "2 argon crystal",
             "10 Intact Sentient core",
             "650 plastids"
@@ -688,25 +688,25 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "50.000 cr, 600 Ducats to Baro Ki'Teer",
+        "acquisition": "50,000 cr, 600 Ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Prisma Gorgon",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "220.000 cr, 500 Ducats to Baro Ki'Teer",
+        "acquisition": "220,000 cr, 500 Ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Prisma Grinlok",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "100.000 cr, 610 Ducats to Baro Ki'Teer",
+        "acquisition": "100,000 cr, 610 Ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Prisma Grakata",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "50.000 cr, 400 Ducats to Baro Ki'Teer",
+        "acquisition": "50,000 cr, 400 Ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Prisma Tetra",
         "weaponType": "Rifle"
@@ -714,16 +714,16 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "7 Fieldron",
-            "1.000 circuits",
-            "7.000 salvage"
+            "1,000 circuits",
+            "7,000 salvage"
         ],
         "weaponName": "Quanta",
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Event reward; 300.000 cr, 450 Ducats to Baro Ki'Teer",
+        "acquisition": "Event reward; 300,000 cr, 450 Ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Quanta Vandal",
         "weaponType": "Rifle (continuous)"
@@ -731,26 +731,26 @@
     {
         "acquisition": "drops from Ghouls (Plains of Eidolon); Ghoul Purge b",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "75 grokdrul",
             "15 fersteel alloy",
-            "12.450 salvage"
+            "12,450 salvage"
         ],
         "weaponName": "Quartakk",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "125.000 Standing to Red Veil",
+        "acquisition": "125,000 Standing to Red Veil",
         "parts": [],
         "weaponName": "Rakta Cernos",
         "weaponType": "Bow"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
-            "3.800 salvage",
-            "1.300 polymer bundle",
+            "20,000 cr",
+            "3,800 salvage",
+            "1,300 polymer bundle",
             "900 rubedo"
         ],
         "weaponName": "Rubico",
@@ -759,7 +759,7 @@
     {
         "acquisition": "Void relic",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -768,13 +768,13 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "125.000 Standing to New Loka",
+        "acquisition": "125,000 Standing to New Loka",
         "parts": [],
         "weaponName": "Sancti Tigris",
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "125.000 Standing to Perrin Sequence",
+        "acquisition": "125,000 Standing to Perrin Sequence",
         "parts": [],
         "weaponName": "Secura Penta",
         "weaponType": "Launcher"
@@ -782,19 +782,19 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "2 nitain extract",
-            "2.500 circuits",
+            "2,500 circuits",
             "350 oxium"
         ],
         "weaponName": "Scourge",
         "weaponType": "Speargun"
     },
     {
-        "acquisition": "75.000 Standing to Cephalon Simaris",
+        "acquisition": "75,000 Standing to Cephalon Simaris",
         "parts": [
-            "20.000 cr",
-            "1.200 ferrite",
+            "20,000 cr",
+            "1,200 ferrite",
             "850 polymer bundle",
             "1 Orokin cell"
         ],
@@ -804,10 +804,10 @@
     {
         "acquisition": "Event reward; currently unavailable",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "5 morphics",
             "900 plastids",
-            "1.200 salvage"
+            "1,200 salvage"
         ],
         "weaponName": "Snipetron",
         "weaponType": "Sniper"
@@ -815,7 +815,7 @@
     {
         "acquisition": "Event reward; possible invasion reward",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "barrel",
             "receiver"
         ],
@@ -823,9 +823,9 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "25.000 cr on the Market",
+        "acquisition": "25,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "5 neurodes",
             "500 circuits",
             "900 salvage"
@@ -834,12 +834,12 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "50.000 cr on the Market",
+        "acquisition": "50,000 cr on the Market",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "7 morphics",
             "850 plastids",
-            "1.200 rubedo"
+            "1,200 rubedo"
         ],
         "weaponName": "Soma",
         "weaponType": "Rifle"
@@ -847,7 +847,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -856,11 +856,11 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
-            "15.000 ferrite",
-            "8.000 polymer bundle",
+            "20,000 cr",
+            "15,000 ferrite",
+            "8,000 polymer bundle",
             "3 neural sensors"
         ],
         "weaponName": "Stradavar",
@@ -869,7 +869,7 @@
     {
         "acquisition": "Void relic",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -878,7 +878,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "25.000 cr on the Market",
+        "acquisition": "25,000 cr on the Market",
         "parts": [],
         "weaponName": "Strun",
         "weaponType": "Shotgun"
@@ -886,7 +886,7 @@
     {
         "acquisition": "Event reward; possible invasion reward",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "barrel",
             "receiver"
         ],
@@ -896,16 +896,16 @@
     {
         "acquisition": "Energy Research",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "7 Fieldron",
-            "1.000 alloy plate",
-            "7.000 salvage"
+            "1,000 alloy plate",
+            "7,000 salvage"
         ],
         "weaponName": "Supra",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Event reward; 275.000 cr, 500 ducats to Baro Ki'Teer",
+        "acquisition": "Event reward; 275,000 cr, 500 ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Supra Vandal",
         "weaponType": "Rifle"
@@ -913,7 +913,7 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "2 morphics",
             "800 salvage",
             "200 rubedo"
@@ -924,7 +924,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -935,22 +935,22 @@
     {
         "acquisition": "Bio Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "5 mutagen mass",
-            "30.000 salvage",
-            "3.500 circuits"
+            "30,000 salvage",
+            "3,500 circuits"
         ],
         "weaponName": "Synapse",
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "125.000 Standing to Cephalon Suda",
+        "acquisition": "125,000 Standing to Cephalon Suda",
         "parts": [],
         "weaponName": "Synoid Simulor",
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "125.000 Standing to Arbiters of Hexis",
+        "acquisition": "125,000 Standing to Arbiters of Hexis",
         "parts": [],
         "weaponName": "Telos Boltor",
         "weaponType": "Rifle"
@@ -958,18 +958,18 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "5 neurodes",
-            "15.000 salvage",
-            "4.000 rubedo"
+            "15,000 salvage",
+            "4,000 rubedo"
         ],
         "weaponName": "Tenora",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "30.000 cr on the Market",
+        "acquisition": "30,000 cr on the Market",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "2 control module",
             "400 alloy plate",
             "900 ferrite"
@@ -978,9 +978,9 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "Latron",
             "650 plastids",
             "600 rubedo"
@@ -991,7 +991,7 @@
     {
         "acquisition": "Void relic",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -1000,12 +1000,12 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40.000 cr on the Market",
+        "acquisition": "40,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "3 Orokin cell",
             "900 circuits",
-            "1.200 salvage"
+            "1,200 salvage"
         ],
         "weaponName": "Tigris",
         "weaponType": "Shotgun"
@@ -1013,7 +1013,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -1022,10 +1022,10 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "30.000 cr on the Market",
+        "acquisition": "30,000 cr on the Market",
         "parts": [
-            "60.000 cr",
-            "1.500 salvage",
+            "60,000 cr",
+            "1,500 salvage",
             "200 oxium",
             "800 cryotic"
         ],
@@ -1035,21 +1035,21 @@
     {
         "acquisition": "Bio Research",
         "parts": [
-            "30.000 cr",
+            "30,000 cr",
             "2 mutagen mass",
-            "4.500 salvage",
+            "4,500 salvage",
             "600 circuits"
         ],
         "weaponName": "Torid",
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "40.000 cr on the Market",
+        "acquisition": "40,000 cr on the Market",
         "parts": [
-            "25.000 cr",
+            "25,000 cr",
             "4 neurodes",
             "4 Orokin cell",
-            "3.000 nano spores"
+            "3,000 nano spores"
         ],
         "weaponName": "Vectis",
         "weaponType": "Sniper"
@@ -1057,7 +1057,7 @@
     {
         "acquisition": "Prime Vault; currently unavailable",
         "parts": [
-            "15.000 cr",
+            "15,000 cr",
             "barrel",
             "receiver",
             "stock"
@@ -1068,44 +1068,44 @@
     {
         "acquisition": "Tenno Research",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "10 morphics",
             "600 cryotic",
-            "7.250 ferrite"
+            "7,250 ferrite"
         ],
         "weaponName": "Veldt",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "125.000 Standing to Steel Meridian",
+        "acquisition": "125,000 Standing to Steel Meridian",
         "parts": [],
         "weaponName": "Vaykor Hek",
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
+            "20,000 cr",
             "5 morphics",
             "800 circuits",
-            "1.200 salvage"
+            "1,200 salvage"
         ],
         "weaponName": "Vulkar",
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Event reward; 300.000 cr, 450 ducats to Baro Ki'Teer",
+        "acquisition": "Event reward; 300,000 cr, 450 ducats to Baro Ki'Teer",
         "parts": [],
         "weaponName": "Vulkar Wraith",
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "30.000 cr on the Market",
+        "acquisition": "30,000 cr on the Market",
         "parts": [
-            "30.000 cr",
-            "1.800 kuva",
-            "2.400 alloy plate",
-            "5.500 salvage"
+            "30,000 cr",
+            "1,800 kuva",
+            "2,400 alloy plate",
+            "5,500 salvage"
         ],
         "weaponName": "Zarr",
         "weaponType": "Launcher"
@@ -1117,10 +1117,10 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20.000 cr on the Market",
+        "acquisition": "20,000 cr on the Market",
         "parts": [
-            "20.000 cr",
-            "2.800 cryotic",
+            "20,000 cr",
+            "2,800 cryotic",
             "900 polymer bundle",
             "2 nitain extract"
         ],
