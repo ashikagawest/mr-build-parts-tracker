@@ -23,6 +23,10 @@ secondaryWeapons.sort(
     function (first, second) {
         return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 );
     });
+meleeWeapons.sort(
+    function (first, second) {
+        return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 );
+    });
 
 ReactDOM.render(
     <div>
