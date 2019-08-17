@@ -1,27 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ClickableItemCell from './ClickableItemCell.js';
+import WeaponPartTracker from './WeaponPartTracker.js';
 
-// <PrimaryWeaponPartTracker weaponInfo={weaponInfo} partName={partName}/>
-class PrimaryWeaponPartTracker extends React.Component {
-    constructor(props) {
-        super(props);
-
-        this.formatPartLocalStorageKey = this.formatPartLocalStorageKey.bind(this);
-    }
-
-    formatPartLocalStorageKey() {
-        return "wf-mr-build-parts-tracker//" + this.props.weaponInfo.weaponName + "|" + this.props.partName;
-    }
-
-    render() {
-        var partStgKey = this.formatPartLocalStorageKey();
-
-        return  <ClickableItemCell storageKey={partStgKey} text={this.props.partName}/>
-    }
-}
-
-class PrimaryWeaponTracker extends React.Component {
+class WeaponTracker extends React.Component {
     constructor(props) {
         super(props);
 
@@ -38,7 +20,7 @@ class PrimaryWeaponTracker extends React.Component {
 
     renderOnePart(partName, index) {
         var partKey = this.props.weaponKey + "-" + index;
-        return <PrimaryWeaponPartTracker weaponInfo={this.props.weaponInfo} partName={partName} key={partKey} partKey={partKey}/>
+        return <WeaponPartTracker weaponInfo={this.props.weaponInfo} partName={partName} key={partKey} partKey={partKey}/>
     }
 
     onCheckedUpdate(newCheckedState) {
@@ -77,4 +59,4 @@ class PrimaryWeaponTracker extends React.Component {
     }
 }
 
-export default PrimaryWeaponTracker;
+export default WeaponTracker;

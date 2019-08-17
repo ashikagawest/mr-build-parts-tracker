@@ -20,8 +20,10 @@
 * [ ] Add Kavats
 * [ ] Add MOAs
 * [ ] Missing Items
-  *  [ ] Ferrox
-  *  [ ] Fulmin
-  *  [ ] Glaxion Vandal
-  *  [ ] Zhuge Prime
+  * [ ] Ferrox
+  * [ ] Fulmin
+  * [ ] Glaxion Vandal
+  * [ ] Zhuge Prime
+  * [ ] Quatz
+  * [ ] Spectra Vandal
 * [ ] Add total XP counter

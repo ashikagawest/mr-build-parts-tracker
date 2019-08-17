@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ClickableItemCell from './ClickableItemCell.js';
-import PrimaryWeaponTracker from './PrimaryWeaponTracker.js';
+import WeaponTracker from './WeaponTracker.js';
 
-class PrimaryWeaponListTracker extends React.Component {
+class WeaponListTracker extends React.Component {
     constructor(props) {
         super(props);
         this.renderOneWeapon = this.renderOneWeapon.bind(this);
@@ -13,8 +13,8 @@ class PrimaryWeaponListTracker extends React.Component {
     }
 
     renderOneWeapon(weaponInfo, index) {
-        var weaponKey = "primary-weapon-" + index;
-        return <PrimaryWeaponTracker key={weaponKey} weaponKey={weaponKey} weaponInfo={weaponInfo} hideCompleted={this.state.hideCompleted} />
+        var weaponKey = this.props.keyPrefix + index;
+        return <WeaponTracker key={weaponKey} weaponKey={weaponKey} weaponInfo={weaponInfo} hideCompleted={this.state.hideCompleted} />
             ;
     }
 
@@ -25,9 +25,11 @@ class PrimaryWeaponListTracker extends React.Component {
 
     render() {
         var rows = this.props.weaponInfo.map(this.renderOneWeapon);
+        var total = this.props.weaponInfo.length;
 
         return <div>
-                <div className="heading">PRIMARY WEAPONS</div>
+                <div className="heading">{this.props.weaponType} WEAPONS</div>
+                <p>TOTAL: {total}</p>
                 <button onClick={this.onShowHiddenUpdate}>HIDE COMPLETED</button>
                 <table>
                     <tbody>
@@ -38,4 +40,4 @@ class PrimaryWeaponListTracker extends React.Component {
     }
 }
 
-export default PrimaryWeaponListTracker;
+export default WeaponListTracker;

@@ -1,0 +1,1485 @@
+[
+    {
+        "acquisition": "Chem Research",
+        "parts": [
+            "65,000 cr",
+            "5 Detonite injector",
+            "7,500 salvage",
+            "3,300 cryotic"
+        ],
+        "weaponName": "Ack & Brunt",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "2 neurodes",
+            "500 salvage",
+            "600 circuits"
+        ],
+        "weaponName": "Amphis",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "2 gallium",
+            "800 salvage",
+            "200 circuits"
+        ],
+        "weaponName": "Anku",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "700 nano spores",
+            "900 salvage",
+            "600 ferrite"
+        ],
+        "weaponName": "Ankyros",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "2 blade",
+            "2 gauntlet"
+        ],
+        "weaponName": "Ankyros Prime",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 argon crystal",
+            "6 gallium",
+            "2,150 circuits"
+        ],
+        "weaponName": "Arca Titron",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "1,500 salvage",
+            "800 polymer bundle",
+            "200 rubedo"
+        ],
+        "weaponName": "Atterax",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "15,000 cr",
+            "1 Orokin cell",
+            "900 salvage",
+            "600 ferrite"
+        ],
+        "weaponName": "Bo",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "2 ornament",
+            "handle"
+        ],
+        "weaponName": "Bo Prime",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "Boltor",
+            "Kronen"
+        ],
+        "weaponName": "Boltace",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "reward for The War Within quest",
+        "parts": [],
+        "weaponName": "Broken Scepter",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "drops from Stalker, reward for Second Dream quest",
+        "parts": [
+            "20,000 cr",
+            "1 Forma",
+            "2 nitain extract",
+            "hilt"
+        ],
+        "weaponName": "Broken War",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "1 Forma",
+            "1,000 rubedo",
+            "5,700 salvage"
+        ],
+        "weaponName": "Cassowar",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Bio Research",
+        "parts": [
+            "30,000 cr",
+            "10 mutagen mass",
+            "15,000 ferrite",
+            "4,000 plastids"
+        ],
+        "weaponName": "Caustacyst",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "15,000 cr",
+            "4 gallium",
+            "500 ferrite",
+            "500 alloy plate"
+        ],
+        "weaponName": "Ceramic Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Bio Research",
+        "parts": [
+            "30,000 cr",
+            "4 mutagen mass",
+            "2,500 cryotic",
+            "1,200 plastids"
+        ],
+        "weaponName": "Cerata",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 argon crystal",
+            "4,000 rubedo",
+            "875 plastids"
+        ],
+        "weaponName": "Cobra & Crane",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "drops from Captain Vor (Mercury)",
+        "parts": [
+            "15,000 cr",
+            "1 morphics",
+            "500 ferrite"
+        ],
+        "weaponName": "Cronus",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Dakra Prime",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "15,000 cr",
+            "2 neurodes",
+            "500 ferrite",
+            "500 plastids"
+        ],
+        "weaponName": "Dark Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "Dual Skana",
+            "1 Forma",
+            "1,200 rubedo"
+        ],
+        "weaponName": "Dark Split-Sword",
+        "weaponType": "Heavy/Dual Swords"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "20,000 cr",
+            "2 neurodes",
+            "800 ferrite",
+            "200 plastids"
+        ],
+        "weaponName": "Dark Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "10,000 alloy plate",
+            "1,700 plastids",
+            "5 nitain extract"
+        ],
+        "weaponName": "Destreza",
+        "weaponType": "Rapier"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Destreza Prime",
+        "weaponType": "Rapier"
+    },
+    {
+        "acquisition": "Anniversary award; currently unavailable",
+        "parts": [],
+        "weaponName": "Dex Dakra",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "parts": [
+            "5,000 cr",
+            "1 argon crystal",
+            "75 oxium"
+        ],
+        "weaponName": "Dragon Nikana",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "5 gallium",
+            "1,000 salvage",
+            "800 ferrite"
+        ],
+        "weaponName": "Dual Cleavers",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "3 morphics",
+            "900 salvage",
+            "850 ferrite"
+        ],
+        "weaponName": "Dual Ether",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 morphics",
+            "900 salvage",
+            "1,000 ferrite"
+        ],
+        "weaponName": "Dual Heat Swords",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Bio Research",
+        "parts": [
+            "30,000 cr",
+            "4 mutagen mass",
+            "1,200 circuits",
+            "15,000 salvage"
+        ],
+        "weaponName": "Dual Ichor",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 Kama"
+        ],
+        "weaponName": "Dual Kamas",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "2 blade"
+        ],
+        "weaponName": "Dual Kamas Prime",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 argon crystal",
+            "230 oxium",
+            "13,250 salvage"
+        ],
+        "weaponName": "Dual Keres",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "Dual Kamas",
+            "200 cryotic",
+            "200 alloy plate"
+        ],
+        "weaponName": "Dual Raza",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 morphics",
+            "300 polymer bundle",
+            "850 ferrite"
+        ],
+        "weaponName": "Dual Skana",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "",
+        "parts": [],
+        "weaponName": "Redeemer (along with Vasto)",
+        "weaponType": ""
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "4 morphics",
+            "900 salvage",
+            "1,100 ferrite"
+        ],
+        "weaponName": "Dual Zoren",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Energy Research",
+        "parts": [
+            "20,000 cr",
+            "12,000 alloy plate",
+            "1,200 plastids",
+            "2 gallium"
+        ],
+        "weaponName": "Endura",
+        "weaponType": "Rapier"
+    },
+    {
+        "acquisition": "Stolen Dreams quest; reward for Operation: Plague S",
+        "parts": [
+            "20,000 cr",
+            "5 morphics",
+            "600 polymer bundle",
+            "600 ferrite"
+        ],
+        "weaponName": "Ether Daggers",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "50,000 cr on the Market",
+        "parts": [
+            "15,000 cr",
+            "1,000 polymer bundle",
+            "1,000 rubedo",
+            "10 morphics"
+        ],
+        "weaponName": "Ether Reaper",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "4 morphics",
+            "700 rubedo",
+            "900 ferrite"
+        ],
+        "weaponName": "Ether Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Energy Research",
+        "parts": [
+            "20,000 cr",
+            "5 Fieldron",
+            "8,500 alloy plate",
+            "1,650 circuits"
+        ],
+        "weaponName": "Falcor",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "600 polymer bundle",
+            "600 ferrite",
+            "900 nano spores"
+        ],
+        "weaponName": "Fang",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "2 blade"
+        ],
+        "weaponName": "Fang Prime",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "3 gallium",
+            "750 salvage",
+            "300 rubedo"
+        ],
+        "weaponName": "Fragor",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "head",
+            "handle"
+        ],
+        "weaponName": "Fragor Prime",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "1,000 nano spores",
+            "900 salvage",
+            "600 ferrite"
+        ],
+        "weaponName": "Furax",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "Event reward; bounties in Cetus",
+        "parts": [
+            "25,000 cr",
+            "left gauntlet"
+        ],
+        "weaponName": "Furax Wraith",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "4 gallium",
+            "750 salvage",
+            "500 rubedo"
+        ],
+        "weaponName": "Galatine",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Galatine Prime",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 argon crystal",
+            "5 Atmo systems",
+            "3,600 ferrite"
+        ],
+        "weaponName": "Galvacord",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "2 argon crystal",
+            "2,600 salvage",
+            "1,900 alloy plate"
+        ],
+        "weaponName": "Gazal Machete",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "15,000 cr",
+            "10 morphics",
+            "5,000 ferrite",
+            "6,000 nano spores"
+        ],
+        "weaponName": "Glaive",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "2 blade",
+            "disc"
+        ],
+        "weaponName": "Glaive Prime",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "15,000 cr",
+            "3 gallium",
+            "65 oxium",
+            "750 polymer bundle"
+        ],
+        "weaponName": "Guandao",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "200 oxium",
+            "3 tellurium",
+            "1,150 plastids"
+        ],
+        "weaponName": "Gunsen",
+        "weaponType": "Warfans"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "3 gallium",
+            "750 salvage",
+            "300 rubedo"
+        ],
+        "weaponName": "Gram",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Gram Prime",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "15,000 cr",
+            "2 argon crystal",
+            "4,800 ferrite",
+            "5,000 nano spores"
+        ],
+        "weaponName": "Halikar",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "drops from Stalker",
+        "parts": [
+            "15,000 cr",
+            "10 morphics",
+            "5,000 ferrite",
+            "6,000 nano spores"
+        ],
+        "weaponName": "Hate",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "15,000 cr",
+            "500 ferrite",
+            "150 circuits",
+            "75 polymer bundle"
+        ],
+        "weaponName": "Heat Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Nightwave reward; Once Awake quest",
+        "parts": [
+            "20,000 cr",
+            "1 neural sensors",
+            "500 ferrite",
+            "300 circuits"
+        ],
+        "weaponName": "Heat Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "75,000 Standing to Cephalon Simaris",
+        "parts": [
+            "20,000 cr",
+            "Gammacor",
+            "700 polymer bundle",
+            "1,200 rubedo"
+        ],
+        "weaponName": "Heliocor",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "Kogake",
+            "3 nitain extract",
+            "1,100 plastids"
+        ],
+        "weaponName": "Hirudo",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "Chem Research",
+        "parts": [
+            "30,000 cr",
+            "5 Detonite injector",
+            "5,000 salvage",
+            "600 rubedo"
+        ],
+        "weaponName": "Jat Kittag",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Chem Research",
+        "parts": [
+            "15,000 cr",
+            "7 Detonite injector",
+            "7,500 salvage",
+            "2,000 rubedo"
+        ],
+        "weaponName": "Jat Kusar",
+        "weaponType": "Blade & Whip"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "15,000 cr",
+            "500 ferrite",
+            "1 morphics",
+            "75 polymer bundle"
+        ],
+        "weaponName": "Jaw Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "5 neural sensors",
+            "1,200 ferrite",
+            "900 circuits"
+        ],
+        "weaponName": "Kama",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "1,500 salvage",
+            "800 polymer bundle",
+            "100 oxium"
+        ],
+        "weaponName": "Karyst",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Chem Research",
+        "parts": [
+            "20,000 cr",
+            "5 Detonite injector",
+            "1,400 kuva",
+            "6,000 ferrite"
+        ],
+        "weaponName": "Kesheg",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "15,000 cr",
+            "8 morphics",
+            "4,800 ferrite",
+            "5,000 nano spores"
+        ],
+        "weaponName": "Kestrel",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "400 rubedo",
+            "3 morphics",
+            "1,200 ferrite"
+        ],
+        "weaponName": "Kogake",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "2 gauntlet",
+            "2 boot"
+        ],
+        "weaponName": "Kogake Prime",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "drops from Tusk Thumper Bulls and Tusk Thumper Do",
+        "parts": [
+            "30,000 cr",
+            "25 auroxium alloy",
+            "15 esher devar",
+            "5 Breath of the Eidolon"
+        ],
+        "weaponName": "Korrudo",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "Energy Research",
+        "parts": [
+            "25,000 cr",
+            "10 Fieldron",
+            "40 Mytocardia spore",
+            "25 star amarast"
+        ],
+        "weaponName": "Kreska",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "5 tellurium",
+            "8 morphics",
+            "125 oxium"
+        ],
+        "weaponName": "Krohkur",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "65,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "1,500 ferrite",
+            "2,000 nano spores",
+            "1,000 plastids"
+        ],
+        "weaponName": "Kronen",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "20,000 cr",
+            "2 blade",
+            "2 handle"
+        ],
+        "weaponName": "Kronen Prime",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "2 morphics",
+            "4,200 polymer bundle",
+            "1,200 rubedo"
+        ],
+        "weaponName": "Lacera",
+        "weaponType": "Blade & Whip"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 morphics",
+            "900 salvage",
+            "1,000 ferrite"
+        ],
+        "weaponName": "Lecta",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "15,000 cr",
+            "Tipedo",
+            "1,400 plastids",
+            "4 neurodes"
+        ],
+        "weaponName": "Lesion",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "4 gallium",
+            "750 salvage",
+            "800 plastids"
+        ],
+        "weaponName": "Machete",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Event reward; 250,000 cr, 410 ducats to Baro Ki'Teer",
+        "parts": [],
+        "weaponName": "Machete Wraith",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "25,000 cr",
+            "3 gallium",
+            "750 ferrite",
+            "300 rubedo"
+        ],
+        "weaponName": "Magistar",
+        "weaponType": "Heavy"
+    },
+    {
+        "acquisition": "Bio Research",
+        "parts": [
+            "30,000 cr",
+            "4 mutagen mass",
+            "15,000 nano spores",
+            "1,200 plastids"
+        ],
+        "weaponName": "Mios",
+        "weaponType": "Blade & Whip"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 neural sensors",
+            "1,000 ferrite",
+            "1,500 nano spores"
+        ],
+        "weaponName": "Mire",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [],
+        "weaponName": "MK1 Bo",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [],
+        "weaponName": "MK1 Furax",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "2 neurodes",
+            "800 polymer bundle",
+            "200 rubedo"
+        ],
+        "weaponName": "Nami Skyla",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "2 handle",
+            "2 blade"
+        ],
+        "weaponName": "Nami Skyla Prime",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "1,500 ferrite",
+            "800 polymer bundle",
+            "200 rubedo"
+        ],
+        "weaponName": "Nami Solo",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "5,000 cr",
+            "3 argon crystal",
+            "75 oxium",
+            "200 alloy plate"
+        ],
+        "weaponName": "Nikana",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "hilt"
+        ],
+        "weaponName": "Nikana Prime",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "4,000 ferrite",
+            "1,200 polymer bundle",
+            "800 plastids"
+        ],
+        "weaponName": "Ninkondi",
+        "weaponType": "Nunchaku"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "650 circuits",
+            "900 salvage",
+            "700 ferrite"
+        ],
+        "weaponName": "Obex",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "55,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "4 nitain extract",
+            "15,000 ferrite",
+            "1,400 plastids"
+        ],
+        "weaponName": "Ohma",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "2 tellurium",
+            "4,200 alloy plate",
+            "3,400 polymer bundle"
+        ],
+        "weaponName": "Okina",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "4 morphics",
+            "500 polymer bundle",
+            "850 ferrite"
+        ],
+        "weaponName": "Orthos",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "2 blade",
+            "handle"
+        ],
+        "weaponName": "Orthos Prime",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "reward for The War Within quest",
+        "parts": [
+            "15,000 cr",
+            "2 Orvius blade",
+            "1 Orvius disc",
+            "10 Orokin cell"
+        ],
+        "weaponName": "Orvius",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "20,000 cr",
+            "1 control module",
+            "750 ferrite",
+            "300 circuits"
+        ],
+        "weaponName": "Pangolin Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "reward for Chimera Prologue quest",
+        "parts": [
+            "30,000 cr",
+            "1,000 ducats",
+            "1 Galatine",
+            "5 Eidolon shard"
+        ],
+        "weaponName": "Paracesis",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "parts": [
+            "20,000 cr",
+            "1 Orokin cell",
+            "500 ferrite",
+            "450 salvage"
+        ],
+        "weaponName": "Plasma Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "200,000 cr, 490 Ducats to Baro Ki'Teer",
+        "parts": [],
+        "weaponName": "Prisma Dual Cleavers",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "175,000 cr, 500 Ducats to Baro Ki'Teer",
+        "parts": [],
+        "weaponName": "Prisma Obex",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "175,000 cr, 510 Ducats to Baro Ki'Teer",
+        "parts": [],
+        "weaponName": "Prisma Skana",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Energy Research",
+        "parts": [
+            "20,000 cr",
+            "1 Fieldron",
+            "300 alloy plate",
+            "1,000 salvage"
+        ],
+        "weaponName": "Prova",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Event reward; 250,000 cr, 410 ducats to Baro Ki'Teer",
+        "parts": [],
+        "weaponName": "Prova Vandal",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Bio Research",
+        "parts": [
+            "30,000 cr",
+            "5 mutagen mass",
+            "8,750 salvage",
+            "2,250 rubedo"
+        ],
+        "weaponName": "Pupacyst",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "125,000 Standing to Red Veil",
+        "parts": [],
+        "weaponName": "Rakta Dark Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Reaper Prime",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "Vasto",
+            "Dual Skana"
+        ],
+        "weaponName": "Redeemer",
+        "weaponType": "Gunblade"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Redeemer Prime",
+        "weaponType": "Gunblade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "40,000 cr",
+            "Ankyros",
+            "Dual Cleavers",
+            "2 tellurium"
+        ],
+        "weaponName": "Ripkas",
+        "weaponType": "Claw"
+    },
+    {
+        "acquisition": "125,000 Standing to New Loka",
+        "parts": [],
+        "weaponName": "Sancti Magistar",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "Akstiletto",
+            "3,300 cryotic",
+            "1,000 plastids"
+        ],
+        "weaponName": "Sarpa",
+        "weaponType": "Gunblade"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "3 gallium",
+            "750 salvage",
+            "300 circuits"
+        ],
+        "weaponName": "Scindo",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "handle"
+        ],
+        "weaponName": "Scindo Prime",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Bio Research",
+        "parts": [
+            "30,000 cr",
+            "4 mutagen mass",
+            "15,000 nano spores",
+            "1,200 plastids"
+        ],
+        "weaponName": "Scoliac",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "125,000 Standing to Perrin Sequence",
+        "parts": [],
+        "weaponName": "Secura Lecta",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "Energy Research",
+        "parts": [
+            "20,000 cr",
+            "1 Fieldron",
+            "400 circuits",
+            "1,000 salvage"
+        ],
+        "weaponName": "Serro",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "Ninkondi",
+            "1 Forma",
+            "1,100 plastids"
+        ],
+        "weaponName": "Shaku",
+        "weaponType": "Nunchaku"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "parts": [
+            "20,000 cr",
+            "blade",
+            "heatsink"
+        ],
+        "weaponName": "Sheev",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "Magistar",
+            "30,000 cryotic"
+        ],
+        "weaponName": "Sibear",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Login reward",
+        "parts": [],
+        "weaponName": "Sigma & Octantis",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "3 gallium",
+            "600 alloy plate",
+            "1,200 ferrite"
+        ],
+        "weaponName": "Silva & Aegis",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "blade",
+            "hilt",
+            "guard"
+        ],
+        "weaponName": "Silva & Aegis Prime",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "15,000 cr",
+            "750 salvage",
+            "500 plastids",
+            "1,100 alloy plate"
+        ],
+        "weaponName": "Skana",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Founders reward; permanently unavailable",
+        "parts": [],
+        "weaponName": "Skana Prime",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "reward for The Sacrifice quest",
+        "parts": [],
+        "weaponName": "Skiajati",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "Chem Research",
+        "parts": [
+            "20,000 cr",
+            "5 Detonite injector",
+            "1,100 circuits",
+            "4,000 salvage"
+        ],
+        "weaponName": "Sydon",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "125,000 Standing to Cephalon Suda",
+        "parts": [],
+        "weaponName": "Synoid Heliocor",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "5,000 cr",
+            "2 argon crystal",
+            "1,200 kuva",
+            "100 Auroxium alloy"
+        ],
+        "weaponName": "Tatsu",
+        "weaponType": "Two-handed Nikana"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "5 gallium",
+            "700 rubedo",
+            "3,300 polymer bundle"
+        ],
+        "weaponName": "Tekko",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "125,000 Standing to Arbiters of Hexis",
+        "parts": [],
+        "weaponName": "Telos Boltace",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "2 neural sensors",
+            "1,600 polymer bundle",
+            "Kunai"
+        ],
+        "weaponName": "Tipedo",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Void relic",
+        "parts": [
+            "20,000 cr",
+            "2 ornament",
+            "handle"
+        ],
+        "weaponName": "Tipedo Prime",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "2 control module",
+            "800 plastids",
+            "2,000 ferrite"
+        ],
+        "weaponName": "Tonbo",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "parts": [
+            "30,000 cr",
+            "Dual Zoren",
+            "Atomos"
+        ],
+        "weaponName": "Twin Basolk",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Chem Research",
+        "parts": [
+            "20,000 cr",
+            "5 Detonite injector",
+            "1 Forma"
+        ],
+        "weaponName": "Twin Krohkur",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "125,000 Standing to Steel Meridian",
+        "parts": [],
+        "weaponName": "Vaykor Sydon",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "parts": [
+            "20,000 cr",
+            "4 gallium",
+            "1,000 salvage",
+            "500 plastids"
+        ],
+        "weaponName": "Venka",
+        "weaponType": "Claw"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "parts": [
+            "15,000 cr",
+            "2 blade",
+            "2 gauntlet"
+        ],
+        "weaponName": "Venka Prime",
+        "weaponType": "Claw"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "parts": [
+            "20,000 cr",
+            "225 oxium",
+            "2 argon crystal",
+            "11,000 alloy plate"
+        ],
+        "weaponName": "Volnus",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "drops from Shadow Stalker",
+        "parts": [
+            "20,000 cr",
+            "2,300 polymer bundle",
+            "1,400 rubedo",
+            "5 nitain extract"
+        ],
+        "weaponName": "War",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "drops from Wolf of Saturn Six",
+        "parts": [
+            "30,000 cr",
+            "5 nitain extract",
+            "handle",
+            "head"
+        ],
+        "weaponName": "Wolf Sledge",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Login reward",
+        "parts": [],
+        "weaponName": "Zenistar",
+        "weaponType": "Heavy Blade"
+    }
+]
