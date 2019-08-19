@@ -1,0 +1,2745 @@
+[
+    {
+        "acquisition": "Chem Research",
+        "credits": 65000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 7500,
+                "partName": "salvage"
+            },
+            {
+                "count": 3300,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Ack & Brunt",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 500,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Amphis",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "gallium"
+            },
+            {
+                "count": 800,
+                "partName": "salvage"
+            },
+            {
+                "count": 200,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Anku",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 700,
+                "partName": "nano spores"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Ankyros",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            },
+            {
+                "count": 2,
+                "partName": "gauntlet"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Ankyros Prime",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 6,
+                "partName": "gallium"
+            },
+            {
+                "count": 2150,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Arca Titron",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1500,
+                "partName": "salvage"
+            },
+            {
+                "count": 800,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Atterax",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Orokin cell"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Bo",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "ornament"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Bo Prime",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Boltace",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "reward for The War Within quest",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Broken Scepter",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "drops from Stalker, reward for Second Dream quest",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "hilt"
+            }
+        ],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Forma"
+            },
+            {
+                "count": 2,
+                "partName": "nitain extract"
+            }
+        ],
+        "weaponName": "Broken War",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Forma"
+            },
+            {
+                "count": 1000,
+                "partName": "rubedo"
+            },
+            {
+                "count": 5700,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Cassowar",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 15000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 4000,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Caustacyst",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "gallium"
+            },
+            {
+                "count": 500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 500,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Ceramic Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 2500,
+                "partName": "cryotic"
+            },
+            {
+                "count": 1200,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Cerata",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 4000,
+                "partName": "rubedo"
+            },
+            {
+                "count": 875,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Cobra & Crane",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "drops from Captain Vor (Mercury)",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "morphics"
+            },
+            {
+                "count": 500,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Cronus",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Dakra Prime",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 500,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Dark Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Forma"
+            },
+            {
+                "count": 1200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Dark Split-Sword",
+        "weaponType": "Heavy/Dual Swords"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 800,
+                "partName": "ferrite"
+            },
+            {
+                "count": 200,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Dark Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10000,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 1700,
+                "partName": "plastids"
+            },
+            {
+                "count": 5,
+                "partName": "nitain extract"
+            }
+        ],
+        "weaponName": "Destreza",
+        "weaponType": "Rapier"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Destreza Prime",
+        "weaponType": "Rapier"
+    },
+    {
+        "acquisition": "Anniversary award; currently unavailable",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Dex Dakra",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 5000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 75,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Dragon Nikana",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "gallium"
+            },
+            {
+                "count": 1000,
+                "partName": "salvage"
+            },
+            {
+                "count": 800,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Dual Cleavers",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 850,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Dual Ether",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 1000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Dual Heat Swords",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 1200,
+                "partName": "circuits"
+            },
+            {
+                "count": 15000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Dual Ichor",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Dual Kamas",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Dual Kamas Prime",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 230,
+                "partName": "oxium"
+            },
+            {
+                "count": 13250,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Dual Keres",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 200,
+                "partName": "cryotic"
+            },
+            {
+                "count": 200,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Dual Raza",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "morphics"
+            },
+            {
+                "count": 300,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 850,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Dual Skana",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 1100,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Dual Zoren",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 12000,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 1200,
+                "partName": "plastids"
+            },
+            {
+                "count": 2,
+                "partName": "gallium"
+            }
+        ],
+        "weaponName": "Endura",
+        "weaponType": "Rapier"
+    },
+    {
+        "acquisition": "Stolen Dreams quest; reward for Operation: Plague S",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "morphics"
+            },
+            {
+                "count": 600,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 600,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Ether Daggers",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "50,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1000,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 1000,
+                "partName": "rubedo"
+            },
+            {
+                "count": 10,
+                "partName": "morphics"
+            }
+        ],
+        "weaponName": "Ether Reaper",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "morphics"
+            },
+            {
+                "count": 700,
+                "partName": "rubedo"
+            },
+            {
+                "count": 900,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Ether Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 8500,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 1650,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Falcor",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 600,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 600,
+                "partName": "ferrite"
+            },
+            {
+                "count": 900,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Fang",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Fang Prime",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 750,
+                "partName": "salvage"
+            },
+            {
+                "count": 300,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Fragor",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "head"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Fragor Prime",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Furax",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "Event reward; bounties in Cetus",
+        "credits": 25000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "left gauntlet"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Furax Wraith",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "gallium"
+            },
+            {
+                "count": 750,
+                "partName": "salvage"
+            },
+            {
+                "count": 500,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Galatine",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Galatine Prime",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 5,
+                "partName": "Atmo systems"
+            },
+            {
+                "count": 3600,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Galvacord",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 2600,
+                "partName": "salvage"
+            },
+            {
+                "count": 1900,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Gazal Machete",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "morphics"
+            },
+            {
+                "count": 5000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 6000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Glaive",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "disc"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Glaive Prime",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 750,
+                "partName": "salvage"
+            },
+            {
+                "count": 300,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Gram",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Gram Prime",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 65,
+                "partName": "oxium"
+            },
+            {
+                "count": 750,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Guandao",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 200,
+                "partName": "oxium"
+            },
+            {
+                "count": 3,
+                "partName": "tellurium"
+            },
+            {
+                "count": 1150,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Gunsen",
+        "weaponType": "Warfans"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 4800,
+                "partName": "ferrite"
+            },
+            {
+                "count": 5000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Halikar",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "drops from Stalker",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "morphics"
+            },
+            {
+                "count": 5000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 6000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Hate",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 150,
+                "partName": "circuits"
+            },
+            {
+                "count": 75,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Heat Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Nightwave reward; Once Awake quest",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "neural sensors"
+            },
+            {
+                "count": 500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 300,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Heat Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "75,000 Standing to Cephalon Simaris",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 700,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 1200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Heliocor",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "nitain extract"
+            },
+            {
+                "count": 1100,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Hirudo",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 5000,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Jat Kittag",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 7,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 7500,
+                "partName": "salvage"
+            },
+            {
+                "count": 2000,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Jat Kusar",
+        "weaponType": "Blade & Whip"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 1,
+                "partName": "morphics"
+            },
+            {
+                "count": 75,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Jaw Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "neural sensors"
+            },
+            {
+                "count": 1200,
+                "partName": "ferrite"
+            },
+            {
+                "count": 900,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Kama",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1500,
+                "partName": "salvage"
+            },
+            {
+                "count": 800,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 100,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Karyst",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 1400,
+                "partName": "kuva"
+            },
+            {
+                "count": 6000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Kesheg",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 8,
+                "partName": "morphics"
+            },
+            {
+                "count": 4800,
+                "partName": "ferrite"
+            },
+            {
+                "count": 5000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Kestrel",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 400,
+                "partName": "rubedo"
+            },
+            {
+                "count": 3,
+                "partName": "morphics"
+            },
+            {
+                "count": 1200,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Kogake",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "gauntlet"
+            },
+            {
+                "count": 2,
+                "partName": "boot"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Kogake Prime",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "drops from Tusk Thumper Bulls and Tusk Thumper Do",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 25,
+                "partName": "auroxium alloy"
+            },
+            {
+                "count": 15,
+                "partName": "esher devar"
+            },
+            {
+                "count": 5,
+                "partName": "Breath of the Eidolon"
+            }
+        ],
+        "weaponName": "Korrudo",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 40,
+                "partName": "Mytocardia spore"
+            },
+            {
+                "count": 25,
+                "partName": "star amarast"
+            }
+        ],
+        "weaponName": "Kreska",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "tellurium"
+            },
+            {
+                "count": 8,
+                "partName": "morphics"
+            },
+            {
+                "count": 125,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Krohkur",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "65,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 2000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 1000,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Kronen",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            },
+            {
+                "count": 2,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Kronen Prime",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "morphics"
+            },
+            {
+                "count": 4200,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 1200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Lacera",
+        "weaponType": "Blade & Whip"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 1000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Lecta",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1400,
+                "partName": "plastids"
+            },
+            {
+                "count": 4,
+                "partName": "neurodes"
+            }
+        ],
+        "weaponName": "Lesion",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "gallium"
+            },
+            {
+                "count": 750,
+                "partName": "salvage"
+            },
+            {
+                "count": 800,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Machete",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Event reward; 250,000 cr, 410 ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Machete Wraith",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 750,
+                "partName": "ferrite"
+            },
+            {
+                "count": 300,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Magistar",
+        "weaponType": "Heavy"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 15000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 1200,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Mios",
+        "weaponType": "Blade & Whip"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neural sensors"
+            },
+            {
+                "count": 1000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 1500,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Mire",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "MK1 Bo",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "MK1 Furax",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 800,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Nami Skyla",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "handle"
+            },
+            {
+                "count": 2,
+                "partName": "blade"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Nami Skyla Prime",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 800,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Nami Solo",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 5000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 75,
+                "partName": "oxium"
+            },
+            {
+                "count": 200,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Nikana",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "hilt"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Nikana Prime",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 1200,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 800,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Ninkondi",
+        "weaponType": "Nunchaku"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 650,
+                "partName": "circuits"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            },
+            {
+                "count": 700,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Obex",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "55,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "nitain extract"
+            },
+            {
+                "count": 15000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 1400,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Ohma",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "tellurium"
+            },
+            {
+                "count": 4200,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 3400,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Okina",
+        "weaponType": "Dual Daggers"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "morphics"
+            },
+            {
+                "count": 500,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 850,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Orthos",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Orthos Prime",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "reward for The War Within quest",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "Orvius blade"
+            },
+            {
+                "count": 1,
+                "partName": "Orvius disc"
+            }
+        ],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "Orokin cell"
+            }
+        ],
+        "weaponName": "Orvius",
+        "weaponType": "Thrown"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "control module"
+            },
+            {
+                "count": 750,
+                "partName": "ferrite"
+            },
+            {
+                "count": 300,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Pangolin Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "reward for Chimera Prologue quest",
+        "credits": 30000,
+        "currency": [
+            {
+                "count": 1000,
+                "partName": "ducats"
+            }
+        ],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Eidolon Shard"
+            }
+        ],
+        "weaponName": "Paracesis",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Nightwave reward",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Orokin cell"
+            },
+            {
+                "count": 500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 450,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Plasma Sword",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "200,000 cr, 490 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Dual Cleavers",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "175,000 cr, 500 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Obex",
+        "weaponType": "Sparring"
+    },
+    {
+        "acquisition": "175,000 cr, 510 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Skana",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 300,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 1000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Prova",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Event reward; 250,000 cr, 410 ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prova Vandal",
+        "weaponType": "Machete"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 8750,
+                "partName": "salvage"
+            },
+            {
+                "count": 2250,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Pupacyst",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "125,000 Standing to Red Veil",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Rakta Dark Dagger",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Reaper Prime",
+        "weaponType": "Scythe"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Redeemer",
+        "weaponType": "Gunblade"
+    },
+    {
+        "acquisition": "",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Redeemer (along with Vasto)",
+        "weaponType": ""
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Redeemer Prime",
+        "weaponType": "Gunblade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 40000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "tellurium"
+            }
+        ],
+        "weaponName": "Ripkas",
+        "weaponType": "Claw"
+    },
+    {
+        "acquisition": "125,000 Standing to New Loka",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Sancti Magistar",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3300,
+                "partName": "cryotic"
+            },
+            {
+                "count": 1000,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Sarpa",
+        "weaponType": "Gunblade"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 750,
+                "partName": "salvage"
+            },
+            {
+                "count": 300,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Scindo",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Scindo Prime",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 15000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 1200,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Scoliac",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "125,000 Standing to Perrin Sequence",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Secura Lecta",
+        "weaponType": "Whip"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 400,
+                "partName": "circuits"
+            },
+            {
+                "count": 1000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Serro",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Forma"
+            },
+            {
+                "count": 1100,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Shaku",
+        "weaponType": "Nunchaku"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            }
+        ],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "heatsink"
+            }
+        ],
+        "weaponName": "Sheev",
+        "weaponType": "Dagger"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 30000,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Sibear",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Login reward",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Sigma & Octantis",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 600,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 1200,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Silva & Aegis",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "blade"
+            },
+            {
+                "count": 1,
+                "partName": "hilt"
+            },
+            {
+                "count": 1,
+                "partName": "guard"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Silva & Aegis Prime",
+        "weaponType": "Sword & Shield"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 750,
+                "partName": "salvage"
+            },
+            {
+                "count": 500,
+                "partName": "plastids"
+            },
+            {
+                "count": 1100,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Skana",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "Founders reward; permanently unavailable",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Skana Prime",
+        "weaponType": "Sword"
+    },
+    {
+        "acquisition": "reward for The Sacrifice quest",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Skiajati",
+        "weaponType": "Nikana"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 1100,
+                "partName": "circuits"
+            },
+            {
+                "count": 4000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Sydon",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "125,000 Standing to Cephalon Suda",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Synoid Heliocor",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 5000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 1200,
+                "partName": "kuva"
+            },
+            {
+                "count": 100,
+                "partName": "Auroxium Alloy"
+            }
+        ],
+        "weaponName": "Tatsu",
+        "weaponType": "Two-handed Nikana"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "gallium"
+            },
+            {
+                "count": 700,
+                "partName": "rubedo"
+            },
+            {
+                "count": 3300,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Tekko",
+        "weaponType": "Fist"
+    },
+    {
+        "acquisition": "125,000 Standing to Arbiters of Hexis",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Telos Boltace",
+        "weaponType": "Tonfa"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neural sensors"
+            },
+            {
+                "count": 1600,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Tipedo",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "ornament"
+            },
+            {
+                "count": 1,
+                "partName": "handle"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Tipedo Prime",
+        "weaponType": "Staff"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "control module"
+            },
+            {
+                "count": 800,
+                "partName": "plastids"
+            },
+            {
+                "count": 2000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Tonbo",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Twin Basolk",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 1,
+                "partName": "Forma"
+            }
+        ],
+        "weaponName": "Twin Krohkur",
+        "weaponType": "Dual Swords"
+    },
+    {
+        "acquisition": "125,000 Standing to Steel Meridian",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Vaykor Sydon",
+        "weaponType": "Polearm"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "gallium"
+            },
+            {
+                "count": 1000,
+                "partName": "salvage"
+            },
+            {
+                "count": 500,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Venka",
+        "weaponType": "Claw"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 2,
+                "partName": "blade"
+            },
+            {
+                "count": 2,
+                "partName": "gauntlet"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Venka Prime",
+        "weaponType": "Claw"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 225,
+                "partName": "oxium"
+            },
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 11000,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Volnus",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "drops from Shadow Stalker",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2300,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 1400,
+                "partName": "rubedo"
+            },
+            {
+                "count": 5,
+                "partName": "nitain extract"
+            }
+        ],
+        "weaponName": "War",
+        "weaponType": "Heavy Blade"
+    },
+    {
+        "acquisition": "drops from Wolf of Saturn Six",
+        "credits": 30000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "handle"
+            },
+            {
+                "count": 1,
+                "partName": "head"
+            }
+        ],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "nitain extract"
+            }
+        ],
+        "weaponName": "Wolf Sledge",
+        "weaponType": "Hammer"
+    },
+    {
+        "acquisition": "Login reward",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Zenistar",
+        "weaponType": "Heavy Blade"
+    }
+]

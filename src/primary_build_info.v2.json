@@ -1,0 +1,2149 @@
+[
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 8,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 600,
+                "partName": "plastids"
+            },
+            {
+                "count": 9000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Amprex",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 25,
+                "partName": "control module"
+            },
+            {
+                "count": 925,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Arca Plasmor",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 700,
+                "partName": "plastids"
+            },
+            {
+                "count": 9950,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Argonak",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "tellurium"
+            },
+            {
+                "count": 875,
+                "partName": "plastids"
+            },
+            {
+                "count": 175,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Astilla",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "morphics"
+            },
+            {
+                "count": 800,
+                "partName": "ferrite"
+            },
+            {
+                "count": 200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Attica",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 40,
+                "partName": "Tepa nodule"
+            },
+            {
+                "count": 25,
+                "partName": "heart noctrul"
+            }
+        ],
+        "weaponName": "Battacor",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3500,
+                "partName": "ferrite"
+            },
+            {
+                "count": 4300,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 575,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Baza",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "drops from Drekar Troopers (Uranus)",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 6,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 750,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Boar",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Boar Prime",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 100,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Boltor",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Boltor Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Braton",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Braton Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Beta tester reward; Sanctuary Onslaught reward",
+        "credits": 25000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Braton Vandal",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "morphics"
+            },
+            {
+                "count": 400,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 150,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Burston",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Burston Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 5000,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Buzlok",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "gallium"
+            },
+            {
+                "count": 700,
+                "partName": "plastids"
+            },
+            {
+                "count": 600,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Cernos",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "grip"
+            },
+            {
+                "count": 1,
+                "partName": "string"
+            },
+            {
+                "count": 1,
+                "partName": "lower limb"
+            },
+            {
+                "count": 1,
+                "partName": "upper limb"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Cernos Prime",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 10,
+                "partName": "control module"
+            },
+            {
+                "count": 900,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Convectrix",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "nitain extract"
+            },
+            {
+                "count": 13000,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 6,
+                "partName": "gallium"
+            }
+        ],
+        "weaponName": "Corinth",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 1,
+                "partName": "Forma"
+            },
+            {
+                "count": 300,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Daikyu",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 600,
+                "partName": "circuits"
+            },
+            {
+                "count": 4500,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Dera",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "credits": 25000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Dera Vandal",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Anniversary award; currently unavailable",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Dex Sybaris",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "morphics"
+            },
+            {
+                "count": 950,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 5500,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Drakgoon",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "drops from Stalker",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 6,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "circuits"
+            },
+            {
+                "count": 750,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Dread",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 2,
+                "partName": "Repeller systems"
+            },
+            {
+                "count": 175,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Exergis",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 900,
+                "partName": "circuits"
+            },
+            {
+                "count": 6000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Flux Rifle",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 550,
+                "partName": "circuits"
+            },
+            {
+                "count": 2500,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Glaxion",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "drops from Heavy Gunners and their variants",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "morphics"
+            },
+            {
+                "count": 5000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 6000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Gorgon",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Event reward; currently unavailable",
+        "credits": 25000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Gorgon Wraith",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 400,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Grakata",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 5000,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 5000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Grinlok",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 5,
+                "partName": "gallium"
+            },
+            {
+                "count": 6000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Harpak",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "neurodes"
+            },
+            {
+                "count": 900,
+                "partName": "circuits"
+            },
+            {
+                "count": 1200,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Hek",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 50000,
+                "partName": "salvage"
+            },
+            {
+                "count": 5000,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Hema",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 6,
+                "partName": "neurodes"
+            },
+            {
+                "count": 700,
+                "partName": "circuits"
+            },
+            {
+                "count": 1000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Hind",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 5000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 5000,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Ignis",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 10000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 5000,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Ignis Wraith",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 5,
+                "partName": "nitain extract"
+            },
+            {
+                "count": 10000,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Javlok",
+        "weaponType": "Speargun"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "neurodes"
+            },
+            {
+                "count": 400,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Karak",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "credits": 25000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Karak Wraith",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2500,
+                "partName": "salvage"
+            },
+            {
+                "count": 500,
+                "partName": "oxium"
+            },
+            {
+                "count": 500,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Kohm",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 20,
+                "partName": "gallium"
+            },
+            {
+                "count": 600,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Lanka",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "morphics"
+            },
+            {
+                "count": 800,
+                "partName": "plastids"
+            },
+            {
+                "count": 1000,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Latron",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Latron Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Latron Wraith",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 8200,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 2400,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Lenz",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "drops from Lech Kril + Captain Vor (Ceres)",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "blade"
+            }
+        ],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "chassis"
+            }
+        ],
+        "weaponName": "Miter",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "MK1 Braton",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "MK1 Paris",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "15,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "MK1 Strun",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1400,
+                "partName": "plastids"
+            },
+            {
+                "count": 1200,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Mutalist Cernos",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 15000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 1200,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Mutalist Quanta",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "neurodes"
+            },
+            {
+                "count": 4,
+                "partName": "gallium"
+            },
+            {
+                "count": 3000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Nagantaka",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Chem Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite injector"
+            },
+            {
+                "count": 5000,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "alloy plate"
+            }
+        ],
+        "weaponName": "Ogris",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 20,
+                "partName": "gallium"
+            },
+            {
+                "count": 600,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Opticor",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "reward for Operation: Buried Debt",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Opticor Vandal",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Orokin cell"
+            },
+            {
+                "count": 600,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Panthera",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 15000,
+                "partName": "nano spores"
+            },
+            {
+                "count": 1200,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Paracyst",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "morphics"
+            },
+            {
+                "count": 600,
+                "partName": "plastids"
+            },
+            {
+                "count": 700,
+                "partName": "polymer bundle"
+            }
+        ],
+        "weaponName": "Paris",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "grip"
+            },
+            {
+                "count": 1,
+                "partName": "string"
+            },
+            {
+                "count": 1,
+                "partName": "upper limb"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Paris Prime",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "control module"
+            },
+            {
+                "count": 1000,
+                "partName": "circuits"
+            },
+            {
+                "count": 1200,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Penta",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 1500,
+                "partName": "circuits"
+            },
+            {
+                "count": 6000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Phage",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "argon crystal"
+            },
+            {
+                "count": 10,
+                "partName": "Intact Sentient core"
+            },
+            {
+                "count": 650,
+                "partName": "plastids"
+            }
+        ],
+        "weaponName": "Phantasma",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "50,000 cr, 600 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Gorgon",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "100,000 cr, 610 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Grakata",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "220,000 cr, 500 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Grinlok",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "50,000 cr, 400 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Prisma Tetra",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 7,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 1000,
+                "partName": "circuits"
+            },
+            {
+                "count": 7000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Quanta",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "Event reward; 300,000 cr, 450 Ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Quanta Vandal",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "drops from Ghouls (Plains of Eidolon); Ghoul Purge b",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 75,
+                "partName": "grokdrul"
+            },
+            {
+                "count": 15,
+                "partName": "fersteel alloy"
+            },
+            {
+                "count": 12450,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Quartakk",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "125,000 Standing to Red Veil",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Rakta Cernos",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3800,
+                "partName": "salvage"
+            },
+            {
+                "count": 1300,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 900,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Rubico",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Rubico Prime",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "125,000 Standing to New Loka",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Sancti Tigris",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "nitain extract"
+            },
+            {
+                "count": 2500,
+                "partName": "circuits"
+            },
+            {
+                "count": 350,
+                "partName": "oxium"
+            }
+        ],
+        "weaponName": "Scourge",
+        "weaponType": "Speargun"
+    },
+    {
+        "acquisition": "125,000 Standing to Perrin Sequence",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Secura Penta",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "75,000 Standing to Cephalon Simaris",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1200,
+                "partName": "ferrite"
+            },
+            {
+                "count": 850,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 1,
+                "partName": "Orokin cell"
+            }
+        ],
+        "weaponName": "Simulor",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "Event reward; currently unavailable",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "morphics"
+            },
+            {
+                "count": 900,
+                "partName": "plastids"
+            },
+            {
+                "count": 1200,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Snipetron",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Snipetron Vandal",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "neurodes"
+            },
+            {
+                "count": 500,
+                "partName": "circuits"
+            },
+            {
+                "count": 900,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Sobek",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "50,000 cr on the Market",
+        "credits": 15000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 7,
+                "partName": "morphics"
+            },
+            {
+                "count": 850,
+                "partName": "plastids"
+            },
+            {
+                "count": 1200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Soma",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Soma Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 15000,
+                "partName": "ferrite"
+            },
+            {
+                "count": 8000,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 3,
+                "partName": "neural sensors"
+            }
+        ],
+        "weaponName": "Stradavar",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Stradavar Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "25,000 cr on the Market",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Strun",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Event reward; possible invasion reward",
+        "credits": 25000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Strun Wraith",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Energy Research",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 7,
+                "partName": "Fieldron"
+            },
+            {
+                "count": 1000,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 7000,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Supra",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Event reward; 275,000 cr, 500 ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Supra Vandal",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "morphics"
+            },
+            {
+                "count": 800,
+                "partName": "salvage"
+            },
+            {
+                "count": 200,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Sybaris",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Sybaris Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 30000,
+                "partName": "salvage"
+            },
+            {
+                "count": 3500,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Synapse",
+        "weaponType": "Rifle (continuous)"
+    },
+    {
+        "acquisition": "125,000 Standing to Cephalon Suda",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Synoid Simulor",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "125,000 Standing to Arbiters of Hexis",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Telos Boltor",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "neurodes"
+            },
+            {
+                "count": 15000,
+                "partName": "salvage"
+            },
+            {
+                "count": 4000,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Tenora",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "control module"
+            },
+            {
+                "count": 400,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 900,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Tetra",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 650,
+                "partName": "plastids"
+            },
+            {
+                "count": 600,
+                "partName": "rubedo"
+            }
+        ],
+        "weaponName": "Tiberon",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "Void relic",
+        "credits": 20000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Tiberon Prime",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "Orokin cell"
+            },
+            {
+                "count": 900,
+                "partName": "circuits"
+            },
+            {
+                "count": 1200,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Tigris",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Tigris Prime",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 60000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1500,
+                "partName": "salvage"
+            },
+            {
+                "count": 200,
+                "partName": "oxium"
+            },
+            {
+                "count": 800,
+                "partName": "cryotic"
+            }
+        ],
+        "weaponName": "Tonkor",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "Bio Research",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2,
+                "partName": "mutagen mass"
+            },
+            {
+                "count": 4500,
+                "partName": "salvage"
+            },
+            {
+                "count": 600,
+                "partName": "circuits"
+            }
+        ],
+        "weaponName": "Torid",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "125,000 Standing to Steel Meridian",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Vaykor Hek",
+        "weaponType": "Shotgun"
+    },
+    {
+        "acquisition": "40,000 cr on the Market",
+        "credits": 25000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 4,
+                "partName": "neurodes"
+            },
+            {
+                "count": 4,
+                "partName": "Orokin cell"
+            },
+            {
+                "count": 3000,
+                "partName": "nano spores"
+            }
+        ],
+        "weaponName": "Vectis",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "Prime Vault; currently unavailable",
+        "credits": 15000,
+        "currency": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "barrel"
+            },
+            {
+                "count": 1,
+                "partName": "receiver"
+            },
+            {
+                "count": 1,
+                "partName": "stock"
+            }
+        ],
+        "resources": [],
+        "weaponName": "Vectis Prime",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "Tenno Research",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "morphics"
+            },
+            {
+                "count": 600,
+                "partName": "cryotic"
+            },
+            {
+                "count": 7250,
+                "partName": "ferrite"
+            }
+        ],
+        "weaponName": "Veldt",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "morphics"
+            },
+            {
+                "count": 800,
+                "partName": "circuits"
+            },
+            {
+                "count": 1200,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Vulkar",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "Event reward; 300,000 cr, 450 ducats to Baro Ki'Teer",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Vulkar Wraith",
+        "weaponType": "Sniper"
+    },
+    {
+        "acquisition": "30,000 cr on the Market",
+        "credits": 30000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 1800,
+                "partName": "kuva"
+            },
+            {
+                "count": 2400,
+                "partName": "alloy plate"
+            },
+            {
+                "count": 5500,
+                "partName": "salvage"
+            }
+        ],
+        "weaponName": "Zarr",
+        "weaponType": "Launcher"
+    },
+    {
+        "acquisition": "Login reward",
+        "currency": [],
+        "parts": [],
+        "resources": [],
+        "weaponName": "Zenith",
+        "weaponType": "Rifle"
+    },
+    {
+        "acquisition": "20,000 cr on the Market",
+        "credits": 20000,
+        "currency": [],
+        "parts": [],
+        "resources": [
+            {
+                "count": 2800,
+                "partName": "cryotic"
+            },
+            {
+                "count": 900,
+                "partName": "polymer bundle"
+            },
+            {
+                "count": 2,
+                "partName": "nitain extract"
+            }
+        ],
+        "weaponName": "Zhuge",
+        "weaponType": "Bow"
+    }
+]
