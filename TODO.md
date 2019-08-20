@@ -27,3 +27,6 @@
   * [ ] Quatz
   * [ ] Spectra Vandal
 * [ ] Add total XP counter
+* [ ] Display Acquisition Locations / Farming
+  * [ ] Include data from https://drops.warframestat.us/data/all.json (https://github.com/WFCD/warframe-drop-data)
+  * [ ] Fallback to drop-data-snapshot_2019-08.json when warframestat.us is unreachable
