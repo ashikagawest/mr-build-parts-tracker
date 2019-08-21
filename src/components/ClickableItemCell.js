@@ -56,7 +56,9 @@ class ClickableItemCell extends React.Component {
             completionClass = "incomplete-item";
         }
 
-        return <td key={this.props.partKey} className={completionClass} onClick={this.onClickCell}>
+        // TODO: consider using the classnames() function instead
+
+        return <td key={this.props.partKey} className={completionClass + " " + this.props.className} onClick={this.onClickCell}>
             <label>
                 {this.props.text}
             </label>

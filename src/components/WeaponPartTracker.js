@@ -17,7 +17,7 @@ class WeaponPartTracker extends React.Component {
     render() {
         var partStgKey = this.formatPartLocalStorageKey();
 
-        return  <ClickableItemCell storageKey={partStgKey} text={this.props.partName}/>
+        return  <ClickableItemCell className={this.props.className} storageKey={partStgKey} text={this.props.partName}/>
     }
 }
 

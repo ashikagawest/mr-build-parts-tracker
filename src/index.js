@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import WeaponListTracker from './WeaponListTracker.js';
+import WeaponListTracker from './components/WeaponListTracker.js';
 import './index.css';
 import './App.css';
 import * as serviceWorker from './serviceWorker';
 
-const primaryWeapons = require('./primary_build_info.json');
-const secondaryWeapons = require('./secondary_build_info.json');
-const meleeWeapons = require('./melee_build_info.json');
+const primaryWeapons = require('./primary_build_info.v2.json');
+const secondaryWeapons = require('./secondary_build_info.v2.json');
+const meleeWeapons = require('./melee_build_info.v2.json');
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

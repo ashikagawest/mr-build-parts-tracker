@@ -6,6 +6,11 @@ table, td, tr, th {
     border: 1px solid black;
 }
 
+.part-resource {
+    background: grey;
+    color: gold;
+}
+
 .completed-item, .completed-part {
     background: green;
     color: white;

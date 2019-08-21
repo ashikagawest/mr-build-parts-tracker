@@ -7,7 +7,9 @@ class WeaponTracker extends React.Component {
     constructor(props) {
         super(props);
 
-        this.renderOnePart = this.renderOnePart.bind(this);
+        this.renderOnePartCommon = this.renderOnePartCommon.bind(this);
+        this.renderOnePartWeaponPart = this.renderOnePartWeaponPart.bind(this);
+        this.renderOnePartResource = this.renderOnePartResource.bind(this);
         this.formatWeaponLocalStorageKey = this.formatWeaponLocalStorageKey.bind(this);
         this.onCheckedUpdate = this.onCheckedUpdate.bind(this);
 
@@ -18,9 +20,24 @@ class WeaponTracker extends React.Component {
         return "wf-mr-build-parts-tracker//" + this.props.weaponInfo.weaponName;
     }
 
-    renderOnePart(partName, index) {
+    renderOnePartCommon(part, index, partType) {
+        // V1, part is a string
+        // V2, part is an object with "count" and "partName"
+        var partName = part;
+        if (part.partName) {
+            partName = part.count + " " + part.partName;
+        }
+
         var partKey = this.props.weaponKey + "-" + index;
-        return <WeaponPartTracker weaponInfo={this.props.weaponInfo} partName={partName} key={partKey} partKey={partKey}/>
+        return <WeaponPartTracker className={"part-" + partType} weaponInfo={this.props.weaponInfo} partName={partName} key={partKey} partKey={partKey}/>
+    }
+
+    renderOnePartWeaponPart(part, index) {
+        return this.renderOnePartCommon(part, index, "weaponPart");
+    }
+
+    renderOnePartResource(part, index) {
+        return this.renderOnePartCommon(part, index, "resource");
     }
 
     onCheckedUpdate(newCheckedState) {
@@ -28,7 +45,13 @@ class WeaponTracker extends React.Component {
     }
 
     render() {
-        var rows = this.props.weaponInfo.parts.map(this.renderOnePart);
+        var rows = this.props.weaponInfo.parts.map(this.renderOnePartWeaponPart);
+
+        // v2, resources are in weaponInfo.resources with "count" and "partName"
+        if (this.props.weaponInfo.resources) {
+            var resourceRows = this.props.weaponInfo.resources.map(this.renderOnePartResource);
+            rows.push.apply(rows, resourceRows);
+        }
 
         var completionClass;
         if (this.state.checked) {
@@ -46,6 +69,9 @@ class WeaponTracker extends React.Component {
                                    onCheckedUpdate={this.onCheckedUpdate}/>
                 <td className={completionClass}>
                     {this.props.weaponInfo.acquisition}
+                </td>
+                <td className={"credits"}>
+                    {this.props.weaponInfo.credits}
                 </td>
                 {rows}
             </tr>
