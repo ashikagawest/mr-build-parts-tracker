@@ -94,11 +94,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 2,
-                "partName": "gauntlet"
+                "partName": "Gauntlet"
             }
         ],
         "resources": [],
@@ -178,11 +178,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "ornament"
+                "partName": "Ornament"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -213,7 +213,7 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "hilt"
+                "partName": "Hilt"
             }
         ],
         "resources": [
@@ -364,11 +364,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -466,11 +466,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -607,7 +607,7 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             }
         ],
         "resources": [],
@@ -837,7 +837,7 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             }
         ],
         "resources": [],
@@ -873,11 +873,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "head"
+                "partName": "Head"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -913,7 +913,7 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "left gauntlet"
+                "partName": "Left Gauntlet"
             }
         ],
         "resources": [],
@@ -949,11 +949,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -1033,11 +1033,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "disc"
+                "partName": "Disc"
             }
         ],
         "resources": [],
@@ -1073,11 +1073,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -1435,11 +1435,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "gauntlet"
+                "partName": "Gauntlet"
             },
             {
                 "count": 2,
-                "partName": "boot"
+                "partName": "Boot"
             }
         ],
         "resources": [],
@@ -1541,11 +1541,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 2,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -1755,11 +1755,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "handle"
+                "partName": "Handle"
             },
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             }
         ],
         "resources": [],
@@ -1817,11 +1817,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "hilt"
+                "partName": "Hilt"
             }
         ],
         "resources": [],
@@ -1945,11 +1945,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -1963,11 +1963,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "Orvius blade"
+                "partName": "Orvius Blade"
             },
             {
                 "count": 1,
-                "partName": "Orvius disc"
+                "partName": "Orvius Disc"
             }
         ],
         "resources": [
@@ -2133,11 +2133,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -2168,11 +2168,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -2248,11 +2248,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -2336,7 +2336,7 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             }
         ],
         "resources": [
@@ -2399,15 +2399,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 1,
-                "partName": "hilt"
+                "partName": "Hilt"
             },
             {
                 "count": 1,
-                "partName": "guard"
+                "partName": "Guard"
             }
         ],
         "resources": [],
@@ -2559,11 +2559,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "ornament"
+                "partName": "Ornament"
             },
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             }
         ],
         "resources": [],
@@ -2656,11 +2656,11 @@
         "parts": [
             {
                 "count": 2,
-                "partName": "blade"
+                "partName": "Blade"
             },
             {
                 "count": 2,
-                "partName": "gauntlet"
+                "partName": "Gauntlet"
             }
         ],
         "resources": [],
@@ -2718,11 +2718,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "handle"
+                "partName": "Handle"
             },
             {
                 "count": 1,
-                "partName": "head"
+                "partName": "Head"
             }
         ],
         "resources": [

@@ -12,6 +12,9 @@ class WeaponTracker extends React.Component {
         this.renderOnePartResource = this.renderOnePartResource.bind(this);
         this.formatWeaponLocalStorageKey = this.formatWeaponLocalStorageKey.bind(this);
         this.onCheckedUpdate = this.onCheckedUpdate.bind(this);
+        this.formatCredits = this.formatCredits.bind(this);
+        this.collectPartDropData = this.collectPartDropData.bind(this);
+        this.renderDropInfo = this.renderDropInfo.bind(this);
 
         this.state = { checked: false };
     }
@@ -28,7 +31,8 @@ class WeaponTracker extends React.Component {
             partName = part.count + " " + part.partName;
         }
 
-        var partKey = this.props.weaponKey + "-" + index;
+        var partKey = this.props.weaponKey + "-" + partType + "-" + index;
+
         return <WeaponPartTracker className={"part-" + partType} weaponInfo={this.props.weaponInfo} partName={partName} key={partKey} partKey={partKey}/>
     }
 
@@ -44,13 +48,38 @@ class WeaponTracker extends React.Component {
         this.setState({ checked: newCheckedState });
     }
 
+    formatCredits(credits) {
+        var numeric = Number(credits);
+        if (!isNaN(numeric)) {
+            return numeric.toLocaleString();
+        }
+    }
+
+    collectPartDropData(result, part) {
+        var dropKey = this.props.weaponInfo.weaponName + " " + part.partName;
+        var dropInfo = this.props.dropTableMap[dropKey.toUpperCase()];
+
+        if ( dropInfo ) {
+            result.push({ partName: dropKey, drops: dropInfo });
+        }
+    }
+
+    renderDropInfo() {
+        var collection = [];
+        this.props.weaponInfo.parts.map((ele) => this.collectPartDropData(collection, ele));
+
+        return <td key="drop-info" style={{whiteSpace: "nowrap", overflow: "scroll", maxWidth: "10em"}}>{JSON.stringify(collection)}</td>
+    }
+
     render() {
-        var rows = this.props.weaponInfo.parts.map(this.renderOnePartWeaponPart);
+        var columns = this.props.weaponInfo.parts.map(this.renderOnePartWeaponPart);
 
         // v2, resources are in weaponInfo.resources with "count" and "partName"
         if (this.props.weaponInfo.resources) {
-            var resourceRows = this.props.weaponInfo.resources.map(this.renderOnePartResource);
-            rows.push.apply(rows, resourceRows);
+            if (! this.props.hideResources) {
+                var resourceColumns = this.props.weaponInfo.resources.map(this.renderOnePartResource);
+                columns.push.apply(columns, resourceColumns);
+            }
         }
 
         var completionClass;
@@ -61,6 +90,15 @@ class WeaponTracker extends React.Component {
         }
 
         var storageKey = this.formatWeaponLocalStorageKey();
+
+        var creditsElement = null;
+        if (! this.props.hideCredits) {
+            var formattedCredits = this.formatCredits(this.props.weaponInfo.credits);
+            var creditsElement = <td className="credits">{formattedCredits}</td>;
+        }
+
+        var dropInfoElement = this.renderDropInfo();
+
         var result;
 
         if ((! this.state.checked) || (! this.props.hideCompleted )) {
@@ -70,10 +108,9 @@ class WeaponTracker extends React.Component {
                 <td className={completionClass}>
                     {this.props.weaponInfo.acquisition}
                 </td>
-                <td className={"credits"}>
-                    {this.props.weaponInfo.credits}
-                </td>
-                {rows}
+                {creditsElement}
+                {columns}
+                {dropInfoElement}
             </tr>
             ;
         } else {

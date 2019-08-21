@@ -182,15 +182,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -226,15 +226,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -256,15 +256,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -278,11 +278,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -318,15 +318,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -384,19 +384,19 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "grip"
+                "partName": "Grip"
             },
             {
                 "count": 1,
-                "partName": "string"
+                "partName": "String"
             },
             {
                 "count": 1,
-                "partName": "lower limb"
+                "partName": "Lower Limb"
             },
             {
                 "count": 1,
-                "partName": "upper limb"
+                "partName": "Upper Limb"
             }
         ],
         "resources": [],
@@ -498,11 +498,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -656,11 +656,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -894,11 +894,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -978,15 +978,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -1030,17 +1030,17 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "blade"
+                "partName": "Blade"
             }
         ],
         "resources": [
             {
                 "count": 1,
-                "partName": "chassis"
+                "partName": "Chassis"
             }
         ],
         "weaponName": "Miter",
@@ -1253,15 +1253,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "grip"
+                "partName": "Grip"
             },
             {
                 "count": 1,
-                "partName": "string"
+                "partName": "String"
             },
             {
                 "count": 1,
-                "partName": "upper limb"
+                "partName": "Upper Limb"
             }
         ],
         "resources": [],
@@ -1455,15 +1455,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -1559,11 +1559,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -1621,15 +1621,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -1665,15 +1665,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -1695,11 +1695,11 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -1765,15 +1765,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -1887,15 +1887,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -1931,15 +1931,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
@@ -2027,15 +2027,15 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "barrel"
+                "partName": "Barrel"
             },
             {
                 "count": 1,
-                "partName": "receiver"
+                "partName": "Receiver"
             },
             {
                 "count": 1,
-                "partName": "stock"
+                "partName": "Stock"
             }
         ],
         "resources": [],
