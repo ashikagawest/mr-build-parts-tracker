@@ -22,6 +22,7 @@ class WeaponListTracker extends React.Component {
                     weaponKey={weaponKey}
                     weaponInfo={weaponInfo}
                     dropTableMap={this.props.dropTableMap}
+                    farmingStore={this.props.farmingStore}
                     hideCompleted={this.state.hideCompleted}
                     hideCredits={this.state.hideCredits}
                     hideResources={this.state.hideResources}

@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import WeaponListTracker from './components/WeaponListTracker.js';
 import DropDataTransform from './transforms/DropDataTransform.js';
+import FarmingStore from './store/FarmingStore.js';
+import FarmingInfoViewer from './components/FarmingInfoViewer.js';
 import './index.css';
 import './App.css';
 import * as serviceWorker from './serviceWorker';
@@ -13,6 +15,7 @@ const dropTableSnapshot = require('./drop-data-snapshot_2019-08.json');
 
 var transform = new DropDataTransform();
 var dropTableMap = transform.transform(dropTableSnapshot);
+var farmingStore = new FarmingStore();
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
@@ -33,11 +36,23 @@ meleeWeapons.sort(
         return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 );
     });
 
+
+            //<div style={{background: 'blue', color: 'yellow', width: "100%", height: "100px", position: "fixed", bottom: "0", borderTop: "2px solid black"}}>
+            //    {JSON.stringify(farmingStore.getPartDrops())}
+            //</div>
+
 ReactDOM.render(
-    <div>
-    <WeaponListTracker weaponType="PRIMARY" keyPrefix="primary-weapon-" weaponInfo={primaryWeapons} dropTableMap={dropTableMap} />
-    <WeaponListTracker weaponType="SECONDARY" keyPrefix="secondary-weapon-" weaponInfo={secondaryWeapons} dropTableMap={dropTableMap} />
-    <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap} />
-    </div>,
+        <div>
+            <div style={{overflow: "scroll"}}>
+                <WeaponListTracker weaponType="PRIMARY" keyPrefix="primary-weapon-" weaponInfo={primaryWeapons} dropTableMap={dropTableMap} farmingStore={farmingStore}/>
+                <WeaponListTracker weaponType="SECONDARY" keyPrefix="secondary-weapon-" weaponInfo={secondaryWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                <div style={{height: "110px"}}/>
+            </div>
+            <div style={{background: 'blue', color: 'yellow', width: "100%", height: "100px", position: "fixed", bottom: "0", borderTop: "2px solid black"}}>
+                <FarmingInfoViewer farmingStore={farmingStore}/>
+            </div>
+        </div>
+        ,
     document.getElementById('root')
 );

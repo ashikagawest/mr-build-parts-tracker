@@ -14,7 +14,8 @@ class WeaponTracker extends React.Component {
         this.onCheckedUpdate = this.onCheckedUpdate.bind(this);
         this.formatCredits = this.formatCredits.bind(this);
         this.collectPartDropData = this.collectPartDropData.bind(this);
-        this.renderDropInfo = this.renderDropInfo.bind(this);
+        //this.renderDropInfo = this.renderDropInfo.bind(this);
+        this.onPartStateUpdate = this.onPartStateUpdate.bind(this);
 
         this.state = { checked: false };
     }
@@ -26,14 +27,12 @@ class WeaponTracker extends React.Component {
     renderOnePartCommon(part, index, partType) {
         // V1, part is a string
         // V2, part is an object with "count" and "partName"
-        var partName = part;
-        if (part.partName) {
-            partName = part.count + " " + part.partName;
-        }
 
         var partKey = this.props.weaponKey + "-" + partType + "-" + index;
 
-        return <WeaponPartTracker className={"part-" + partType} weaponInfo={this.props.weaponInfo} partName={partName} key={partKey} partKey={partKey}/>
+        return <WeaponPartTracker className={"part-" + partType} weaponInfo={this.props.weaponInfo}
+                                  partCount={part.count} partName={part.partName}
+                                  key={partKey} partKey={partKey} onPartStateUpdate={this.onPartStateUpdate}/>
     }
 
     renderOnePartWeaponPart(part, index) {
@@ -64,11 +63,22 @@ class WeaponTracker extends React.Component {
         }
     }
 
-    renderDropInfo() {
-        var collection = [];
-        this.props.weaponInfo.parts.map((ele) => this.collectPartDropData(collection, ele));
+    onPartStateUpdate(partName, newState) {
+        var dropKey = this.props.weaponInfo.weaponName + " " + partName;
 
-        return <td key="drop-info" style={{whiteSpace: "nowrap", overflow: "scroll", maxWidth: "10em"}}>{JSON.stringify(collection)}</td>
+        if (newState == 1) {
+            var collection = [];
+            this.props.weaponInfo.parts
+                    .filter((ele) => ele.partName == partName)
+                    .map((ele) => this.collectPartDropData(collection, ele));
+
+            this.props.farmingStore.addPartDrops(collection);
+        } else {
+            //
+            // Remove the drop info; either the user isn't working on it, or the part is completed
+            //
+            this.props.farmingStore.removePartDrops(dropKey);
+        }
     }
 
     render() {
@@ -97,8 +107,6 @@ class WeaponTracker extends React.Component {
             var creditsElement = <td className="credits">{formattedCredits}</td>;
         }
 
-        var dropInfoElement = this.renderDropInfo();
-
         var result;
 
         if ((! this.state.checked) || (! this.props.hideCompleted )) {
@@ -110,7 +118,6 @@ class WeaponTracker extends React.Component {
                 </td>
                 {creditsElement}
                 {columns}
-                {dropInfoElement}
             </tr>
             ;
         } else {

@@ -11,9 +11,14 @@ table, td, tr, th {
     color: gold;
 }
 
-.completed-item, .completed-part {
+.completed-item, .completed-part, .item-state-2 {
     background: green;
     color: white;
+}
+
+.item-state-1 {
+    background: yellow;
+    color: black;
 }
 
 .hidden-weapon {
