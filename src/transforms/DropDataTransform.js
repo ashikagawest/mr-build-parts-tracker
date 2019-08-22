@@ -12,7 +12,22 @@ class DropDataTransform {
      *      TBD
      *    ],
      *    cetusBountyRewards: [
-     *      TBD
+     *      {
+     *          _id: "318a48765469176209df299fc1e1151f",
+     *          bountyLevel: "Level 40 - 60 Cetus Bounty",
+     *          rewards: {
+     *              "A": [
+     *                  {
+     *                      _id: "f67b78e5c91696a58dd1da952aaa5756",
+     *                      chance: 33.04,
+     *                      itemName: "Axi S3 Relic",
+     *                      rarity: "Common",
+     *                      stage: "Stage 2, Stage 3 of 4, and Stage 3 of 5"
+     *                  },
+     *                  ...
+     *              ]
+     *       }
+     *       TBD
      *    ],
      *    enemyBlueprintTables: [
      *      TBD
@@ -56,6 +71,22 @@ class DropDataTransform {
      *          {
      *              relicReference: "A-A1-U"
      *          }
+     *      ],
+     *      "Axi A1 Relic": [
+     *          {
+     *              cetusBountyRewards: [ {
+     *                      bountyLevel: "Level 40 - 60 Cetus Bounty",
+     *                      chance: 33.04,
+     *                      rarity: "Common",
+     *                      stage: "Stage 2, Stage 3 of 4, and Stage 3 of 5"
+     *                  }, {
+     *                      ...
+     *                  }
+     *              ],
+     *              missionRewards: [
+     *                  TBD
+     *              ]
+     *          }
      *      ]
      *  }
      *
@@ -69,6 +100,13 @@ class DropDataTransform {
         if (sourceData.relics) {
             sourceData.relics.filter((ele) => ele.state.toUpperCase() === "INTACT").map((ele) => this.transformRelic(result, ele))
         }
+
+        if (sourceData.cetusBountyRewards) {
+            sourceData.cetusBountyRewards.map((ele) => this.transformRewardsFromCetusBounty(result, ele));
+        }
+
+        // TODO: process all other sources of rewards as well
+        // TODO: make "AXI A1 RELIC" entry type (object) consistent with "MESA PRIME SYSTEMS BLUEPRINT" (array)
 
         return result;
     }
@@ -151,6 +189,84 @@ class DropDataTransform {
 
         return tierRef + "-" + name + "-" + rarityRef;
     }
+
+    /**
+     *
+        {
+            "_id": "6f9f3333023cf3b4929e3e5604705ee8",
+            "bountyLevel": "Level 5 - 15 Cetus Bounty",
+            "rewards": {
+                "A": [
+                    {
+                        "_id": "1b6498e23a3c43775699129e7ebfcfeb",
+                        "chance": 20,
+                        "itemName": "Redirection",
+                        "rarity": "Uncommon",
+                        "stage": "Stage 1"
+                    },
+
+     */
+
+    transformRewardsFromCetusBounty(result, bounty) {
+        if (bounty.rewards) {
+            if (bounty.rewards.A) {
+                bounty.rewards.A.map((ele) => this.transformCetusBountyReward(result, bounty, ele));
+            }
+        }
+    }
+
+    /*
+     *      "Axi A1 Relic": [
+     *          {
+     *              cetusBountyRewards: [ {
+     *                      bountyLevel: "Level 40 - 60 Cetus Bounty",
+     *                      chance: 33.04,
+     *                      rarity: "Common",
+     *                      stage: "Stage 2, Stage 3 of 4, and Stage 3 of 5"
+     *                  }, {
+     *                      ...
+     *                  }
+     *              ],
+     *              missionRewards: [
+     *                  TBD
+     *              ]
+     *          }
+     */
+    transformCetusBountyReward(result, bounty, reward) {
+        var itemName = this.sanitizeItemName(reward.itemName);
+        var key = itemName.toUpperCase();
+
+        var dropRarity = reward.rarity;
+        var dropChange = reward.chance;
+
+        if (! result[key]) {
+            result[key] = {};
+        }
+
+        if (! result[key].cetusBountyRewards) {
+            result[key].cetusBountyRewards = [];
+        }
+
+        result[key].cetusBountyRewards.push({ bountyLevel: bounty.bountyLevel, chance: reward.chance, rarity: reward.rarity, stage: reward.stage});
+    }
+
+    sanitizeItemName(name) {
+        if (name.endsWith(" (Intact)")) {
+            return name.replace(" (Intact)", "");
+        }
+        if (name.endsWith(" (Exceptional)")) {
+            return name.replace(" (Exceptional)", "");
+        }
+        if (name.endsWith(" (Flawless)")) {
+            return name.replace(" (Flawless)", "");
+        }
+        if (name.endsWith(" (Radiant)")) {
+            return name.replace(" (Radiant)", "");
+        }
+
+        return name;
+    }
+
 }
 
 export default DropDataTransform;

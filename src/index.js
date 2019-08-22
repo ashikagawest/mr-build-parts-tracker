@@ -50,7 +50,7 @@ ReactDOM.render(
                 <div style={{height: "110px"}}/>
             </div>
             <div style={{background: 'blue', color: 'yellow', width: "100%", height: "100px", position: "fixed", bottom: "0", borderTop: "2px solid black"}}>
-                <FarmingInfoViewer farmingStore={farmingStore}/>
+                <FarmingInfoViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
             </div>
         </div>
         ,

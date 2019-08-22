@@ -13,17 +13,29 @@ export default class FarmingInfoViewer extends React.Component {
     }
 
     renderOneDrop(dropPart) {
-        // {"partName":"Boltor Prime Stock",
-        // "drops":[
-        //      {"relicName":"R1","relicTier":"Axi","relicReference":"A-R1-U"},
-        //      {"relicName":"S3","relicTier":"Axi","relicReference":"A-S3-U"}
-        //  ]
-        // }
-
-        var dropText = dropPart.drops.map((ele) => ele.relicReference).join(' | ');
+        var dropText = dropPart.drops.map((ele) => this.formatRelicReference(ele)).join(' | ');
         var text = dropPart.partName + ": " + dropText;
 
-        return <span style={{ border: "1px solid black", marginRight: "0.5ex", background: "white", color: "black", whiteSpace: "nowrap", display: "inline-block" }}>{text}</span>;
+        return <span key={dropPart.partName}
+                     style={{ border: "1px solid black", marginRight: "0.5ex", background: "white", color: "black", whiteSpace: "nowrap", display: "inline-block" }}>{text}</span>;
+    }
+
+    formatRelicReference(drop) {
+        var relicName = drop.relicTier + " " + drop.relicName + " Relic";
+        var key = relicName.toUpperCase();
+
+        var available = this.isPartAvailable(key);
+        var text = drop.relicReference;
+
+        if (available) {
+            text = text + " (AVAIL)";
+        }
+
+        return text;
+    }
+
+    isPartAvailable(partName) {
+        return (partName.toUpperCase() in this.props.dropTableMap);
     }
 
     render() {

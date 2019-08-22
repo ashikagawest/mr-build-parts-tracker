@@ -66,10 +66,10 @@ class WeaponTracker extends React.Component {
     onPartStateUpdate(partName, newState) {
         var dropKey = this.props.weaponInfo.weaponName + " " + partName;
 
-        if (newState == 1) {
+        if (newState === 1) {
             var collection = [];
             this.props.weaponInfo.parts
-                    .filter((ele) => ele.partName == partName)
+                    .filter((ele) => ele.partName === partName)
                     .map((ele) => this.collectPartDropData(collection, ele));
 
             this.props.farmingStore.addPartDrops(collection);
