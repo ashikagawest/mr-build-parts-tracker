@@ -17,7 +17,15 @@ export default class FarmingInfoViewer extends React.Component {
     }
 
     renderOneDrop(dropPart) {
-        var dropText = dropPart.drops.filter((ele) => this.keepUnhiddenOnly(ele)).sort(this.compareRelicDrops).map((ele) => this.formatRelicReference(ele)).join(' | ');
+        var dropText = "";
+
+        if (dropPart.drops) {
+            dropText =
+                dropPart.drops
+                    .filter((ele) => this.keepUnhiddenOnly(ele))
+                    .sort(this.compareRelicDrops)
+                    .map((ele) => this.formatRelicReference(ele)).join(' | ');
+        }
 
         if (dropText === "") {
             dropText = "N/A";
