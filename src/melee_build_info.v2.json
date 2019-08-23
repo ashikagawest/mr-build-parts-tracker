@@ -22,7 +22,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -66,7 +66,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -88,7 +88,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Prime Vault",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -106,7 +106,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -128,7 +128,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -150,7 +150,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -172,7 +172,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -190,7 +190,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -318,7 +318,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -358,7 +358,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -438,7 +438,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -478,7 +478,7 @@
         "weaponType": "Rapier"
     },
     {
-        "acquisition": "Anniversary award; currently unavailable",
+        "acquisition": "March Anniversary Award",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -486,7 +486,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 5000,
         "currency": [],
         "parts": [],
@@ -504,7 +504,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -526,7 +526,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -548,7 +548,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -592,7 +592,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -601,7 +601,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -615,7 +615,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -655,7 +655,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -677,7 +677,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -743,7 +743,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "50,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -765,7 +765,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -809,7 +809,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -845,7 +845,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -867,7 +867,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -885,7 +885,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -921,7 +921,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -943,7 +943,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -961,7 +961,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1027,7 +1027,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1045,7 +1045,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1129,7 +1129,7 @@
         "weaponType": "Warfans"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1235,7 +1235,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1319,7 +1319,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1341,7 +1341,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1385,7 +1385,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1407,7 +1407,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1491,7 +1491,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1513,7 +1513,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "65,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1575,7 +1575,7 @@
         "weaponType": "Blade & Whip"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1597,7 +1597,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1645,7 +1645,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1689,7 +1689,7 @@
         "weaponType": "Blade & Whip"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1711,7 +1711,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1719,7 +1719,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1767,7 +1767,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1811,7 +1811,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1829,7 +1829,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1851,7 +1851,7 @@
         "weaponType": "Nunchaku"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1873,7 +1873,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "55,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1917,7 +1917,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2127,7 +2127,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2145,7 +2145,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2180,7 +2180,7 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 40000,
         "currency": [],
         "parts": [],
@@ -2202,7 +2202,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2220,7 +2220,7 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2242,7 +2242,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2349,7 +2349,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2393,7 +2393,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2415,7 +2415,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -2483,7 +2483,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 5000,
         "currency": [],
         "parts": [],
@@ -2505,7 +2505,7 @@
         "weaponType": "Two-handed Nikana"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2535,7 +2535,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2593,7 +2593,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2650,7 +2650,7 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2668,7 +2668,7 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],

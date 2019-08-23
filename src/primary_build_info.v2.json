@@ -66,7 +66,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -176,7 +176,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -198,7 +198,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -220,7 +220,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -242,7 +242,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -290,7 +290,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -356,7 +356,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -378,7 +378,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -426,7 +426,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -518,7 +518,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -562,7 +562,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -668,7 +668,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -712,7 +712,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -734,7 +734,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -778,7 +778,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -866,7 +866,7 @@
         "weaponType": "Speargun"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -906,7 +906,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -950,7 +950,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -972,7 +972,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1047,7 +1047,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1055,7 +1055,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1063,7 +1063,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "15,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1071,7 +1071,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1111,7 +1111,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1185,7 +1185,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1225,7 +1225,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1269,7 +1269,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1313,7 +1313,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1427,7 +1427,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1571,7 +1571,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1593,7 +1593,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "50,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1615,7 +1615,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1637,7 +1637,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1681,7 +1681,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "25,000 cr on the Market",
+        "acquisition": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1759,7 +1759,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1841,7 +1841,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1863,7 +1863,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1903,7 +1903,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1925,7 +1925,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1947,7 +1947,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 60000,
         "currency": [],
         "parts": [],
@@ -1999,7 +1999,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "40,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -2021,7 +2021,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Prime Vault; currently unavailable",
+        "acquisition": "Void Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2065,7 +2065,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2095,7 +2095,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "30,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2125,7 +2125,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "20,000 cr on the Market",
+        "acquisition": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2144,6 +2144,36 @@
             }
         ],
         "weaponName": "Zhuge",
+        "weaponType": "Bow"
+    },
+    {
+        "acquisition": "Void Relic",
+        "credits": 15000,
+        "currency": [],
+        "resources": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Barrel"
+            },
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
+                "count": 1,
+                "partName": "Grip"
+            },
+            {
+                "count": 1,
+                "partName": "Receiver"
+            },
+            {
+                "count": 1,
+                "partName": "String"
+            }
+        ],
+        "weaponName": "Zhuge Prime",
         "weaponType": "Bow"
     }
 ]
