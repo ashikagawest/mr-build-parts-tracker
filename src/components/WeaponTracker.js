@@ -59,7 +59,7 @@ class WeaponTracker extends React.Component {
         var dropInfo = this.props.dropTableMap[dropKey.toUpperCase()];
 
         if ( dropInfo ) {
-            result.push({ partName: dropKey, drops: dropInfo });
+            result.push({ partName: dropKey, drops: dropInfo.relics });
         }
     }
 
