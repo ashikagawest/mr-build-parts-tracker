@@ -12,10 +12,12 @@ export default class FarmingInfoViewer extends React.Component {
         this.renderOneDrop = this.renderOneDrop.bind(this);
         this.keepUnhiddenOnly = this.keepUnhiddenOnly.bind(this);
         this.toggleShowAvailableOnly = this.toggleShowAvailableOnly.bind(this);
+        this.compareRelicDrops = this.compareRelicDrops.bind(this);
+        this.convertTierToNumber = this.convertTierToNumber.bind(this);
     }
 
     renderOneDrop(dropPart) {
-        var dropText = dropPart.drops.filter((ele) => this.keepUnhiddenOnly(ele)).map((ele) => this.formatRelicReference(ele)).join(' | ');
+        var dropText = dropPart.drops.filter((ele) => this.keepUnhiddenOnly(ele)).sort(this.compareRelicDrops).map((ele) => this.formatRelicReference(ele)).join(' | ');
 
         if (dropText === "") {
             dropText = "N/A";
@@ -26,6 +28,13 @@ export default class FarmingInfoViewer extends React.Component {
         return <span key={dropPart.partName}
                      style={{ boxShadow: "2px 2px lightblue", border: "1px solid black", marginRight: "0.5ex", background: "white", color: "black", whiteSpace: "nowrap", display: "inline-block" }}
             >{text}</span>;
+    }
+
+    compareRelicDrops(first, second) {
+        var result = this.convertTierToNumber(second.relicTier) - this.convertTierToNumber(first.relicTier);
+        if (result == 0) {
+            return first.relicName.localeCompare(second.relicName);
+        }
     }
 
     keepUnhiddenOnly(drop) {
@@ -62,10 +71,28 @@ export default class FarmingInfoViewer extends React.Component {
         this.setState({ showAvailableOnly: (! this.state.showAvailableOnly ) });
     }
 
+    convertTierToNumber(tier) {
+        switch (tier.toUpperCase()) {
+            case "AXI":
+                return 4;
+
+            case "LITH":
+                return 1;
+
+            case "MESO":
+                return 2;
+
+            case "NEO":
+                return 3;
+        }
+
+        return -1;
+    }
+
     render() {
         var drops = this.state.partDrops;
 
-        var items = drops.map(this.renderOneDrop);
+        var items = drops.sort((first, second) => { return first.partName.localeCompare(second.partName) }).map(this.renderOneDrop);
         var showAvailableOnlyButtonText = "Show Available Only";
         if (this.state.showAvailableOnly) {
             var showAvailableOnlyButtonText = "Show All";
