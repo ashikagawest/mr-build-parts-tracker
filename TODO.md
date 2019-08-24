@@ -1,12 +1,12 @@
 # TODO
 
-* [ ] Modularize components into their own JS classes
+* [x] Modularize components into their own JS classes
 * [ ] Export/Import State of all items
 * [ ] Clear State of all items
 * [ ] Add Locations of Parts (esp. relics)
 * [ ] Add Warframes
-* [ ] Add Secondary Weapons
-* [ ] Add Melee Weapons
+* [x] Add Secondary Weapons
+* [x] Add Melee Weapons
 * [ ] Add Sentinels
 * [ ] Add Sentinel Weapons
 * [ ] Add K-Drives
@@ -23,10 +23,12 @@
   * [ ] Ferrox
   * [ ] Fulmin
   * [ ] Glaxion Vandal
-  * [ ] Zhuge Prime
+  * [x] Zhuge Prime
   * [ ] Quatz
   * [ ] Spectra Vandal
+  * [ ] Ninkondi Prime
+  * [ ] Skana Prime
 * [ ] Add total XP counter
 * [ ] Display Acquisition Locations / Farming
   * [ ] Include data from https://drops.warframestat.us/data/all.json (https://github.com/WFCD/warframe-drop-data)
-  * [ ] Fallback to drop-data-snapshot_2019-08.json when warframestat.us is unreachable
+  * [x] Fallback to drop-data-snapshot_2019-08.json when warframestat.us is unreachable

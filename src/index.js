@@ -49,7 +49,7 @@ ReactDOM.render(
                 <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
                 <div style={{height: "110px"}}/>
             </div>
-            <div style={{background: 'blue', color: 'yellow', width: "100%", height: "100px", position: "fixed", bottom: "0", borderTop: "2px solid black"}}>
+            <div style={{background: 'blue', color: 'yellow', width: "100%", height: "200px", position: "fixed", bottom: "0", borderTop: "2px solid black", overflow: "scroll"}}>
                 <FarmingInfoViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
             </div>
         </div>

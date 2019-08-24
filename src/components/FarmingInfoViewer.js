@@ -107,6 +107,6 @@ export default class FarmingInfoViewer extends React.Component {
         }
 
         //return <div>{JSON.stringify(this.state.partDrops)}<br/>{items}</div>;
-        return <div><button onClick={this.toggleShowAvailableOnly}>{showAvailableOnlyButtonText}</button>{items}</div>;
+        return <div style={{ columns : "30ex 5" }}><button onClick={this.toggleShowAvailableOnly}>{showAvailableOnlyButtonText}</button>{items}</div>;
     }
 }

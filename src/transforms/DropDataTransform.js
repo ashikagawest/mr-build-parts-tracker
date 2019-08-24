@@ -146,7 +146,7 @@ class DropDataTransform {
     }
 
     transformRelicRewards(result, relic, reward) {
-        var relicReference = this.formatRelicReference(relic.relicName, relic.tier, reward.rarity);
+        var relicReference = this.formatRelicReference(relic.relicName, relic.tier, reward.rarity, reward.chance);
 
         var key = reward.itemName.toUpperCase();
 
@@ -157,7 +157,7 @@ class DropDataTransform {
         result[key].relics.push({ relicName: relic.relicName, relicTier: relic.tier, relicReference: relicReference });
     }
 
-    formatRelicReference(name, tier, rarity) {
+    formatRelicReference(name, tier, rarity, chance) {
         var tierRef;
         var rarityRef;
 
@@ -186,7 +186,12 @@ class DropDataTransform {
                 break;
 
             case "UNCOMMON":
-                rarityRef = "U";
+               	rarityRef = "U";
+
+		// Some Common relics are mistakenly reported as Uncommon; if chance >= 20, it is Common
+		if (chance >= 20 ) {
+			rarityRef = "C";
+		}
                 break;
 
             case "RARE":
