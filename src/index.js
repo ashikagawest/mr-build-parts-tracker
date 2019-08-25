@@ -1,5 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import "react-tabs/style/react-tabs.css";
+
 import WeaponListTracker from './components/WeaponListTracker.js';
 import DropDataTransform from './transforms/DropDataTransform.js';
 import FarmingStore from './store/FarmingStore.js';
@@ -37,22 +41,27 @@ meleeWeapons.sort(
     });
 
 
-            //<div style={{background: 'blue', color: 'yellow', width: "100%", height: "100px", position: "fixed", bottom: "0", borderTop: "2px solid black"}}>
-            //    {JSON.stringify(farmingStore.getPartDrops())}
-            //</div>
-
 ReactDOM.render(
-        <div>
-            <div style={{overflow: "scroll"}}>
-                <WeaponListTracker weaponType="PRIMARY" keyPrefix="primary-weapon-" weaponInfo={primaryWeapons} dropTableMap={dropTableMap} farmingStore={farmingStore}/>
-                <WeaponListTracker weaponType="SECONDARY" keyPrefix="secondary-weapon-" weaponInfo={secondaryWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
-                <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
-                <div style={{height: "110px"}}/>
-            </div>
-            <div style={{background: 'blue', color: 'yellow', width: "100%", height: "200px", position: "fixed", bottom: "0", borderTop: "2px solid black", overflow: "scroll"}}>
-                <FarmingInfoViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
-            </div>
-        </div>
+        <Tabs>
+            <TabList>
+                <Tab>Weapon Lists</Tab>
+                <Tab>In-Progress Drops</Tab>
+            </TabList>
+
+            <TabPanel>
+                <div style={{overflow: "scroll"}}>
+                    <WeaponListTracker weaponType="PRIMARY" keyPrefix="primary-weapon-" weaponInfo={primaryWeapons} dropTableMap={dropTableMap} farmingStore={farmingStore}/>
+                    <WeaponListTracker weaponType="SECONDARY" keyPrefix="secondary-weapon-" weaponInfo={secondaryWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                    <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                    <div style={{height: "110px"}}/>
+                </div>
+            </TabPanel>
+            <TabPanel>
+                <div style={{overflow: "scroll"}}>
+                    <FarmingInfoViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
+                </div>
+            </TabPanel>
+        </Tabs>
         ,
     document.getElementById('root')
 );
