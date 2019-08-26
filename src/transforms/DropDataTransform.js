@@ -154,7 +154,12 @@ class DropDataTransform {
             result[key] = { relics: [] };
         }
 
-        result[key].relics.push({ relicName: relic.relicName, relicTier: relic.tier, relicReference: relicReference });
+        result[key].relics.push({
+            relicName: relic.relicName,
+            relicTier: relic.tier,
+            relicReference: relicReference,
+            chance: reward.chance
+        });
     }
 
     formatRelicReference(name, tier, rarity, chance) {

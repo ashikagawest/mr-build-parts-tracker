@@ -2337,14 +2337,17 @@
             {
                 "count": 1,
                 "partName": "Blade"
-            }
-        ],
-        "resources": [
+            },
             {
                 "count": 1,
-                "partName": "heatsink"
+                "partName": "Heatsink"
+            },
+            {
+                "count": 1,
+                "partName": "Hilt"
             }
         ],
+        "resources": [],
         "weaponName": "Sheev",
         "weaponType": "Dagger"
     },

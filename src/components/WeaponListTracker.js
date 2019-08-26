@@ -15,6 +15,23 @@ class WeaponListTracker extends React.Component {
         this.state = { hideCompleted : false, hideCredits: false, hideResources: false };
     }
 
+    componentDidMount() {
+        var savedHideCompleted = localStorage.getItem(this.props.keyPrefix + "ui-hide-completed");
+        if ((savedHideCompleted) && (JSON.parse(savedHideCompleted))) {
+            this.setState({ hideCompleted: true });
+        }
+
+        var savedHideCredits = localStorage.getItem(this.props.keyPrefix + "ui-hide-credits");
+        if ((savedHideCredits) && (JSON.parse(savedHideCredits))) {
+            this.setState({ hideCredits: true });
+        }
+
+        var savedHideResources = localStorage.getItem(this.props.keyPrefix + "ui-hide-resources");
+        if ((savedHideResources) && (JSON.parse(savedHideResources))) {
+            this.setState({ hideResources: true });
+        }
+    }
+
     renderOneWeapon(weaponInfo, index) {
         var weaponKey = this.props.keyPrefix + index;
         return <WeaponTracker
@@ -32,16 +49,19 @@ class WeaponListTracker extends React.Component {
 
     onShowHiddenCompletedUpdate(event) {
         var newState = (! this.state.hideCompleted);
+        localStorage.setItem(this.props.keyPrefix + "ui-hide-completed", JSON.stringify(newState));
         this.setState({hideCompleted : newState})
     }
 
     onShowHiddenResourcesUpdate(event) {
         var newState = (! this.state.hideResources);
+        localStorage.setItem(this.props.keyPrefix + "ui-hide-resources", JSON.stringify(newState));
         this.setState({hideResources: newState})
     }
 
     onShowHiddenCreditsUpdate(event) {
         var newState = (! this.state.hideCredits);
+        localStorage.setItem(this.props.keyPrefix + "ui-hide-credits", JSON.stringify(newState));
         this.setState({hideCredits: newState})
     }
 

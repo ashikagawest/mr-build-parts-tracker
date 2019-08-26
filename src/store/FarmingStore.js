@@ -2,11 +2,13 @@ export default class FarmingStore {
     constructor() {
         this.partDrops = [];
         this.listeners = [];
+        this.partDropNameSet = {};
 
         this.addPartDrops = this.addPartDrops.bind(this);
         this.getPartDrops = this.getPartDrops.bind(this);
         this.removePartDrops = this.removePartDrops.bind(this);
         this.addListener = this.addListener.bind(this);
+        this.removeListener = this.removeListener.bind(this);
     }
 
     /**
@@ -24,26 +26,32 @@ export default class FarmingStore {
      *          ]
      *      }
      *
-     * @param partDropInfo
+     * @param partDropInfoArray
      */
-    addPartDrops(partDropInfo) {
-        this.partDrops.push.apply(this.partDrops, partDropInfo);
-
-        this.listeners.forEach((listener) => listener(this));
+    addPartDrops(partDropInfoArray) {
+        partDropInfoArray
+            .filter((ele) => ! (ele.partName in this.partDropNameSet))
+            .map((ele) => { this.partDrops.push(ele); this.partDropNameSet[ele.partName] = 1; });
     }
 
     removePartDrops(partName) {
         var newPartDropList = this.partDrops.filter((ele) => ele.partName !== partName);
+        delete this.partDropNameSet[partName];
+
         this.partDrops = newPartDropList;
 
         this.listeners.forEach((listener) => listener(this));
     }
 
     getPartDrops() {
-        return this.partDrops;
+        return JSON.parse(JSON.stringify(this.partDrops));
     }
 
     addListener(listener) {
         this.listeners.push(listener);
+    }
+
+    removeListener(listener) {
+        this.listeners = this.listeners.filter((ele) => ele != listener);
     }
 }

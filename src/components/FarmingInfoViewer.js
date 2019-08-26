@@ -7,13 +7,18 @@ export default class FarmingInfoViewer extends React.Component {
 
         this.state = { partDrops: this.props.farmingStore.getPartDrops(), showAvailableOnly: true };
 
-        this.props.farmingStore.addListener(() => this.setState({ partDrops: this.props.farmingStore.getPartDrops()}));
+        this.farmingStoreListener =  () => this.setState({ partDrops: this.props.farmingStore.getPartDrops()});
+        this.props.farmingStore.addListener(this.farmingStoreListener);
 
         this.renderOneDrop = this.renderOneDrop.bind(this);
         this.keepUnhiddenOnly = this.keepUnhiddenOnly.bind(this);
         this.toggleShowAvailableOnly = this.toggleShowAvailableOnly.bind(this);
         this.compareRelicDrops = this.compareRelicDrops.bind(this);
         this.convertTierToNumber = this.convertTierToNumber.bind(this);
+    }
+
+    componentWillUnmount() {
+        this.props.farmingStore.removeListener(this.farmingStoreListener);
     }
 
     renderOneDrop(dropPart) {

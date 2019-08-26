@@ -8,6 +8,7 @@ import WeaponListTracker from './components/WeaponListTracker.js';
 import DropDataTransform from './transforms/DropDataTransform.js';
 import FarmingStore from './store/FarmingStore.js';
 import FarmingInfoViewer from './components/FarmingInfoViewer.js';
+import FarmingInfoByDropViewer from './components/FarmingInfoByDropViewer.js';
 import './index.css';
 import './App.css';
 import * as serviceWorker from './serviceWorker';
@@ -41,11 +42,15 @@ meleeWeapons.sort(
     });
 
 
+// Drop view:
+//  Axi R2 Relic  |  Redeemer Prime Handle (10%)  |  Lex Prime Receiver (25.33%) | ...
+
 ReactDOM.render(
         <Tabs>
             <TabList>
                 <Tab>Weapon Lists</Tab>
-                <Tab>In-Progress Drops</Tab>
+                <Tab>Drops by Weapon</Tab>
+                <Tab>Drops by Source</Tab>
             </TabList>
 
             <TabPanel>
@@ -59,6 +64,11 @@ ReactDOM.render(
             <TabPanel>
                 <div style={{overflow: "scroll"}}>
                     <FarmingInfoViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
+                </div>
+            </TabPanel>
+            <TabPanel>
+                <div>
+                    <FarmingInfoByDropViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
                 </div>
             </TabPanel>
         </Tabs>
