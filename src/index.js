@@ -16,7 +16,7 @@ import * as serviceWorker from './serviceWorker';
 const primaryWeapons = require('./primary_build_info.v2.json');
 const secondaryWeapons = require('./secondary_build_info.v2.json');
 const meleeWeapons = require('./melee_build_info.v2.json');
-const dropTableSnapshot = require('./drop-data-snapshot_2019-08.json');
+const dropTableSnapshot = require('./drop-data-snapshot_2019-09-03.json');
 
 var transform = new DropDataTransform();
 var dropTableMap = transform.transform(dropTableSnapshot);
@@ -49,8 +49,8 @@ ReactDOM.render(
         <Tabs>
             <TabList>
                 <Tab>Weapon Lists</Tab>
-                <Tab>Drops by Weapon</Tab>
-                <Tab>Drops by Source</Tab>
+                <Tab>Farming: Drops by Weapon</Tab>
+                <Tab>Farming: Drops by Source</Tab>
             </TabList>
 
             <TabPanel>

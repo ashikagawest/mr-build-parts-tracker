@@ -69,8 +69,8 @@ export default class FarmingInfoByDropViewer extends React.Component {
                 <table>
                     <thead>
                     <tr key="farming-by-drop-thead">
-                        <th>SOURCE</th>
-                        <th>DROP</th>
+                        <th style={{background: "black", color: "white"}}>SOURCE</th>
+                        <th colSpan={99} style={{background: "black", color: "white"}}>DROPS</th>
                     </tr>
                     </thead>
                     <tbody>

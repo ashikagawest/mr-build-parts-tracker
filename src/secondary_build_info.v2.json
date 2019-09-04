@@ -45,6 +45,10 @@
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
                 "count": 2,
                 "partName": "Barrel"
             },
@@ -73,6 +77,10 @@
         "parts": [
             {
                 "count": 1,
+                "partName": "Blueprint"
+            },
+            {
+                "count": 1,
                 "partName": "Link"
             }
         ],
@@ -94,6 +102,10 @@
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Barrel"
@@ -132,7 +144,12 @@
         "acquisition": "Void relic",
         "credits": 15000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            }
+        ],
         "resources": [],
         "weaponName": "Aklex Prime",
         "weaponType": "Dual"
@@ -161,7 +178,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -183,10 +200,14 @@
         "weaponType": "Dual"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Barrel"
@@ -210,10 +231,15 @@
         "weaponType": "Dual"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 20000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            }
+        ],
         "resources": [],
         "weaponName": "Akvasto Prime",
         "weaponType": "Dual"
@@ -263,7 +289,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -341,6 +367,10 @@
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Lower Limb"
@@ -423,6 +453,10 @@
         "parts": [
             {
                 "count": 1,
+                "partName": "Blueprint"
+            },
+            {
+                "count": 1,
                 "partName": "Barrel"
             },
             {
@@ -435,7 +469,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -479,7 +513,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -549,7 +583,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -607,10 +641,14 @@
         "weaponType": "Continuous"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Barrel"
@@ -713,10 +751,14 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Pouch"
@@ -767,7 +809,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -861,7 +903,12 @@
     {
         "acquisition": "Founders reward; permanently unavailable",
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            }
+        ],
         "resources": [],
         "weaponName": "Lato Prime",
         "weaponType": "Single"
@@ -893,6 +940,10 @@
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Barrel"
@@ -937,7 +988,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -975,7 +1026,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -997,7 +1048,7 @@
         "weaponType": "Continuous"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1101,7 +1152,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1127,6 +1178,10 @@
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Barrel"
@@ -1199,10 +1254,14 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Barrel"
@@ -1239,7 +1298,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1283,10 +1342,14 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Pouch"
@@ -1301,7 +1364,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1375,7 +1438,7 @@
         "weaponType": "Continuous"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1538,10 +1601,14 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Barrel"
@@ -1594,7 +1661,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 15000,
         "currency": [],
         "parts": [],

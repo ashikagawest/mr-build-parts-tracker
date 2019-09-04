@@ -91,11 +91,16 @@ class WeaponListTracker extends React.Component {
 
         return <div>
                 <div className="heading">{this.props.weaponType} WEAPONS</div>
-                <p>TOTAL: {total}</p>
+                <p style={{ fontSize: "small" }}>TOTAL: {total}</p>
                 <button className="showHideButton" onClick={this.onShowHiddenCompletedUpdate}>{buttonTextSet.completed}</button>
                 <button className="showHideButton" onClick={this.onShowHiddenCreditsUpdate}>{buttonTextSet.credits}</button>
                 <button className="showHideButton" onClick={this.onShowHiddenResourcesUpdate}>{buttonTextSet.resources}</button>
                 <table>
+                    <thead>
+                        <th style={{ backgroundColor: "black", color: "white" }}>WEAPON</th>
+                        <th style={{ backgroundColor: "black", color: "white" }}>ACQUISITION</th>
+                        <th colSpan={99} style={{ backgroundColor: "black", color: "white" }}>REQUIREMENTS</th>
+                    </thead>
                     <tbody>
                     {rows}
                     </tbody>

@@ -1,6 +1,6 @@
 [
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 65000,
         "currency": [],
         "parts": [],
@@ -44,7 +44,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -88,10 +88,14 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Prime Vault",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Blade"
@@ -172,10 +176,14 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Ornament"
@@ -199,7 +207,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "reward for The War Within quest",
+        "acquisition": "Quest: The War Within",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -207,13 +215,24 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "drops from Stalker, reward for Second Dream quest",
+        "acquisition": "Quest: Second Dream; Enemy: Stalker + Conculyst",
         "credits": 20000,
         "currency": [],
         "parts": [
             {
                 "count": 1,
-                "partName": "Hilt"
+                "partName": "Blueprint",
+                "acquisition": "Quest: Second Dream; Enemy: Stalker"
+            },
+            {
+                "count": 1,
+                "partName": "Hilt",
+                "acquisition": "Enemy: Conculyst"
+            },
+            {
+                "count": 2,
+                "partName": "Blade",
+                "acquisition": "Enemy: Conculyst"
             }
         ],
         "resources": [
@@ -230,7 +249,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -358,10 +377,14 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -398,7 +421,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -464,6 +487,10 @@
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -601,10 +628,14 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Blade"
@@ -637,7 +668,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -699,7 +730,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -721,7 +752,7 @@
         "weaponType": "Rapier"
     },
     {
-        "acquisition": "Stolen Dreams quest; reward for Operation: Plague S",
+        "acquisition": "Quest: Stolen Dreams; Operation: Plague S",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -787,7 +818,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -836,6 +867,10 @@
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
                 "count": 2,
                 "partName": "Blade"
             }
@@ -867,10 +902,14 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Head"
@@ -943,10 +982,14 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -983,7 +1026,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1027,10 +1070,14 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Blade"
@@ -1073,6 +1120,10 @@
         "parts": [
             {
                 "count": 1,
+                "partName": "Blueprint"
+            },
+            {
+                "count": 1,
                 "partName": "Blade"
             },
             {
@@ -1085,7 +1136,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1107,7 +1158,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1151,7 +1202,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "drops from Stalker",
+        "acquisition": "Enemy: Stalker",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1217,8 +1268,14 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "75,000 Standing to Cephalon Simaris",
+        "acquisition": "Cephalon Simaris",
         "credits": 20000,
+        "currency": [
+            {
+                "amount": 75000,
+                "type": "standing"
+            }
+        ],
         "currency": [],
         "parts": [],
         "resources": [
@@ -1253,7 +1310,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1275,7 +1332,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1363,7 +1420,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1434,6 +1491,10 @@
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
                 "count": 2,
                 "partName": "Gauntlet"
             },
@@ -1447,7 +1508,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "drops from Tusk Thumper Bulls and Tusk Thumper Do",
+        "acquisition": "Enemy: Tusk Thumper (Bull and Doma)",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1469,7 +1530,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1540,6 +1601,10 @@
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
                 "count": 2,
                 "partName": "Blade"
             },
@@ -1553,7 +1618,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1727,7 +1792,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1753,6 +1818,10 @@
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Handle"
@@ -1789,7 +1858,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 5000,
         "currency": [],
         "parts": [],
@@ -1811,10 +1880,14 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -1895,7 +1968,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1944,6 +2017,10 @@
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
                 "count": 2,
                 "partName": "Blade"
             },
@@ -1957,17 +2034,24 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "reward for The War Within quest",
+        "acquisition": "Quest: The War Within and Enemy Drops",
         "credits": 15000,
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Quest: The War Within"
+            },
+            {
                 "count": 2,
-                "partName": "Orvius Blade"
+                "partName": "Blade",
+                "acquisition": "Enemy: Kuva Guardian"
             },
             {
                 "count": 1,
-                "partName": "Orvius Disc"
+                "partName": "Disc",
+                "acquisition": "Enemy: Kuva Jester"
             }
         ],
         "resources": [
@@ -2021,7 +2105,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisition": "Nightwave",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2043,31 +2127,49 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "200,000 cr, 490 Ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 200000,
+        "currency": [
+            {
+                "amount": 490,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Dual Cleavers",
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "175,000 cr, 500 Ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 175000,
+        "currency": [
+            {
+                "amount": 500,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Obex",
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "175,000 cr, 510 Ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 175000,
+        "currency": [
+            {
+                "amount": 510,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Skana",
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2089,8 +2191,14 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Event reward; 250,000 cr, 410 ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 250000,
+        "currency": [
+            {
+                "amount": 410,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prova Vandal",
@@ -2119,18 +2227,27 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "125,000 Standing to Red Veil",
-        "currency": [],
+        "acquisition": "Red Veil",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Rakta Dark Dagger",
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -2154,18 +2271,14 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisition": "",
-        "currency": [],
-        "parts": [],
-        "resources": [],
-        "weaponName": "Redeemer (along with Vasto)",
-        "weaponType": ""
-    },
-    {
         "acquisition": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -2194,8 +2307,13 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "125,000 Standing to New Loka",
-        "currency": [],
+        "acquisition": "New Loka",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Sancti Magistar",
@@ -2242,10 +2360,14 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -2282,15 +2404,20 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "125,000 Standing to Perrin Sequence",
-        "currency": [],
+        "acquisition": "Perrin Sequence",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Secura Lecta",
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Energy Research",
+        "acquisition": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2312,7 +2439,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2330,7 +2457,7 @@
         "weaponType": "Nunchaku"
     },
     {
-        "acquisition": "Event reward; possible invasion reward",
+        "acquisition": "Invasions",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -2374,7 +2501,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2396,10 +2523,14 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 1,
                 "partName": "Blade"
@@ -2448,7 +2579,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "reward for The Sacrifice quest",
+        "acquisition": "Quest: The Sacrifice",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -2456,7 +2587,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2478,8 +2609,13 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "125,000 Standing to Cephalon Suda",
-        "currency": [],
+        "acquisition": "Cephalon Suda",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Synoid Heliocor",
@@ -2530,8 +2666,13 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "125,000 Standing to Arbiters of Hexis",
-        "currency": [],
+        "acquisition": "Arbiters of Hexis",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Telos Boltace",
@@ -2561,6 +2702,10 @@
         "currency": [],
         "parts": [
             {
+                "count": 1,
+                "partName": "Blueprint"
+            },
+            {
                 "count": 2,
                 "partName": "Ornament"
             },
@@ -2574,7 +2719,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2605,7 +2750,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Chem Research",
+        "acquisition": "Dojo: Chem Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2623,15 +2768,20 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "125,000 Standing to Steel Meridian",
-        "currency": [],
+        "acquisition": "Steel Meridian",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Vaykor Sydon",
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Tenno Research",
+        "acquisition": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2653,10 +2803,14 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "Void Relic",
+        "acquisition": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint"
+            },
             {
                 "count": 2,
                 "partName": "Blade"
@@ -2693,7 +2847,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "drops from Shadow Stalker",
+        "acquisition": "Enemy: Shadow Stalker",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2715,7 +2869,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "drops from Wolf of Saturn Six",
+        "acquisition": "Enemy: Wolf of Saturn Six",
         "credits": 30000,
         "currency": [],
         "parts": [
