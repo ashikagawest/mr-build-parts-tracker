@@ -1702,8 +1702,14 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Event reward; 250,000 cr, 410 ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 250000,
+        "currency": [
+            {
+                "amount": 410,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Machete Wraith",

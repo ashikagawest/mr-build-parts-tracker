@@ -914,13 +914,21 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "Beta tester reward; Elite Sanctuary Onslaught reward",
+        "acquisition": "Elite Sanctuary Onslaught",
         "credits": 25000,
         "currency": [],
         "parts": [
             {
                 "count": 1,
+                "partName": "Blueprint"
+            },
+            {
+                "count": 1,
                 "partName": "Barrel"
+            },
+            {
+                "count": 1,
+                "partName": "Receiver"
             }
         ],
         "resources": [],
@@ -980,7 +988,14 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "200,000 cr, 500 Ducats to Baro Ki'Teer",
+        "acquisition": "Baro Ki'Teer",
+        "credits": 200000,
+        "currency": [
+            {
+                "amount": 500,
+                "type": "ducats"
+            }
+        ],
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1136,16 +1151,28 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "210,000 cr, 475 ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 210000,
+        "currency": [
+            {
+                "count": 475,
+                "partName": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Angstrum",
         "weaponType": "Single"
     },
     {
-        "acquisition": "220,000 cr, 500 ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 220000,
+        "currency": [
+            {
+                "count": 500,
+                "partName": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Twin Gremlins",
@@ -1196,16 +1223,26 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "100,000 Standing to Red Veil",
-        "currency": [],
+        "acquisition": "Red Veil",
+        "currency": [
+            {
+                "amount": 100000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Rakta Ballistica",
         "weaponType": "Single"
     },
     {
-        "acquisition": "100,000 Standing to New Loka",
-        "currency": [],
+        "acquisition": "New Loka",
+        "currency": [
+            {
+                "amount": 100000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Sancti Castanas",
@@ -1220,8 +1257,13 @@
         "weaponType": ""
     },
     {
-        "acquisition": "100,000 Standing to Perrin Sequence",
-        "currency": [],
+        "acquisition": "Perrin Sequence",
+        "currency": [
+            {
+                "amount": 100000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Secura Dual Cestra",
@@ -1430,8 +1472,13 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "100,000 Standing to Cephalon Suda",
-        "currency": [],
+        "acquisition": "Cephalon Suda",
+        "currency": [
+            {
+                "amount": 100000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Synoid Gammacor",
@@ -1460,8 +1507,13 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "100,000 Standing to Arbiters of Hexis",
-        "currency": [],
+        "acquisition": "Arbiters of Hexis",
+        "currency": [
+            {
+                "amount": 100000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Telos Akbolto",
@@ -1623,8 +1675,13 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "100,000 Standing to Steel Meridian",
-        "currency": [],
+        "acquisition": "Steel Meridian",
+        "currency": [
+            {
+                "amount": 100000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Vaykor Marelok",
@@ -1653,8 +1710,14 @@
         "weaponType": "Single"
     },
     {
-        "acquisition": "400 ducats, 75,000 cr to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 75000,
+        "currency": [
+            {
+                "amount": 400,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Viper Wraith",

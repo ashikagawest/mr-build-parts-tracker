@@ -284,10 +284,14 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Beta tester reward; Sanctuary Onslaught reward",
+        "acquisition": "Sanctuary Onslaught",
         "credits": 25000,
         "currency": [],
         "parts": [
+            {
+                "count": 1,
+                "partName": "Stock"
+            },
             {
                 "count": 1,
                 "partName": "Barrel"
@@ -1380,31 +1384,56 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "50,000 cr, 600 Ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 50000,
+        "currency": [
+            {
+                "amount": 600,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Gorgon",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "100,000 cr, 610 Ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 100000,
+        "currency": [
+            {
+                "amount": 610,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Grakata",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "220,000 cr, 500 Ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 220000,
+        "currency": [
+            {
+                "amount": 500,
+                "type": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Prisma Grinlok",
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "50,000 cr, 400 Ducats to Baro Ki'Teer",
+        "acquisition": "Baro Ki'Teer",
+        "credits": 50000,
+        "currency": [
+            {
+                "amount": 400,
+                "type": "ducats"
+            }
+        ],
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1434,7 +1463,8 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Event reward; 300,000 cr, 450 Ducats to Baro Ki'Teer",
+        "acquisition": "Baro Ki'Teer",
+        "notes": "Event reward; 300,000 cr, 450 Ducats to Baro Ki'Teer",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1442,7 +1472,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "drops from Ghouls (Plains of Eidolon); Ghoul Purge b",
+        "acquisition": "Ghouls",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1464,8 +1494,13 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "125,000 Standing to Red Veil",
-        "currency": [],
+        "acquisition": "Red Veil",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Rakta Cernos",
@@ -1520,8 +1555,13 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "125,000 Standing to New Loka",
-        "currency": [],
+        "acquisition": "New Loka",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Sancti Tigris",
@@ -1550,17 +1590,27 @@
         "weaponType": "Speargun"
     },
     {
-        "acquisition": "125,000 Standing to Perrin Sequence",
-        "currency": [],
+        "acquisition": "Perrin Sequence",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Secura Penta",
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "75,000 Standing to Cephalon Simaris",
+        "acquisition": "Cephalon Simaris",
         "credits": 20000,
-        "currency": [],
+        "currency": [
+            {
+                "amount": 75000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [
             {
@@ -1786,8 +1836,14 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Event reward; 275,000 cr, 500 ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 275000,
+        "currency": [
+            {
+                "count": 500,
+                "partName": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Supra Vandal",
@@ -1864,16 +1920,26 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "125,000 Standing to Cephalon Suda",
-        "currency": [],
+        "acquisition": "Cephalon Suda",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Synoid Simulor",
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "125,000 Standing to Arbiters of Hexis",
-        "currency": [],
+        "acquisition": "Arbiters of Hexis",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Telos Boltor",
@@ -2060,8 +2126,13 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "125,000 Standing to Steel Meridian",
-        "currency": [],
+        "acquisition": "Steel Meridian",
+        "currency": [
+            {
+                "amount": 125000,
+                "type": "standing"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Vaykor Hek",
@@ -2160,8 +2231,14 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Event reward; 300,000 cr, 450 ducats to Baro Ki'Teer",
-        "currency": [],
+        "acquisition": "Baro Ki'Teer",
+        "credits": 300000,
+        "currency": [
+            {
+                "count": 450,
+                "partName": "ducats"
+            }
+        ],
         "parts": [],
         "resources": [],
         "weaponName": "Vulkar Wraith",
