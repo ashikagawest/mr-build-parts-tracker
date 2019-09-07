@@ -55,11 +55,16 @@ class MultiStateClickableItemCell extends React.Component {
 
         // TODO: consider using the classnames() function instead
 
-        return <td key={this.props.partKey} className={completionClass + " " + this.props.className} onClick={this.onClickCell}>
-            <label>
-                {this.props.text}
-            </label>
+        return (
+            <td key={this.props.partKey} className={completionClass + " " + this.props.className}
+                onClick={this.onClickCell}>
+                <span>
+                    <label>
+                        {this.props.text}
+                    </label>
+                </span>
             </td>
+        )
             ;
     }
 }

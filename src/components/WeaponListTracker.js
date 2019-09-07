@@ -97,9 +97,11 @@ class WeaponListTracker extends React.Component {
                 <button className="showHideButton" onClick={this.onShowHiddenResourcesUpdate}>{buttonTextSet.resources}</button>
                 <table>
                     <thead>
-                        <th style={{ backgroundColor: "black", color: "white" }}>WEAPON</th>
-                        <th style={{ backgroundColor: "black", color: "white" }}>ACQUISITION</th>
-                        <th colSpan={99} style={{ backgroundColor: "black", color: "white" }}>REQUIREMENTS</th>
+                        <tr>
+                            <th style={{ backgroundColor: "black", color: "white" }}>WEAPON</th>
+                            <th style={{ backgroundColor: "black", color: "white" }}>ACQUISITION</th>
+                            <th colSpan={99} style={{ backgroundColor: "black", color: "white" }}>REQUIREMENTS</th>
+                        </tr>
                     </thead>
                     <tbody>
                     {rows}

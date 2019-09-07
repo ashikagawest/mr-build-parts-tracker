@@ -21,8 +21,42 @@ table, td, tr, th {
     color: black;
 }
 
-.hidden-weapon {
-    display: none;
+.weapon-row td {
+    animation-name: weapon-show-animation-td;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    overflow: hidden;
+    /*table-layout: fixed;*/
+}
+
+.weapon-row td span {
+    animation-name: weapon-show-animation;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    display: block;
+    overflow: hidden;
+}
+
+@keyframes weapon-show-animation-td {
+    from {
+        /*background: black;*/
+        padding: 0;
+        border: 0px;
+    }
+    to {
+        /*background: white;*/
+        padding: 1px;
+        border: 1px solid black;
+    }
+}
+
+@keyframes weapon-show-animation {
+    from {
+        height: 0;
+    }
+    to {
+        height: 1em;
+    }
 }
 
 .heading {

@@ -104,17 +104,19 @@ class WeaponTracker extends React.Component {
         var creditsElement = null;
         if (! this.props.hideCredits) {
             var formattedCredits = this.formatCredits(this.props.weaponInfo.credits);
-            var creditsElement = <td className="credits">{formattedCredits}</td>;
+            var creditsElement = <td className="credits"><span>{formattedCredits}</span></td>;
         }
 
         var result;
 
         if ((! this.state.checked) || (! this.props.hideCompleted )) {
-            result = <tr>
+            result = <tr className="weapon-row">
                 <ClickableItemCell storageKey={storageKey} text={this.props.weaponInfo.weaponName}
                                    onCheckedUpdate={this.onCheckedUpdate}/>
                 <td className={completionClass}>
-                    {this.props.weaponInfo.acquisition}
+                    <span>
+                        {this.props.weaponInfo.acquisition}
+                    </span>
                 </td>
                 {creditsElement}
                 {columns}
@@ -122,7 +124,6 @@ class WeaponTracker extends React.Component {
             ;
         } else {
             result = null;
-            console.log("skipping completed " + this.props.weaponInfo.weaponName + "; checked-state=" + this.state.checked);
         }
 
         return result;
