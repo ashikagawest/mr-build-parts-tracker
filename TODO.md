@@ -32,3 +32,5 @@
 * [ ] Display Acquisition Locations / Farming
   * [ ] Include data from https://drops.warframestat.us/data/all.json (https://github.com/WFCD/warframe-drop-data)
   * [x] Fallback to drop-data-snapshot_2019-08.json when warframestat.us is unreachable
+* [ ] Display items by "where to get" (Market, Enemy Drop, Relic, etc)
+
