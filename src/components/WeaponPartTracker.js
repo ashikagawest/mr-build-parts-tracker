@@ -32,8 +32,14 @@ class WeaponPartTracker extends React.Component {
             partNameText = this.props.partName;
         }
 
+        var acquisitionText = "";
+        if (this.props.partAcquisition) {
+            acquisitionText = this.props.partAcquisition;
+        }
+
         return <MultiStateClickableItemCell className={this.props.className} storageKey={partStgKey}
-                                            text={partNameText} onStateUpdate={this.onCellStateUpdate} />
+                                            text={partNameText} title={acquisitionText}
+                                            onStateUpdate={this.onCellStateUpdate} />
     }
 }
 

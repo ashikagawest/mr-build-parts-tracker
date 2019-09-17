@@ -32,6 +32,7 @@ class WeaponTracker extends React.Component {
 
         return <WeaponPartTracker className={"part-" + partType} weaponInfo={this.props.weaponInfo}
                                   partCount={part.count} partName={part.partName}
+                                  partAcquisition={part.acquisition}
                                   key={partKey} partKey={partKey} onPartStateUpdate={this.onPartStateUpdate}/>
     }
 

@@ -57,6 +57,7 @@ class MultiStateClickableItemCell extends React.Component {
 
         return (
             <td key={this.props.partKey} className={completionClass + " " + this.props.className}
+                title={this.props.title}
                 onClick={this.onClickCell}>
                 <span>
                     <label>
