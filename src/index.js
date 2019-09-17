@@ -16,6 +16,8 @@ import * as serviceWorker from './serviceWorker';
 const primaryWeapons = require('./primary_build_info.v2.json');
 const secondaryWeapons = require('./secondary_build_info.v2.json');
 const meleeWeapons = require('./melee_build_info.v2.json');
+const archwingMeleeWeapons = require('./archwing-melee_build_info.v2.json');
+const archGunWeapons = require('./arch-gun_build_info.v2.json');
 const dropTableSnapshot = require('./drop-data-snapshot_2019-09-03.json');
 
 var transform = new DropDataTransform();
@@ -40,6 +42,14 @@ meleeWeapons.sort(
     function (first, second) {
         return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 );
     });
+archGunWeapons.sort(
+    function (first, second) {
+        return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 );
+    });
+archwingMeleeWeapons.sort(
+    function (first, second) {
+        return ( first.weaponName.toUpperCase() < second.weaponName.toUpperCase() ? -1 : 1 );
+    });
 
 
 // Drop view:
@@ -58,6 +68,8 @@ ReactDOM.render(
                     <WeaponListTracker weaponType="PRIMARY" keyPrefix="primary-weapon-" weaponInfo={primaryWeapons} dropTableMap={dropTableMap} farmingStore={farmingStore}/>
                     <WeaponListTracker weaponType="SECONDARY" keyPrefix="secondary-weapon-" weaponInfo={secondaryWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
                     <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                    <WeaponListTracker weaponType="ARCHWING GUNS" keyPrefix="archwing-gun-weapon-" weaponInfo={archGunWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                    <WeaponListTracker weaponType="ARCHWING MELEE" keyPrefix="archwing-melee-weapon-" weaponInfo={archwingMeleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
                     <div style={{height: "110px"}}/>
                 </div>
             </TabPanel>

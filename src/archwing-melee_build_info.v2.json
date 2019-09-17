@@ -1,0 +1,235 @@
+[
+    {
+        "acquisition": "Syndicates + Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Market / 35,000"
+            },
+            {
+                "count": 1,
+                "partName": "Blade",
+                "acquisition": "New Loka / Bountiful / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Handle",
+                "acquisition": "Red Veil / Esteemed / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Guard",
+                "acquisition": "Steel Meridian / Defender / 20,000"
+            }
+        ],
+        "weaponName": "Agkuza",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Syndicates + Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Market / 35,000"
+            },
+            {
+                "count": 1,
+                "partName": "Blade",
+                "acquisition": "Perrin Sequence / Executive / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Handle",
+                "acquisition": "New Loka / Benevolent / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Aegis",
+                "acquisition": "Arbiters of Hexis / Lawful / 20,000"
+            }
+        ],
+        "weaponName": "Centaur",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Syndicates + Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [
+            {
+                "count": 3,
+                "partName": "Tellurium"
+            }
+        ],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Market / 35,000"
+            },
+            {
+                "count": 1,
+                "partName": "Blade",
+                "acquisition": "Perrin Sequence / Executive / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Handle",
+                "acquisition": "New Loka / Benevolent / 20,000"
+            }
+        ],
+        "weaponName": "Kaszas",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Chem Lab + Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [
+            {
+                "count": 5,
+                "partName": "Detonite Injector"
+            },
+            {
+                "count": 10,
+                "partName": "Gallium"
+            },
+            {
+                "count": 1,
+                "partName": "Forma"
+            }
+        ],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Chem Lab / 15,000"
+            },
+            {
+                "count": 1,
+                "partName": "Furax",
+                "acquisition": "Market"
+            }
+        ],
+        "weaponName": "Knux",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Syndicates + Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [
+            {
+                "count": 1,
+                "partName": "Neurodes"
+            }
+        ],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Market / 35,000"
+            },
+            {
+                "count": 2,
+                "partName": "Blade",
+                "acquisition": "New Loka / Bountiful / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Handle",
+                "acquisition": "Perrin Sequence / Senior Associate / 20,000"
+            }
+        ],
+        "weaponName": "Onorix",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Baro Ki'Teer",
+        "credits": 150000,
+        "currency": [
+	    {
+	        "amount": 550,
+                "type": "ducats"
+            }
+        ],
+        "resources": [],
+        "parts": [],
+        "weaponName": "Prisma Veritux",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Syndicates + Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [
+            {
+                "count": 300,
+                "partName": "Circuits"
+            },
+            {
+                "count": 1,
+                "partName": "Control Module"
+            }
+        ],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Market / 35,000"
+            },
+            {
+                "count": 1,
+                "partName": "Blade",
+                "acquisition": "New Loka / Bountiful / 20,000"
+            },
+            {
+                "count": 1,
+                "partName": "Handle",
+                "acquisition": "Red Veil / Honored / 20,000"
+            }
+        ],
+        "weaponName": "Rathbone",
+        "weaponType": "Archwing Melee"
+    },
+    {
+        "acquisition": "Market",
+        "credits": 25000,
+        "currency": [],
+        "resources": [
+            {
+                "count": 500,
+                "partName": "Rubedo"
+            },
+            {
+                "count": 1000,
+                "partName": "Salvage"
+            },
+            {
+                "count": 2,
+                "partName": "Neurodes"
+            },
+            {
+                "count": 500,
+                "partName": "Circuits"
+            }
+        ],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": "Archwing Quest, or Cephalon Simaris for 100,000"
+            }
+        ],
+        "weaponName": "Veritux",
+        "weaponType": "Archwing Melee"
+    }
+]
