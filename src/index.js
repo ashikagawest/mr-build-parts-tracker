@@ -56,15 +56,15 @@ archwingMeleeWeapons.sort(
 //  Axi R2 Relic  |  Redeemer Prime Handle (10%)  |  Lex Prime Receiver (25.33%) | ...
 
 ReactDOM.render(
-        <Tabs>
+        <Tabs style={{position: "fixed", top: 0, height: "100%", width: "100%"}}>
             <TabList>
                 <Tab>Weapon Lists</Tab>
                 <Tab>Farming: Drops by Weapon</Tab>
                 <Tab>Farming: Drops by Source</Tab>
             </TabList>
 
-            <TabPanel>
-                <div style={{overflow: "scroll"}}>
+            <TabPanel style={{height: "100%", width: "100%"}}>
+                <div style={{position: "relative", top: 0, left: 0, right: 0, bottom: 0, overflow: "scroll", maxHeight: "100%"}}>
                     <WeaponListTracker weaponType="PRIMARY" keyPrefix="primary-weapon-" weaponInfo={primaryWeapons} dropTableMap={dropTableMap} farmingStore={farmingStore}/>
                     <WeaponListTracker weaponType="SECONDARY" keyPrefix="secondary-weapon-" weaponInfo={secondaryWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
                     <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
@@ -73,14 +73,16 @@ ReactDOM.render(
                     <div style={{height: "110px"}}/>
                 </div>
             </TabPanel>
-            <TabPanel>
-                <div style={{overflow: "scroll"}}>
+            <TabPanel style={{height: "100%", width: "100%"}}>
+                <div style={{position: "relative", top: 0, left: 0, right: 0, bottom: 0, overflow: "scroll", maxHeight: "100%"}}>
                     <FarmingInfoViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
+                    <div style={{height: "110px"}}/>
                 </div>
             </TabPanel>
-            <TabPanel>
-                <div>
+            <TabPanel style={{height: "100%", width: "100%"}}>
+                <div style={{position: "relative", top: 0, left: 0, right: 0, bottom: 0, overflow: "scroll", maxHeight: "100%"}}>
                     <FarmingInfoByDropViewer farmingStore={farmingStore} dropTableMap={dropTableMap}/>
+                    <div style={{height: "110px"}}/>
                 </div>
             </TabPanel>
         </Tabs>
