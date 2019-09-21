@@ -1,6 +1,6 @@
 [
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -22,7 +22,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -44,7 +44,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -66,7 +66,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -88,7 +88,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -110,7 +110,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -132,7 +132,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -154,7 +154,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "drops from Drekar Troopers (Uranus)",
+        "acquisitionText": "drops from Drekar Troopers (Uranus)",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -176,7 +176,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -202,7 +202,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -224,7 +224,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -250,7 +250,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -258,7 +258,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -284,7 +284,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Sanctuary Onslaught",
+        "acquisitionText": "Sanctuary Onslaught",
         "credits": 25000,
         "currency": [],
         "parts": [
@@ -306,7 +306,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -328,7 +328,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -354,7 +354,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -376,7 +376,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -398,7 +398,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -428,7 +428,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -450,7 +450,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -472,7 +472,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -494,7 +494,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -516,7 +516,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Event reward; possible invasion reward",
+        "acquisitionText": "Event reward; possible invasion reward",
         "credits": 25000,
         "currency": [],
         "parts": [
@@ -534,7 +534,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Anniversary award; currently unavailable",
+        "acquisitionText": "Anniversary award; currently unavailable",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -542,7 +542,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -564,7 +564,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "drops from Stalker",
+        "acquisitionText": "drops from Stalker",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -586,7 +586,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -608,7 +608,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -630,7 +630,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -652,7 +652,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "drops from Heavy Gunners and their variants",
+        "acquisitionText": "drops from Heavy Gunners and their variants",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -674,7 +674,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Event reward; currently unavailable",
+        "acquisitionText": "Event reward; currently unavailable",
         "credits": 25000,
         "currency": [],
         "parts": [
@@ -692,7 +692,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -714,7 +714,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -736,7 +736,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -758,7 +758,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -780,7 +780,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -802,7 +802,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -824,7 +824,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -846,7 +846,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -868,7 +868,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -890,7 +890,7 @@
         "weaponType": "Speargun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -912,7 +912,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Event reward; possible invasion reward",
+        "acquisitionText": "Event reward; possible invasion reward",
         "credits": 25000,
         "currency": [],
         "parts": [
@@ -930,7 +930,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -952,7 +952,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -974,7 +974,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -996,7 +996,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1022,7 +1022,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Invasions",
+        "acquisitionText": "Invasions",
         "currency": [],
         "parts": [
             {
@@ -1047,7 +1047,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1069,7 +1069,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "drops from Lech Kril + Captain Vor (Ceres)",
+        "acquisitionText": "drops from Lech Kril + Captain Vor (Ceres)",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1092,7 +1092,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1100,7 +1100,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1108,7 +1108,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1116,7 +1116,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1134,7 +1134,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1156,7 +1156,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1178,7 +1178,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1200,7 +1200,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1222,7 +1222,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "reward for Operation: Buried Debt",
+        "acquisitionText": "reward for Operation: Buried Debt",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1230,7 +1230,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1248,7 +1248,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1270,7 +1270,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1292,7 +1292,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1318,7 +1318,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1340,7 +1340,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1362,7 +1362,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1384,7 +1384,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 50000,
         "currency": [
             {
@@ -1398,7 +1398,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 100000,
         "currency": [
             {
@@ -1412,7 +1412,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 220000,
         "currency": [
             {
@@ -1426,7 +1426,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 50000,
         "currency": [
             {
@@ -1441,7 +1441,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1463,7 +1463,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "notes": "Event reward; 300,000 cr, 450 Ducats to Baro Ki'Teer",
         "currency": [],
         "parts": [],
@@ -1472,7 +1472,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Ghouls",
+        "acquisitionText": "Ghouls",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1494,7 +1494,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Red Veil",
+        "acquisitionText": "Red Veil",
         "currency": [
             {
                 "amount": 125000,
@@ -1507,7 +1507,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1529,7 +1529,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1555,7 +1555,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "New Loka",
+        "acquisitionText": "New Loka",
         "currency": [
             {
                 "amount": 125000,
@@ -1568,7 +1568,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1590,7 +1590,7 @@
         "weaponType": "Speargun"
     },
     {
-        "acquisition": "Perrin Sequence",
+        "acquisitionText": "Perrin Sequence",
         "currency": [
             {
                 "amount": 125000,
@@ -1603,7 +1603,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Cephalon Simaris",
+        "acquisitionText": "Cephalon Simaris",
         "credits": 20000,
         "currency": [
             {
@@ -1630,7 +1630,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Event reward; currently unavailable",
+        "acquisitionText": "Event reward; currently unavailable",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1652,7 +1652,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Event reward; possible invasion reward",
+        "acquisitionText": "Event reward; possible invasion reward",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -1670,7 +1670,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1692,7 +1692,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1714,7 +1714,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1740,7 +1740,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1762,7 +1762,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -1788,7 +1788,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1796,7 +1796,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Event reward; possible invasion reward",
+        "acquisitionText": "Event reward; possible invasion reward",
         "credits": 25000,
         "currency": [],
         "parts": [
@@ -1814,7 +1814,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1836,7 +1836,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 275000,
         "currency": [
             {
@@ -1850,7 +1850,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1872,7 +1872,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1898,7 +1898,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1920,7 +1920,7 @@
         "weaponType": "Rifle (continuous)"
     },
     {
-        "acquisition": "Cephalon Suda",
+        "acquisitionText": "Cephalon Suda",
         "currency": [
             {
                 "amount": 125000,
@@ -1933,7 +1933,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Arbiters of Hexis",
+        "acquisitionText": "Arbiters of Hexis",
         "currency": [
             {
                 "amount": 125000,
@@ -1946,7 +1946,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1968,7 +1968,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1990,7 +1990,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2008,7 +2008,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -2034,7 +2034,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -2056,7 +2056,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2082,7 +2082,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 60000,
         "currency": [],
         "parts": [],
@@ -2104,7 +2104,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2126,7 +2126,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Steel Meridian",
+        "acquisitionText": "Steel Meridian",
         "currency": [
             {
                 "amount": 125000,
@@ -2139,7 +2139,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -2161,7 +2161,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2187,7 +2187,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2209,7 +2209,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2231,7 +2231,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 300000,
         "currency": [
             {
@@ -2245,7 +2245,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2267,7 +2267,7 @@
         "weaponType": "Launcher"
     },
     {
-        "acquisition": "Login reward",
+        "acquisitionText": "Login reward",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -2275,7 +2275,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2297,7 +2297,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "resources": [],

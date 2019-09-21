@@ -1,6 +1,6 @@
 [
     {
-        "acquisition": "Syndicates + Market",
+        "acquisitionText": "Syndicates + Market",
         "credits": 45000,
         "currency": [],
         "resources": [
@@ -13,29 +13,29 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Market / 35,000"
+                "acquisitionText": "Market / 35,000"
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisition": "Arbiters of Hexis / Authentic / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisition": "Cephalon Suda / Intruiging / 20,000"
+                "acquisitionText": "Cephalon Suda / Intruiging / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisition": "Steel Meridian / Valiant / 20,000"
+                "acquisitionText": "Steel Meridian / Valiant / 20,000"
             }
         ],
         "weaponName": "Corvas",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Market",
+        "acquisitionText": "Syndicates + Market",
         "credits": 45000,
         "currency": [],
         "resources": [
@@ -48,29 +48,29 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Market / 35,000"
+                "acquisitionText": "Market / 35,000"
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisition": "Arbiters of Hexis / Lawful / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Lawful / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisition": "Cephalon Suda / Intelligent / 20,000"
+                "acquisitionText": "Cephalon Suda / Intelligent / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisition": "Perrin Sequence / Executive / 20,000"
+                "acquisitionText": "Perrin Sequence / Executive / 20,000"
             }
         ],
         "weaponName": "Cyngas",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Market",
+        "acquisitionText": "Syndicates + Market",
         "credits": 45000,
         "currency": [],
         "resources": [
@@ -83,24 +83,24 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Market / 35,000"
+                "acquisitionText": "Market / 35,000"
             },
             {
                 "count": 2,
                 "partName": "Barrel",
-                "acquisition": "Arbiters of Hexis / Authentic / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000"
             },
             {
                 "count": 2,
                 "partName": "Receiver",
-                "acquisition": "Cephalon Suda / Intruiging / 20,000"
+                "acquisitionText": "Cephalon Suda / Intruiging / 20,000"
             }
         ],
         "weaponName": "Dual Decurion",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Tenno Lab",
+        "acquisitionText": "Syndicates + Tenno Lab",
         "credits": 45000,
         "currency": [],
         "resources": [
@@ -113,29 +113,29 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Tenno Lab / 15,000"
+                "acquisitionText": "Tenno Lab / 15,000"
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisition": "Cephalon Suda / Intelligent / 20,000"
+                "acquisitionText": "Cephalon Suda / Intelligent / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Limbs",
-                "acquisition": "Red Veil / Esteemed / 20,000"
+                "acquisitionText": "Red Veil / Esteemed / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisition": "Steel Meridian / Defender / 20,000"
+                "acquisitionText": "Steel Meridian / Defender / 20,000"
             }
         ],
         "weaponName": "Fluctus",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Chem Lab",
+        "acquisitionText": "Syndicates + Chem Lab",
         "credits": 65000,
         "currency": [],
         "resources": [
@@ -160,14 +160,14 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Chem Lab / 15,000"
+                "acquisitionText": "Chem Lab / 15,000"
             }
         ],
         "weaponName": "Grattler",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Market",
+        "acquisitionText": "Syndicates + Market",
         "credits": 25000,
         "currency": [],
         "resources": [
@@ -192,14 +192,14 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Archwing Quest, or Cephalon Simaris for 100,000"
+                "acquisitionText": "Archwing Quest, or Cephalon Simaris for 100,000"
             }
         ],
         "weaponName": "Imperator",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Fomorian Sabotage Alerts",
+        "acquisitionText": "Fomorian Sabotage Alerts",
         "credits": 25000,
         "currency": [],
         "resources": [
@@ -212,24 +212,24 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Fomorian Sabotage Alerts"
+                "acquisitionText": "Fomorian Sabotage Alerts"
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisition": "Fomorian Sabotage Alerts"
+                "acquisitionText": "Fomorian Sabotage Alerts"
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisition": "Fomorian Sabotage Alerts"
+                "acquisitionText": "Fomorian Sabotage Alerts"
             }
         ],
         "weaponName": "Imperator Vandal",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Tenno Lab",
+        "acquisitionText": "Tenno Lab",
         "credits": 20000,
         "currency": [],
         "resources": [
@@ -254,14 +254,14 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Tenno Lab"
+                "acquisitionText": "Tenno Lab"
             }
         ],
         "weaponName": "Larkspur",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Market",
+        "acquisitionText": "Syndicates + Market",
         "credits": 25000,
         "currency": [],
         "resources": [
@@ -274,29 +274,29 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Market / 35,000"
+                "acquisitionText": "Market / 35,000"
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisition": "Arbiters of Hexis / Authentic / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisition": "Perrin Sequence / Senior Associate / 20,000"
+                "acquisitionText": "Perrin Sequence / Senior Associate / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisition": "New Loka / Bountiful / 20,000"
+                "acquisitionText": "New Loka / Bountiful / 20,000"
             }
         ],
         "weaponName": "Phaedra",
         "weaponType": "Archwing Primary"
     },
     {
-        "acquisition": "Syndicates + Tenno Lab",
+        "acquisitionText": "Syndicates + Tenno Lab",
         "credits": 25000,
         "currency": [],
         "resources": [
@@ -309,22 +309,22 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Tenno Lab / 15,000"
+                "acquisitionText": "Tenno Lab / 15,000"
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisition": "Cephalon Suda / Intruiging / 20,000"
+                "acquisitionText": "Cephalon Suda / Intruiging / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisition": "Steel Meridian / Valiant / 20,000"
+                "acquisitionText": "Steel Meridian / Valiant / 20,000"
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisition": "Red Veil / Honored / 20,000"
+                "acquisitionText": "Red Veil / Honored / 20,000"
             }
         ],
         "weaponName": "Velocitus",

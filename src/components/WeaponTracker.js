@@ -34,7 +34,7 @@ class WeaponTracker extends React.Component {
 
         return <WeaponPartTracker className={"part-" + partType} weaponInfo={this.props.weaponInfo}
                                   partCount={part.count} partName={part.partName}
-                                  partAcquisition={part.acquisition}
+                                  partAcquisition={part.acquisitionText}
                                   key={partKey} partKey={partKey} onPartStateUpdate={this.onPartStateUpdate}/>
     }
 
@@ -121,7 +121,7 @@ class WeaponTracker extends React.Component {
                                            onCheckedUpdate={this.onCheckedUpdate}/>
                         <td className={completionClass}>
                         <span>
-                            {this.props.weaponInfo.acquisition}
+                            {this.props.weaponInfo.acquisitionText}
                         </span>
                         </td>
                         {creditsElement}

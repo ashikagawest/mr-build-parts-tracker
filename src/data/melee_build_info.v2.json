@@ -1,6 +1,6 @@
 [
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 65000,
         "currency": [],
         "parts": [],
@@ -22,7 +22,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -44,7 +44,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -66,7 +66,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -88,7 +88,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -110,7 +110,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -132,7 +132,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -154,7 +154,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -176,7 +176,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -198,7 +198,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -207,7 +207,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Quest: The War Within",
+        "acquisitionText": "Quest: The War Within",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -215,24 +215,24 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Quest: Second Dream; Enemy: Stalker + Conculyst",
+        "acquisitionText": "Quest: Second Dream; Enemy: Stalker + Conculyst",
         "credits": 20000,
         "currency": [],
         "parts": [
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Quest: Second Dream; Enemy: Stalker"
+                "acquisitionText": "Quest: Second Dream; Enemy: Stalker"
             },
             {
                 "count": 1,
                 "partName": "Hilt",
-                "acquisition": "Enemy: Conculyst"
+                "acquisitionText": "Enemy: Conculyst"
             },
             {
                 "count": 2,
                 "partName": "Blade",
-                "acquisition": "Enemy: Conculyst"
+                "acquisitionText": "Enemy: Conculyst"
             }
         ],
         "resources": [
@@ -249,7 +249,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -271,7 +271,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -293,7 +293,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -315,7 +315,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -337,7 +337,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -359,7 +359,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "drops from Captain Vor (Mercury)",
+        "acquisitionText": "drops from Captain Vor (Mercury)",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -377,7 +377,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -399,7 +399,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -421,7 +421,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -439,7 +439,7 @@
         "weaponType": "Heavy/Dual Swords"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -461,7 +461,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -483,7 +483,7 @@
         "weaponType": "Rapier"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -505,7 +505,7 @@
         "weaponType": "Rapier"
     },
     {
-        "acquisition": "March Anniversary Award",
+        "acquisitionText": "March Anniversary Award",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -513,7 +513,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 5000,
         "currency": [],
         "parts": [],
@@ -531,7 +531,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -553,7 +553,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -575,7 +575,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -597,7 +597,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -619,7 +619,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -628,7 +628,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -646,7 +646,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -668,7 +668,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -686,7 +686,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -708,7 +708,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -730,7 +730,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -752,7 +752,7 @@
         "weaponType": "Rapier"
     },
     {
-        "acquisition": "Quest: Stolen Dreams; Operation: Plague S",
+        "acquisitionText": "Quest: Stolen Dreams; Operation: Plague S",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -774,7 +774,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -796,7 +796,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -818,7 +818,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -840,7 +840,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -862,7 +862,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -880,7 +880,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -902,7 +902,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -924,7 +924,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -946,7 +946,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Event reward; bounties in Cetus",
+        "acquisitionText": "Event reward; bounties in Cetus",
         "credits": 25000,
         "currency": [],
         "parts": [
@@ -960,7 +960,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -982,7 +982,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1004,7 +1004,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1026,7 +1026,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1048,7 +1048,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1070,7 +1070,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1092,7 +1092,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1114,7 +1114,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1136,7 +1136,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1158,7 +1158,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1180,7 +1180,7 @@
         "weaponType": "Warfans"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1202,7 +1202,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Enemy: Stalker",
+        "acquisitionText": "Enemy: Stalker",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1224,7 +1224,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1246,7 +1246,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Nightwave reward; Once Awake quest",
+        "acquisitionText": "Nightwave reward; Once Awake quest",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1268,7 +1268,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Cephalon Simaris",
+        "acquisitionText": "Cephalon Simaris",
         "credits": 20000,
         "currency": [
             {
@@ -1292,7 +1292,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1310,7 +1310,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1332,7 +1332,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1354,7 +1354,7 @@
         "weaponType": "Blade & Whip"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1376,7 +1376,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1398,7 +1398,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1420,7 +1420,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1442,7 +1442,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1464,7 +1464,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1486,7 +1486,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1508,7 +1508,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Enemy: Tusk Thumper (Bull and Doma)",
+        "acquisitionText": "Enemy: Tusk Thumper (Bull and Doma)",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1530,7 +1530,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1552,7 +1552,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1574,7 +1574,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1596,7 +1596,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -1618,7 +1618,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1640,7 +1640,7 @@
         "weaponType": "Blade & Whip"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1662,7 +1662,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1680,7 +1680,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Currently unavailable",
+        "acquisitionText": "Currently unavailable",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -1702,7 +1702,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 250000,
         "currency": [
             {
@@ -1716,7 +1716,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 25000,
         "currency": [],
         "parts": [],
@@ -1738,7 +1738,7 @@
         "weaponType": "Heavy"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1760,7 +1760,7 @@
         "weaponType": "Blade & Whip"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1782,7 +1782,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1790,7 +1790,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -1798,7 +1798,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1820,7 +1820,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1842,7 +1842,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1864,7 +1864,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 5000,
         "currency": [],
         "parts": [],
@@ -1886,7 +1886,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1908,7 +1908,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1930,7 +1930,7 @@
         "weaponType": "Nunchaku"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -1952,7 +1952,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1974,7 +1974,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -1996,7 +1996,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2018,7 +2018,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2040,24 +2040,24 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Quest: The War Within and Enemy Drops",
+        "acquisitionText": "Quest: The War Within and Enemy Drops",
         "credits": 15000,
         "currency": [],
         "parts": [
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisition": "Quest: The War Within"
+                "acquisitionText": "Quest: The War Within"
             },
             {
                 "count": 2,
                 "partName": "Blade",
-                "acquisition": "Enemy: Kuva Guardian"
+                "acquisitionText": "Enemy: Kuva Guardian"
             },
             {
                 "count": 1,
                 "partName": "Disc",
-                "acquisition": "Enemy: Kuva Jester"
+                "acquisitionText": "Enemy: Kuva Jester"
             }
         ],
         "resources": [
@@ -2070,7 +2070,7 @@
         "weaponType": "Thrown"
     },
     {
-        "acquisition": "Nightwave reward",
+        "acquisitionText": "Nightwave reward",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2092,7 +2092,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "reward for Chimera Prologue quest",
+        "acquisitionText": "reward for Chimera Prologue quest",
         "credits": 30000,
         "currency": [
             {
@@ -2111,7 +2111,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Nightwave",
+        "acquisitionText": "Nightwave",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2133,7 +2133,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 200000,
         "currency": [
             {
@@ -2147,7 +2147,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 175000,
         "currency": [
             {
@@ -2161,7 +2161,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 175000,
         "currency": [
             {
@@ -2175,7 +2175,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2197,7 +2197,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Baro Ki'Teer",
+        "acquisitionText": "Baro Ki'Teer",
         "credits": 250000,
         "currency": [
             {
@@ -2211,7 +2211,7 @@
         "weaponType": "Machete"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2233,7 +2233,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Red Veil",
+        "acquisitionText": "Red Veil",
         "currency": [
             {
                 "amount": 125000,
@@ -2246,7 +2246,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2268,7 +2268,7 @@
         "weaponType": "Scythe"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2277,7 +2277,7 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2299,7 +2299,7 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 40000,
         "currency": [],
         "parts": [],
@@ -2313,7 +2313,7 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "New Loka",
+        "acquisitionText": "New Loka",
         "currency": [
             {
                 "amount": 125000,
@@ -2326,7 +2326,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2344,7 +2344,7 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2366,7 +2366,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2388,7 +2388,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Bio Research",
+        "acquisitionText": "Bio Research",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2410,7 +2410,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Perrin Sequence",
+        "acquisitionText": "Perrin Sequence",
         "currency": [
             {
                 "amount": 125000,
@@ -2423,7 +2423,7 @@
         "weaponType": "Whip"
     },
     {
-        "acquisition": "Dojo: Energy Lab",
+        "acquisitionText": "Dojo: Energy Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2445,7 +2445,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2463,7 +2463,7 @@
         "weaponType": "Nunchaku"
     },
     {
-        "acquisition": "Invasions",
+        "acquisitionText": "Invasions",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -2485,7 +2485,7 @@
         "weaponType": "Dagger"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2499,7 +2499,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Login reward",
+        "acquisitionText": "Login reward",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -2507,7 +2507,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2529,7 +2529,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2555,7 +2555,7 @@
         "weaponType": "Sword & Shield"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 15000,
         "currency": [],
         "parts": [],
@@ -2577,7 +2577,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Founders reward; permanently unavailable",
+        "acquisitionText": "Founders reward; permanently unavailable",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -2585,7 +2585,7 @@
         "weaponType": "Sword"
     },
     {
-        "acquisition": "Quest: The Sacrifice",
+        "acquisitionText": "Quest: The Sacrifice",
         "currency": [],
         "parts": [],
         "resources": [],
@@ -2593,7 +2593,7 @@
         "weaponType": "Nikana"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2615,7 +2615,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Cephalon Suda",
+        "acquisitionText": "Cephalon Suda",
         "currency": [
             {
                 "amount": 125000,
@@ -2628,7 +2628,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 5000,
         "currency": [],
         "parts": [],
@@ -2650,7 +2650,7 @@
         "weaponType": "Two-handed Nikana"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2672,7 +2672,7 @@
         "weaponType": "Fist"
     },
     {
-        "acquisition": "Arbiters of Hexis",
+        "acquisitionText": "Arbiters of Hexis",
         "currency": [
             {
                 "amount": 125000,
@@ -2685,7 +2685,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2703,7 +2703,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Void relic",
+        "acquisitionText": "Void relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -2725,7 +2725,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2747,7 +2747,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 30000,
         "currency": [],
         "parts": [],
@@ -2756,7 +2756,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Dojo: Chem Lab",
+        "acquisitionText": "Dojo: Chem Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2774,7 +2774,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisition": "Steel Meridian",
+        "acquisitionText": "Steel Meridian",
         "currency": [
             {
                 "amount": 125000,
@@ -2787,7 +2787,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisition": "Dojo: Tenno Lab",
+        "acquisitionText": "Dojo: Tenno Lab",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2809,7 +2809,7 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "Relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2831,7 +2831,7 @@
         "weaponType": "Claw"
     },
     {
-        "acquisition": "Market",
+        "acquisitionText": "Market",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2853,7 +2853,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Enemy: Shadow Stalker",
+        "acquisitionText": "Enemy: Shadow Stalker",
         "credits": 20000,
         "currency": [],
         "parts": [],
@@ -2875,7 +2875,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisition": "Enemy: Wolf of Saturn Six",
+        "acquisitionText": "Enemy: Wolf of Saturn Six",
         "credits": 30000,
         "currency": [],
         "parts": [
@@ -2898,7 +2898,7 @@
         "weaponType": "Hammer"
     },
     {
-        "acquisition": "Login reward",
+        "acquisitionText": "Login reward",
         "currency": [],
         "parts": [],
         "resources": [],
