@@ -32,12 +32,12 @@ class WeaponListTracker extends React.Component {
         }
     }
 
-    renderOneWeapon(weaponInfo, index) {
+    renderOneWeapon(oneWeaponInfo, index) {
         var weaponKey = this.props.keyPrefix + index;
         return <WeaponTracker
                     key={weaponKey}
                     weaponKey={weaponKey}
-                    weaponInfo={weaponInfo}
+                    weaponInfo={oneWeaponInfo}
                     dropTableMap={this.props.dropTableMap}
                     farmingStore={this.props.farmingStore}
                     hideCompleted={this.state.hideCompleted}
