@@ -89,7 +89,7 @@ class WeaponListTracker extends React.Component {
 
         var buttonTextSet = this.prepareButtonText();
 
-        return <div style={{display: "inline-block", marginLeft: "3px", marginRight: "3px"}}>
+        return <div style={{display: "inline-block", marginLeft: "3px", marginRight: "3px", marginBottom: "1em", border: "1px solid grey"}}>
                 <div className="heading">{this.props.weaponType} WEAPONS</div>
                 <p style={{ fontSize: "small" }}>TOTAL: {total}</p>
                 <button className="showHideButton" onClick={this.onShowHiddenCompletedUpdate}>{buttonTextSet.completed}</button>
