@@ -13,12 +13,12 @@ import './index.css';
 import './App.css';
 import * as serviceWorker from './serviceWorker';
 
-const primaryWeapons = require('./primary_build_info.v2.json');
-const secondaryWeapons = require('./secondary_build_info.v2.json');
-const meleeWeapons = require('./melee_build_info.v2.json');
-const archwingMeleeWeapons = require('./archwing-melee_build_info.v2.json');
-const archGunWeapons = require('./arch-gun_build_info.v2.json');
-const dropTableSnapshot = require('./drop-data-snapshot_2019-09-03.json');
+const primaryWeapons = require('./data/primary_build_info.v2.json');
+const secondaryWeapons = require('./data/secondary_build_info.v2.json');
+const meleeWeapons = require('./data/melee_build_info.v2.json');
+const archwingMeleeWeapons = require('./data/archwing-melee_build_info.v2.json');
+const archGunWeapons = require('./data/arch-gun_build_info.v2.json');
+const dropTableSnapshot = require('./data/drop-data-snapshot_2019-09-03.json');
 
 var transform = new DropDataTransform();
 var dropTableMap = transform.transform(dropTableSnapshot);
