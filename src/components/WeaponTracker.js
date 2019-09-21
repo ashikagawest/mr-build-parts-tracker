@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Transition } from 'react-transition-group';
+
 import ClickableItemCell from './ClickableItemCell.js';
 import WeaponPartTracker from './WeaponPartTracker.js';
 
@@ -108,24 +110,27 @@ class WeaponTracker extends React.Component {
             var creditsElement = <td className="credits"><span>{formattedCredits}</span></td>;
         }
 
-        var result;
+        var visible = ((! this.state.checked) || (! this.props.hideCompleted));
 
-        if ((! this.state.checked) || (! this.props.hideCompleted )) {
-            result = <tr className="weapon-row">
-                <ClickableItemCell storageKey={storageKey} text={this.props.weaponInfo.weaponName}
-                                   onCheckedUpdate={this.onCheckedUpdate}/>
-                <td className={completionClass}>
-                    <span>
-                        {this.props.weaponInfo.acquisition}
-                    </span>
-                </td>
-                {creditsElement}
-                {columns}
-            </tr>
-            ;
-        } else {
-            result = null;
-        }
+        var result;
+        result = (
+            <Transition in={visible} timeout={300} unmountOnExit={true}>
+                {transitionState => (
+                    <tr className={"weapon-row weapon-row-" + transitionState}>
+                        <ClickableItemCell storageKey={storageKey} text={this.props.weaponInfo.weaponName}
+                                           onCheckedUpdate={this.onCheckedUpdate}/>
+                        <td className={completionClass}>
+                        <span>
+                            {this.props.weaponInfo.acquisition}
+                        </span>
+                        </td>
+                        {creditsElement}
+                        {columns}
+                    </tr>
+                )}
+            </Transition>
+        )
+        ;
 
         return result;
     }

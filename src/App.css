@@ -1,5 +1,5 @@
 table {
-    /*border-collapse: collapse;*/
+    border-collapse: collapse;
 }
 
 table, td, tr, th {
@@ -22,19 +22,28 @@ table, td, tr, th {
 }
 
 .weapon-row td {
-    animation-name: weapon-show-animation-td;
-    animation-duration: 1s;
-    animation-timing-function: linear;
     overflow: hidden;
-    /*table-layout: fixed;*/
 }
 
 .weapon-row td span {
-    animation-name: weapon-show-animation;
-    animation-duration: 1s;
-    animation-timing-function: linear;
     display: block;
     overflow: hidden;
+}
+
+.weapon-row-entering td span {
+    animation-name: weapon-show-animation;
+    animation-duration: 300ms;
+    animation-timing-function: ease;
+}
+
+.weapon-row-entered td span {
+    height: auto;
+}
+
+.weapon-row-exiting td span {
+    animation-name: weapon-hide-animation;
+    animation-duration: 300ms;
+    animation-timing-function: ease;
 }
 
 @keyframes weapon-show-animation-td {
@@ -55,7 +64,16 @@ table, td, tr, th {
         height: 0;
     }
     to {
-        height: 1em;
+        height: 1.1em;
+    }
+}
+
+@keyframes weapon-hide-animation {
+    from {
+        height: 1.1em;
+    }
+    to {
+        height: 0;
     }
 }
 
