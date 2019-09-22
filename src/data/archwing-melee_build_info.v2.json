@@ -13,17 +13,35 @@
             {
                 "count": 1,
                 "partName": "Blade",
-                "acquisitionText": "New Loka / Bountiful / 20,000"
+                "acquisitionText": "New Loka / Bountiful / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "New Loka",
+                    "requirement": "Bountiful Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Handle",
-                "acquisitionText": "Red Veil / Esteemed / 20,000"
+                "acquisitionText": "Red Veil / Esteemed / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Red Veil",
+                    "requirement": "Esteemed Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Guard",
-                "acquisitionText": "Steel Meridian / Defender / 20,000"
+                "acquisitionText": "Steel Meridian / Defender / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Steel Meridian",
+                    "requirement": "Defender Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Agkuza",
@@ -43,12 +61,24 @@
             {
                 "count": 1,
                 "partName": "Blade",
-                "acquisitionText": "Perrin Sequence / Executive / 20,000"
+                "acquisitionText": "Perrin Sequence / Executive / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Perrin Sequence",
+                    "requirement": "Executive Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Handle",
-                "acquisitionText": "New Loka / Benevolent / 20,000"
+                "acquisitionText": "New Loka / Benevolent / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "New Loka",
+                    "requirement": "Benevolent Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
@@ -78,12 +108,24 @@
             {
                 "count": 1,
                 "partName": "Blade",
-                "acquisitionText": "Perrin Sequence / Executive / 20,000"
+                "acquisitionText": "Perrin Sequence / Executive / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Perrin Sequence",
+                    "requirement": "Executive Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Handle",
-                "acquisitionText": "New Loka / Benevolent / 20,000"
+                "acquisitionText": "New Loka / Benevolent / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "New Loka",
+                    "requirement": "Benevolent Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Kaszas",
@@ -91,6 +133,11 @@
     },
     {
         "acquisitionText": "Chem Lab + Market",
+        "acquisition": {
+            "type": "Dojo",
+            "subtype": "Chem Lab",
+            "cost": 25000
+        },
         "credits": 25000,
         "currency": [],
         "resources": [
@@ -111,7 +158,12 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Chem Lab / 15,000"
+                "acquisitionText": "Chem Lab / 15,000",
+                "acquisition": {
+                    "type": "Dojo",
+                    "subtype": "Chem Lab",
+                    "cost": 15000
+                }
             },
             {
                 "count": 1,
@@ -141,12 +193,24 @@
             {
                 "count": 2,
                 "partName": "Blade",
-                "acquisitionText": "New Loka / Bountiful / 20,000"
+                "acquisitionText": "New Loka / Bountiful / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "New Loka",
+                    "requirement": "Bountiful Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Handle",
-                "acquisitionText": "Perrin Sequence / Senior Associate / 20,000"
+                "acquisitionText": "Perrin Sequence / Senior Associate / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Perrin Sequence",
+                    "requirement": "Senior Associate Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Onorix",
@@ -189,12 +253,24 @@
             {
                 "count": 1,
                 "partName": "Blade",
-                "acquisitionText": "New Loka / Bountiful / 20,000"
+                "acquisitionText": "New Loka / Bountiful / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "New Loka",
+                    "requirement": "Bountiful Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Handle",
-                "acquisitionText": "Red Veil / Honored / 20,000"
+                "acquisitionText": "Red Veil / Honored / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Red Veil",
+                    "requirement": "Honored Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Rathbone",

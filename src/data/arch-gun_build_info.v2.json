@@ -13,22 +13,44 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Market / 35,000"
+                "acquisitionText": "Market / 35,000",
+                "acquisition": {
+                    "type": "market",
+                    "cost": 35000
+                }
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Arbiters of Hexis",
+                    "requirement": "Authentic Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisitionText": "Cephalon Suda / Intruiging / 20,000"
+                "acquisitionText": "Cephalon Suda / Intruiging / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Cephalon Suda",
+                    "requirement": "Intruiging Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisitionText": "Steel Meridian / Valiant / 20,000"
+                "acquisitionText": "Steel Meridian / Valiant / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Steel Meridian",
+                    "requirement": "Valiant Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Corvas",
@@ -48,22 +70,44 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Market / 35,000"
+                "acquisitionText": "Market / 35,000",
+                "acquisition": {
+                    "type": "market",
+                    "cost": 35000
+                }
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisitionText": "Arbiters of Hexis / Lawful / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Lawful / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Arbiters of Hexis",
+                    "requirement": "Lawful Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisitionText": "Cephalon Suda / Intelligent / 20,000"
+                "acquisitionText": "Cephalon Suda / Intelligent / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Cephalon Suda",
+                    "requirement": "Intelligent Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisitionText": "Perrin Sequence / Executive / 20,000"
+                "acquisitionText": "Perrin Sequence / Executive / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Perrin Sequence",
+                    "requirement": "Executive Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Cyngas",
@@ -83,17 +127,33 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Market / 35,000"
+                "acquisitionText": "Market / 35,000",
+                "acquisition": {
+                    "type": "market",
+                    "cost": 35000
+                }
             },
             {
                 "count": 2,
                 "partName": "Barrel",
-                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Arbiters of Hexis",
+                    "requirement": "Authentic Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 2,
                 "partName": "Receiver",
-                "acquisitionText": "Cephalon Suda / Intruiging / 20,000"
+                "acquisitionText": "Cephalon Suda / Intruiging / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Cephalon Suda",
+                    "requirement": "Intruiging Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Dual Decurion",
@@ -113,22 +173,45 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Tenno Lab / 15,000"
+                "acquisitionText": "Tenno Lab / 15,000",
+                "acquisition": {
+                    "type": "Dojo",
+                    "subtype": "Tenno Lab",
+                    "cost": 15000
+                }
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisitionText": "Cephalon Suda / Intelligent / 20,000"
+                "acquisitionText": "Cephalon Suda / Intelligent / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Cephalon Suda",
+                    "requirement": "Intelligent Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Limbs",
-                "acquisitionText": "Red Veil / Esteemed / 20,000"
+                "acquisitionText": "Red Veil / Esteemed / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Red Veil",
+                    "requirement": "Esteemed Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisitionText": "Steel Meridian / Defender / 20,000"
+                "acquisitionText": "Steel Meridian / Defender / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Steel Meridian",
+                    "requirement": "Defender Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Fluctus",
@@ -254,7 +337,12 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Tenno Lab"
+                "acquisitionText": "Tenno Lab",
+                "acquisition": {
+                    "type": "Dojo",
+                    "subtype": "Tenno Lab",
+                    "cost": 15000
+                }
             }
         ],
         "weaponName": "Larkspur",
@@ -274,22 +362,44 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Market / 35,000"
+                "acquisitionText": "Market / 35,000",
+                "acquisition": {
+                    "type": "market",
+                    "cost": 35000
+                }
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000"
+                "acquisitionText": "Arbiters of Hexis / Authentic / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Arbiters of Hexis",
+                    "requirement": "Authentic Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisitionText": "Perrin Sequence / Senior Associate / 20,000"
+                "acquisitionText": "Perrin Sequence / Senior Associate / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Perrin Sequence",
+                    "requirement": "Senior Associate Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisitionText": "New Loka / Bountiful / 20,000"
+                "acquisitionText": "New Loka / Bountiful / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "New Loka",
+                    "requirement": "Bountiful Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Phaedra",
@@ -309,22 +419,45 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Tenno Lab / 15,000"
+                "acquisitionText": "Tenno Lab / 15,000",
+                "acquisition": {
+                    "type": "Dojo",
+                    "subtype": "Tenno Lab",
+                    "cost": 15000
+                }
             },
             {
                 "count": 1,
                 "partName": "Barrel",
-                "acquisitionText": "Cephalon Suda / Intruiging / 20,000"
+                "acquisitionText": "Cephalon Suda / Intruiging / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Cephalon Suda",
+                    "requirement": "Intruiging Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Receiver",
-                "acquisitionText": "Steel Meridian / Valiant / 20,000"
+                "acquisitionText": "Steel Meridian / Valiant / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Steel Meridian",
+                    "requirement": "Valiant Rank",
+                    "cost": 20000
+                }
             },
             {
                 "count": 1,
                 "partName": "Stock",
-                "acquisitionText": "Red Veil / Honored / 20,000"
+                "acquisitionText": "Red Veil / Honored / 20,000",
+                "acquisition": {
+                    "type": "syndicate",
+                    "subtype": "Red Veil",
+                    "requirement": "Honored Rank",
+                    "cost": 20000
+                }
             }
         ],
         "weaponName": "Velocitus",

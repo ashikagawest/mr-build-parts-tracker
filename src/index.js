@@ -9,6 +9,8 @@ import DropDataTransform from './transforms/DropDataTransform.js';
 import FarmingStore from './store/FarmingStore.js';
 import FarmingInfoViewer from './components/FarmingInfoViewer.js';
 import FarmingInfoByDropViewer from './components/FarmingInfoByDropViewer.js';
+import PartsByAcquisitionView from './components/PartsByAcquisitionView.js';
+
 import './index.css';
 import './App.css';
 import * as serviceWorker from './serviceWorker';
@@ -55,10 +57,18 @@ archwingMeleeWeapons.sort(
 // Drop view:
 //  Axi R2 Relic  |  Redeemer Prime Handle (10%)  |  Lex Prime Receiver (25.33%) | ...
 
+var allItemsArray = [];
+Array.prototype.push.apply(allItemsArray, primaryWeapons);
+Array.prototype.push.apply(allItemsArray, secondaryWeapons);
+Array.prototype.push.apply(allItemsArray, meleeWeapons);
+Array.prototype.push.apply(allItemsArray, archGunWeapons);
+Array.prototype.push.apply(allItemsArray, archwingMeleeWeapons);
+
 ReactDOM.render(
         <Tabs style={{position: "fixed", top: 0, height: "100%", width: "100%"}}>
             <TabList>
                 <Tab>Weapon Lists</Tab>
+                <Tab>By Acquisition Type</Tab>
                 <Tab>Farming: Drops by Weapon</Tab>
                 <Tab>Farming: Drops by Source</Tab>
             </TabList>
@@ -70,6 +80,12 @@ ReactDOM.render(
                     <WeaponListTracker weaponType="MELEE" keyPrefix="melee-weapon-" weaponInfo={meleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
                     <WeaponListTracker weaponType="ARCHWING GUNS" keyPrefix="archwing-gun-weapon-" weaponInfo={archGunWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
                     <WeaponListTracker weaponType="ARCHWING MELEE" keyPrefix="archwing-melee-weapon-" weaponInfo={archwingMeleeWeapons} dropTableMap={dropTableMap}  farmingStore={farmingStore}/>
+                    <div style={{height: "110px"}}/>
+                </div>
+            </TabPanel>
+            <TabPanel style={{height: "100%", width: "100%"}}>
+                <div style={{position: "relative", top: 0, left: 0, right: 0, bottom: 0, overflow: "scroll", maxHeight: "100%"}}>
+                    <PartsByAcquisitionView itemInfoArray={allItemsArray} />
                     <div style={{height: "110px"}}/>
                 </div>
             </TabPanel>
