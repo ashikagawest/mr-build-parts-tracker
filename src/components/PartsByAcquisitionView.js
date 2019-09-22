@@ -19,8 +19,8 @@ export default class PartsByAcquisitionView extends React.Component {
         //      ...
         return (
             <div>
-                <AcquisitionTypeSubview itemInfoArray={this.props.itemInfoArray} acquisitionType="dojo"/>
-                <AcquisitionTypeSubview itemInfoArray={this.props.itemInfoArray} acquisitionType="syndicate"/>
+                <AcquisitionTypeSubview itemInfoArray={this.props.itemInfoArray} applicationStateTracker={this.props.applicationStateTracker} acquisitionType="dojo"/>
+                <AcquisitionTypeSubview itemInfoArray={this.props.itemInfoArray} applicationStateTracker={this.props.applicationStateTracker} acquisitionType="syndicate"/>
             </div>
         )
         ;

@@ -11,16 +11,21 @@ export default class AcquisitionTypeSubview extends React.Component {
         this.state = {};
 
         this.renderOneItem = this.renderOneItem.bind(this);
+        this.determineItemCompletionClass = this.determineItemCompletionClass.bind(this);
         this.renderOneItemPart = this.renderOneItemPart.bind(this);
+        this.determinePrtCompletionClass = this.determinePartCompletionClass.bind(this);
         this.renderMatchingItemParts = this.renderMatchingItemParts.bind(this);
         this.itemAcquisitionTypeMatches = this.itemAcquisitionTypeMatches.bind(this);
         this.itemPartAcquisitionTypeMatches = this.itemPartAcquisitionTypeMatches.bind(this);
     }
 
     renderOneItem(item) {
+        var itemState = this.props.applicationStateTracker.getItemState(item.weaponName);
+        var completionClass = this.determineItemCompletionClass(item);
+
         return (
             <tr key={item.weaponName}>
-                <td>{item.weaponName}</td>
+                <td className={completionClass}>{item.weaponName}</td>
                 <td>{item.acquisition.subtype}</td>
                 <td>{item.acquisition.requirement}</td>
                 <td>{item.acquisition.cost}</td>
@@ -29,18 +34,40 @@ export default class AcquisitionTypeSubview extends React.Component {
         ;
     }
 
+    determineItemCompletionClass(item) {
+        var itemState = this.props.applicationStateTracker.getItemState(item.weaponName);
+
+        if (itemState.getNumBuilt()) {
+            return "completed-item";
+        }
+
+        return "incomplete-item";
+    }
+
     renderOneItemPart(item, itemPart) {
         var fullName = item.weaponName + " " + itemPart.partName;
+        var partCompletionState = this.determinePartCompletionClass(item, itemPart);
 
         return (
             <tr key={fullName}>
-                <td>{fullName}</td>
+                <td className={partCompletionState}>{fullName}</td>
                 <td>{itemPart.acquisition.subtype}</td>
                 <td>{itemPart.acquisition.requirement}</td>
                 <td>{itemPart.acquisition.cost}</td>
             </tr>
         )
         ;
+    }
+
+    determinePartCompletionClass(item, itemPart) {
+        // var completionClass = "item-state-" + this.state.curState;
+        var partState = this.props.applicationStateTracker.getPartState(item.weaponName, itemPart.partName);
+
+        if (partState) {
+            var triState = partState.convertToOldTriState();
+        }
+
+        return "item-state-" + triState;
     }
 
     renderMatchingItemParts(itemPartRows, item) {

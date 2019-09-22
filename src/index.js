@@ -4,9 +4,12 @@ import ReactDOM from 'react-dom';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import "react-tabs/style/react-tabs.css";
 
-import WeaponListTracker from './components/WeaponListTracker.js';
 import DropDataTransform from './transforms/DropDataTransform.js';
+
 import FarmingStore from './store/FarmingStore.js';
+import ApplicationStateTracker from './store/ApplicationStateTracker.js';
+
+import WeaponListTracker from './components/WeaponListTracker.js';
 import FarmingInfoViewer from './components/FarmingInfoViewer.js';
 import FarmingInfoByDropViewer from './components/FarmingInfoByDropViewer.js';
 import PartsByAcquisitionView from './components/PartsByAcquisitionView.js';
@@ -25,6 +28,7 @@ const dropTableSnapshot = require('./data/drop-data-snapshot_2019-09-03.json');
 var transform = new DropDataTransform();
 var dropTableMap = transform.transform(dropTableSnapshot);
 var farmingStore = new FarmingStore();
+var applicationStateTracker = new ApplicationStateTracker();
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
@@ -85,7 +89,7 @@ ReactDOM.render(
             </TabPanel>
             <TabPanel style={{height: "100%", width: "100%"}}>
                 <div style={{position: "relative", top: 0, left: 0, right: 0, bottom: 0, overflow: "scroll", maxHeight: "100%"}}>
-                    <PartsByAcquisitionView itemInfoArray={allItemsArray} />
+                    <PartsByAcquisitionView itemInfoArray={allItemsArray} applicationStateTracker={applicationStateTracker}/>
                     <div style={{height: "110px"}}/>
                 </div>
             </TabPanel>
