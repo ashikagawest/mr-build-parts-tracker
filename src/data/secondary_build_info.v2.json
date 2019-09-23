@@ -45,7 +45,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -76,7 +76,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -103,7 +103,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -146,7 +146,7 @@
         "weaponType": "Dual"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -216,15 +216,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -247,7 +256,10 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -378,7 +390,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -428,11 +440,19 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Grustrag Three"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Grustrag Three"
+                }
             }
         ],
         "resources": [],
@@ -462,7 +482,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -563,7 +583,16 @@
         "acquisitionText": "drops from Stalker",
         "credits": 15000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Stalker"
+                }
+            }
+        ],
         "resources": [
             {
                 "count": 10,
@@ -588,14 +617,35 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Zanuka Hunter"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Zanuka Hunter"
+                }
+            },
+            {
+                "count": 1,
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Zanuka Hunter"
+                }
             }
         ],
-        "resources": [],
+        "resources": [
+            {
+                "count": 10,
+                "partName": "Orokin cell"
+            }
+        ],
         "weaponName": "Detron",
         "weaponType": "Shotgun"
     },
@@ -687,15 +737,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -797,15 +856,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Pouch"
+                "partName": "Pouch",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Stars"
+                "partName": "Stars",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -989,7 +1057,7 @@
         "weaponType": "Single"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1271,7 +1339,7 @@
         "weaponType": "Shotgun"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1364,11 +1432,19 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Captain Vor (Mercury)"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Captain Vor (Mercury)"
+                }
             }
         ],
         "resources": [],
@@ -1390,15 +1466,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1483,15 +1568,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Pouch"
+                "partName": "Pouch",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1529,7 +1623,16 @@
         "acquisitionText": "drops from Ghouls (Plains of Eidolon); Ghoul Purge b",
         "credits": 20000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Ghouls"
+                }
+            }
+        ],
         "resources": [
             {
                 "count": 45,
@@ -1641,7 +1744,16 @@
         "acquisitionText": "drops from Lech Kril + Captain Vor (Ceres)",
         "credits": 25000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Lech Kril + Captain Vor (Ceres)"
+                }
+            }
+        ],
         "resources": [
             {
                 "count": 5,
@@ -1663,7 +1775,16 @@
         "acquisitionText": "drops from Kela De Thaym (Sedna)",
         "credits": 20000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Lech Kril + Captain Vor (Ceres)"
+                }
+            }
+        ],
         "resources": [],
         "weaponName": "Twin Kohmak",
         "weaponType": "Dual"
@@ -1768,15 +1889,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],

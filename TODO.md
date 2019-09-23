@@ -32,7 +32,8 @@
 * [ ] Display Acquisition Locations / Farming
   * [ ] Include data from https://drops.warframestat.us/data/all.json (https://github.com/WFCD/warframe-drop-data)
   * [x] Fallback to drop-data-snapshot_2019-08.json when warframestat.us is unreachable
-* [ ] Display items by "where to get" (Market, Enemy Drop, Relic, etc) (IN PROGRESS)
+* [x] Display items by "where to get" (Market, Enemy Drop, Relic, etc)
 * [ ] Convert all state handling over to the new ApplicationStateTracker
 * [ ] Enable state changes on clicking items/parts in "Acquisition Type" view
-* [ ] Show/Hide Completed on the "Acqusition Type" view
+* [x] Show/Hide Completed on the "Acqusition Type" view
+* [ ] Find missing data and fill in (e.g. "acquisition", "parts", ...)

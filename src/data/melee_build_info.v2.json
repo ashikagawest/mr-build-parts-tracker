@@ -104,15 +104,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Gauntlet"
+                "partName": "Gauntlet",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -192,15 +201,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Ornament"
+                "partName": "Ornament",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Handle"
+                "partName": "Handle",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -232,17 +250,29 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Quest: Second Dream; Enemy: Stalker"
+                "acquisitionText": "Quest: Second Dream; Enemy: Stalker",
+                "acquisition": {
+                    "type": "quest",
+                    "subtype": "Second Dream"
+                }
             },
             {
                 "count": 1,
                 "partName": "Hilt",
-                "acquisitionText": "Enemy: Conculyst"
+                "acquisitionText": "Enemy: Conculyst",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Conculyst"
+                }
             },
             {
                 "count": 2,
                 "partName": "Blade",
-                "acquisitionText": "Enemy: Conculyst"
+                "acquisitionText": "Enemy: Conculyst",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Conculyst"
+                }
             }
         ],
         "resources": [
@@ -387,7 +417,16 @@
         "acquisitionText": "drops from Captain Vor (Mercury)",
         "credits": 15000,
         "currency": [],
-        "parts": [],
+        "parts": [
+            {
+                "count": 1,
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Captain Vor (Mercury)"
+                }
+            }
+        ],
         "resources": [
             {
                 "count": 1,
@@ -408,15 +447,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Handle"
+                "partName": "Handle",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -513,7 +561,7 @@
         "weaponType": "Rapier"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -669,11 +717,17 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -912,7 +966,7 @@
         "weaponType": "Dual Daggers"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -958,15 +1012,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Head"
+                "partName": "Head",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Handle"
+                "partName": "Handle",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1038,15 +1101,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Handle"
+                "partName": "Handle",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1131,15 +1203,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Disc"
+                "partName": "Disc",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1169,7 +1250,7 @@
         "weaponType": "Heavy Blade"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1566,7 +1647,7 @@
         "weaponType": "Sparring"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1681,7 +1762,7 @@
         "weaponType": "Tonfa"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -1920,7 +2001,7 @@
         "weaponType": "Dual Swords"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1997,15 +2078,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Hilt"
+                "partName": "Hilt",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2128,7 +2218,7 @@
         "weaponType": "Polearm"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2157,17 +2247,29 @@
             {
                 "count": 1,
                 "partName": "Blueprint",
-                "acquisitionText": "Quest: The War Within"
+                "acquisitionText": "Quest: The War Within",
+                "acquisition": {
+                    "type": "quest",
+                    "subtype": "The War Within"
+                }
             },
             {
                 "count": 2,
                 "partName": "Blade",
-                "acquisitionText": "Enemy: Kuva Guardian"
+                "acquisitionText": "Enemy: Kuva Guardian",
+                "acquisition": {
+                    "type": "drop",
+                    "subtype": "Kuva Guardian"
+                }
             },
             {
                 "count": 1,
                 "partName": "Disc",
-                "acquisitionText": "Enemy: Kuva Jester"
+                "acquisitionText": "Enemy: Kuva Jester",
+                "acquisition": {
+                   "type": "drop",
+                   "subtype": "Kuva Jester"
+                }
             }
         ],
         "resources": [
@@ -2378,15 +2480,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Handle"
+                "partName": "Handle",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2403,7 +2514,7 @@
         "weaponType": "Gunblade"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -2504,15 +2615,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Handle"
+                "partName": "Handle",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2693,19 +2813,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Hilt"
+                "partName": "Hilt",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Guard"
+                "partName": "Guard",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2872,7 +3004,7 @@
         "weaponType": "Staff"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -3005,15 +3137,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Blade"
+                "partName": "Blade",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 2,
-                "partName": "Gauntlet"
+                "partName": "Gauntlet",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],

@@ -272,19 +272,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -300,25 +312,37 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -332,15 +356,24 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -370,25 +403,37 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -451,23 +496,38 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Grip"
+                "partName": "Grip",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "String"
+                "partName": "String",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Lower Limb"
+                "partName": "Lower Limb",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Upper Limb"
+                "partName": "Upper Limb",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -584,11 +644,17 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1104,19 +1170,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1419,7 +1497,7 @@
         "weaponType": "Bow"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1672,7 +1750,7 @@
         "weaponType": "Sniper"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 15000,
         "currency": [],
         "parts": [
@@ -1880,19 +1958,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -1922,7 +2012,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -2048,19 +2138,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2194,7 +2296,7 @@
         "weaponType": "Rifle"
     },
     {
-        "acquisitionText": "Void relic",
+        "acquisitionText": "Relic",
         "credits": 20000,
         "currency": [],
         "parts": [
@@ -2248,19 +2350,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2364,19 +2478,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],
@@ -2506,23 +2632,38 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Grip"
+                "partName": "Grip",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "String"
+                "partName": "String",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "weaponName": "Zhuge Prime",
