@@ -212,19 +212,31 @@
         "parts": [
             {
                 "count": 1,
-                "partName": "Blueprint"
+                "partName": "Blueprint",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Barrel"
+                "partName": "Barrel",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Receiver"
+                "partName": "Receiver",
+                "acquisition": {
+                    "type": "Relic"
+                }
             },
             {
                 "count": 1,
-                "partName": "Stock"
+                "partName": "Stock",
+                "acquisition": {
+                    "type": "Relic"
+                }
             }
         ],
         "resources": [],

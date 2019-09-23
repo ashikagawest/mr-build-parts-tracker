@@ -8,7 +8,9 @@ export default class AcquisitionTypeSubview extends React.Component {
     constructor(props) {
         super(props);
 
-        this.state = {};
+        this.state = {
+            hideCompleted: false
+        };
 
         this.renderOneItem = this.renderOneItem.bind(this);
         this.determineItemCompletionClass = this.determineItemCompletionClass.bind(this);
@@ -17,6 +19,8 @@ export default class AcquisitionTypeSubview extends React.Component {
         this.renderMatchingItemParts = this.renderMatchingItemParts.bind(this);
         this.itemAcquisitionTypeMatches = this.itemAcquisitionTypeMatches.bind(this);
         this.itemPartAcquisitionTypeMatches = this.itemPartAcquisitionTypeMatches.bind(this);
+        this.onShowHideCompletedUpdate = this.onShowHideCompletedUpdate.bind(this);
+        this.shouldShowItem = this.shouldShowItem.bind(this);
     }
 
     renderOneItem(item) {
@@ -72,13 +76,9 @@ export default class AcquisitionTypeSubview extends React.Component {
 
     renderMatchingItemParts(itemPartRows, item) {
         if (("parts" in item) && (item.parts.length > 0)) {
-            var theParts = item.parts
-                 .filter((itemPart) => this.itemPartAcquisitionTypeMatches(itemPart))
-                //.filter((itemPart) => true)
-                ;
-
             var renderedParts = item.parts
                 .filter((itemPart) => this.itemPartAcquisitionTypeMatches(itemPart))
+                .filter((itemPart) => this.shouldShowPart(item, itemPart))
                 .map((itemPart) => this.renderOneItemPart(item, itemPart));
 
             itemPartRows = Array.prototype.push.apply(itemPartRows, renderedParts);
@@ -109,15 +109,62 @@ export default class AcquisitionTypeSubview extends React.Component {
         return false;
     }
 
+    onShowHideCompletedUpdate(event) {
+        var hideCompleted = ! ( this.state.hideCompleted );
+        this.setState({hideCompleted: hideCompleted});
+    }
+
+    shouldShowItem(item) {
+        var show = true;
+
+        if (this.state.hideCompleted) {
+            var itemState = this.props.applicationStateTracker.getItemState(item.weaponName);
+            if (itemState) {
+                if (itemState.isItemCompleted()) {
+                    show = false;
+                }
+            }
+
+        }
+
+        return show;
+    }
+
+    shouldShowPart(item, itemPart) {
+        var show = true;
+
+        if (this.state.hideCompleted) {
+            var partState = this.props.applicationStateTracker.getPartState(item.weaponName, itemPart.partName);
+            if (partState) {
+                if (partState.isPartCompleted()) {
+                    show = false;
+                }
+            }
+
+        }
+
+        return show;
+    }
+
     render() {
-        var itemRows = this.props.itemInfoArray.filter((item) => this.itemAcquisitionTypeMatches(item)).map(this.renderOneItem);
+        var itemRows = this.props.itemInfoArray
+            .filter((item) => this.itemAcquisitionTypeMatches(item))
+            .filter((item) => this.shouldShowItem(item))
+            .map(this.renderOneItem);
+
         var itemPartRows = [];
         this.props.itemInfoArray.map((item) => { this.renderMatchingItemParts(itemPartRows, item); });
         var title = this.props.acquisitionType.toUpperCase();
 
+        var showHideButtonText = "HIDE COMPLETED";
+        if (this.state.hideCompleted) {
+            showHideButtonText = "SHOW COMPLETED";
+        }
+
         return (
             <div style={{display: "inline-block", marginLeft: "3px", marginRight: "3px", marginBottom: "1em", border: "1px solid grey"}}>
-            <div className="heading">{title}</div>
+                <div className="heading">{title}</div>
+                <button className="showHideButton" onClick={this.onShowHideCompletedUpdate}>{showHideButtonText}</button>
                 <table>
                     <thead>
                         <tr>

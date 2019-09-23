@@ -21,4 +21,8 @@ export default class ItemState {
     setNumWanted(newNumWanted) {
         this.state.numWanted = newNumWanted;
     }
+
+    isItemCompleted() {
+        return (this.state.numBuilt >= this.state.numWanted);
+    }
 }

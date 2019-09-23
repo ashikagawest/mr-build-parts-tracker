@@ -9,6 +9,7 @@ export default class PartState {
         this.getNumWanted = this.getNumWanted.bind(this);
         this.setNumBuilt = this.setNumBuilt.bind(this);
         this.setNumWanted = this.setNumWanted.bind(this);
+        this.isPartCompleted = this.isPartCompleted.bind(this);
         this.convertToOldTriState = this.convertToOldTriState.bind(this);
     }
 
@@ -26,6 +27,10 @@ export default class PartState {
 
     setNumWanted(newNumWanted) {
         this.state.numWanted = newNumWanted;
+    }
+
+    isPartCompleted() {
+        return (this.state.numBuilt >= this.state.numWanted);
     }
 
     convertToOldTriState() {
