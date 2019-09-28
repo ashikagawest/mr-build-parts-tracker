@@ -26,10 +26,14 @@ class WeaponPartTracker extends React.Component {
         var partStgKey = this.formatPartLocalStorageKey();
 
         var partNameText;
-        if (this.props.partCount) {
+        if ((this.props.partCount) && (!this.props.hideCount)) {
             partNameText = this.props.partCount + " " + this.props.partName;
         } else {
             partNameText = this.props.partName;
+        }
+
+        if (this.props.displayItemNamePrefix) {
+            partNameText = this.props.weaponInfo.weaponName + " " + partNameText;
         }
 
         var acquisitionText = "";

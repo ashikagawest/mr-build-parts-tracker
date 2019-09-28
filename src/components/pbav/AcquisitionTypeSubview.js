@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import WeaponPartTracker from '../WeaponPartTracker.js';
+
 /**
  * View of items categorized by the type of acquisition.
  */
@@ -66,8 +68,13 @@ export default class AcquisitionTypeSubview extends React.Component {
         var partCompletionState = this.determinePartCompletionClass(item, itemPart);
 
         return (
-            <tr key={fullName}>
-                <td className={partCompletionState}>{fullName}</td>
+            <tr key={`part-key-${fullName}`}>
+                <WeaponPartTracker className={"part-weaponPart"} weaponInfo={item}
+                                       partCount={itemPart.count} partName={itemPart.partName}
+                                       partAcquisition={itemPart.acquisitionText}
+                                       hideCount={true}
+                                       displayItemNamePrefix={true}
+                                       onPartStateUpdate={undefined}/>
                 <td>{itemPart.acquisition.subtype}</td>
                 <td>{itemPart.acquisition.requirement}</td>
                 <td>{itemPart.acquisition.cost}</td>
@@ -94,6 +101,7 @@ export default class AcquisitionTypeSubview extends React.Component {
                 .filter((itemPart) => this.shouldShowPart(item, itemPart))
                 .map((itemPart) => this.renderOneItemPart(item, itemPart));
 
+            //itemPartRows = [...itemPartRows, ...renderedParts];
             itemPartRows = Array.prototype.push.apply(itemPartRows, renderedParts);
         }
     }
