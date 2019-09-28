@@ -4,6 +4,7 @@ import { Transition } from 'react-transition-group';
 
 import ClickableItemCell from './ClickableItemCell.js';
 import WeaponPartTracker from './WeaponPartTracker.js';
+import WeaponTrackerCell from './WeaponTrackerCell.js';
 
 class WeaponTracker extends React.Component {
     constructor(props) {
@@ -117,8 +118,7 @@ class WeaponTracker extends React.Component {
             <Transition in={visible} timeout={300} unmountOnExit={true}>
                 {transitionState => (
                     <tr className={"weapon-row weapon-row-" + transitionState}>
-                        <ClickableItemCell storageKey={storageKey} text={this.props.weaponInfo.weaponName}
-                                           onCheckedUpdate={this.onCheckedUpdate}/>
+                        <WeaponTrackerCell weaponInfo={this.props.weaponInfo} onCheckedUpdate={this.onCheckedUpdate}/>
                         <td className={completionClass}>
                         <span>
                             {this.props.weaponInfo.acquisitionText}

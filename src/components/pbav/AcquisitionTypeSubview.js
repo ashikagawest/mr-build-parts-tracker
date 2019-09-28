@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import WeaponPartTracker from '../WeaponPartTracker.js';
+import WeaponTrackerCell from '../WeaponTrackerCell.js';
 
 /**
  * View of items categorized by the type of acquisition.
@@ -44,7 +45,7 @@ export default class AcquisitionTypeSubview extends React.Component {
 
         return (
             <tr key={item.weaponName}>
-                <td className={completionClass}>{item.weaponName}</td>
+                <WeaponTrackerCell weaponInfo={item} onCheckedUpdate={undefined}/>
                 <td>{item.acquisition.subtype}</td>
                 <td>{item.acquisition.requirement}</td>
                 <td>{item.acquisition.cost}</td>

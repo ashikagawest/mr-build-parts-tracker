@@ -34,6 +34,6 @@
   * [x] Fallback to drop-data-snapshot_2019-08.json when warframestat.us is unreachable
 * [x] Display items by "where to get" (Market, Enemy Drop, Relic, etc)
 * [ ] Convert all state handling over to the new ApplicationStateTracker
-* [ ] Enable state changes on clicking items/parts in "Acquisition Type" view
+* [x] Enable state changes on clicking items/parts in "Acquisition Type" view
 * [x] Show/Hide Completed on the "Acqusition Type" view
 * [ ] Find missing data and fill in (e.g. "acquisition", "parts", ...)
