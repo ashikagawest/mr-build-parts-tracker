@@ -21,6 +21,19 @@ export default class AcquisitionTypeSubview extends React.Component {
         this.itemPartAcquisitionTypeMatches = this.itemPartAcquisitionTypeMatches.bind(this);
         this.onShowHideCompletedUpdate = this.onShowHideCompletedUpdate.bind(this);
         this.shouldShowItem = this.shouldShowItem.bind(this);
+        this.formatStorageKey = this.formatStorageKey.bind(this);
+    }
+
+    formatStorageKey(subkey) {
+        return "mr-build-parts/" + this.props.acquisitionType.toUpperCase() + "/" + subkey;
+    }
+
+    componentDidMount() {
+        var hideCompletedStgKey = this.formatStorageKey("ui-hide-completed");
+        var savedHideCompleted = localStorage.getItem(hideCompletedStgKey);
+        if ((savedHideCompleted) && (JSON.parse(savedHideCompleted))) {
+            this.setState({ hideCompleted: true });
+        }
     }
 
     renderOneItem(item) {
@@ -111,6 +124,10 @@ export default class AcquisitionTypeSubview extends React.Component {
 
     onShowHideCompletedUpdate(event) {
         var hideCompleted = ! ( this.state.hideCompleted );
+
+        var hideCompletedStgKey = this.formatStorageKey("ui-hide-completed");
+        localStorage.setItem(hideCompletedStgKey, JSON.stringify(hideCompleted));
+
         this.setState({hideCompleted: hideCompleted});
     }
 
